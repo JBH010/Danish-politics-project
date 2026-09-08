@@ -1,0 +1,3403 @@
+aktørid,aktør_navn,aktør_fornavn,aktør_efternavn,aktør_typeid
+5,Frank Aaen,Frank,Aaen,5
+12,Nicolai Wammen,Nicolai,Wammen,5
+13,Sara Olsvig,Sara,Olsvig,5
+17,Christine Antorini,Christine,Antorini,5
+18,Alex Ahrendtsen,Alex,Ahrendtsen,5
+23,Bjarne Corydon,Bjarne,Corydon,5
+24,Karsten Lauritzen,Karsten,Lauritzen,5
+28,Henrik Sass Larsen,Henrik Sass,Larsen,5
+33,Holger K. Nielsen,Holger K.,Nielsen,5
+34,Søren Espersen,Søren,Espersen,5
+38,Astrid Krag,Astrid,Krag,5
+39,Christian Juhl,Christian,Juhl,5
+43,Pia Olsen Dyhr,Pia Olsen,Dyhr,5
+44,Henning Hyllested,Henning,Hyllested,5
+47,Karen Hækkerup,Karen,Hækkerup,5
+48,Peter Skaarup,Peter,Skaarup,5
+49,Erling Bonnesen,Erling,Bonnesen,5
+50,Liselott Blixt,Liselott,Blixt,5
+55,Marianne Jelved,Marianne,Jelved,5
+56,Karin Nødgaard,Karin,Nødgaard,5
+57,Jakob Engel-Schmidt,Jakob,Engel-Schmidt,5
+59,Rasmus Helveg Petersen,Rasmus Helveg,Petersen,5
+62,Annette Vilhelmsen,Annette,Vilhelmsen,5
+64,Flemming Damgaard Larsen,Flemming Damgaard,Larsen,5
+67,Nick Hækkerup,Nick,Hækkerup,5
+68,Nikolaj Villumsen,Nikolaj,Villumsen,5
+69,Pernille Skipper,Pernille,Skipper,5
+70,Martin Henriksen (udpeget af DF),Martin,Henriksen (udpeget af DF),5
+71,Tom Behnke,Tom,Behnke,5
+72,Karen Ellemann,Karen,Ellemann,5
+73,Merete Riisager,Merete,Riisager,5
+74,Mette Reissmann,Mette,Reissmann,5
+75,Jeppe Mikkelsen,Jeppe,Mikkelsen,5
+77,Kristian Thulesen Dahl,Kristian Thulesen,Dahl,5
+78,Marie Krarup,Marie,Krarup,5
+79,Christian Langballe (udpeget af DF),Christian,Langballe (udpeget af DF),5
+80,Torsten Schack Pedersen,Torsten Schack,Pedersen,5
+81,Mads Rørvig,Mads,Rørvig,5
+82,Hans Kristian Skibby,Hans Kristian,Skibby,5
+83,Brian Mikkelsen,Brian,Mikkelsen,5
+84,Troels Ravn,Troels,Ravn,5
+85,Özlem Sara Cekic,Özlem Sara,Cekic,5
+86,Marlene Borst Hansen,Marlene Borst,Hansen,5
+87,Finn Sørensen,Finn,Sørensen,5
+88,Martin Geertsen,Martin,Geertsen,5
+92,Carsten Hansen,Carsten,Hansen,5
+93,Louise Elholm,Louise,Elholm,5
+94,Peter Christensen,Peter,Christensen,5
+95,Steen Gade,Steen,Gade,5
+96,Mike Legarth,Mike,Legarth,5
+97,Jesper Petersen,Jesper,Petersen,5
+98,René Christensen,René,Christensen,5
+99,Ole Birk Olesen,Ole Birk,Olesen,5
+100,Sofie Carsten Nielsen,Sofie Carsten,Nielsen,5
+101,Morten Marinus,Morten,Marinus,5
+102,Jan E. Jørgensen,Jan E.,Jørgensen,5
+103,Anne Sina,Anne,Sina,5
+106,Margrethe Vestager,Margrethe,Vestager,5
+108,Charlotte Dyremose,Charlotte,Dyremose,5
+109,Trine Pertou Mach,Trine Pertou,Mach,5
+110,Rosa Lund,Rosa,Lund,5
+111,Joachim B. Olsen,Joachim B.,Olsen,5
+112,Lotte Rod,Lotte,Rod,5
+113,Jens Henrik Thulesen Dahl,Jens Henrik Thulesen,Dahl,5
+116,Morten Østergaard,Morten,Østergaard,5
+117,Simon Emil Ammitzbøll-Bille,Simon Emil,Ammitzbøll-Bille,5
+118,Trine Bramsen,Trine,Bramsen,5
+119,Dennis Flydtkjær,Dennis,Flydtkjær,5
+120,Benny Engelbrecht,Benny,Engelbrecht,5
+121,Karina Lorentzen Dehnhardt,Karina Lorentzen,Dehnhardt,5
+122,Stine Brix,Stine,Brix,5
+123,Andreas Steenberg,Andreas,Steenberg,5
+124,Kim Christiansen,Kim,Christiansen,5
+125,Hans Christian Schmidt,Hans Christian,Schmidt,5
+126,Kim Andersen (udpeget af V),Kim,Andersen (udpeget af V),5
+127,Preben Bang Henriksen,Preben Bang,Henriksen,5
+129,Bertel Haarder,Bertel,Haarder,5
+130,Sophie Løhde,Sophie,Løhde,5
+131,Lene Espersen,Lene,Espersen,5
+132,Søren Pind,Søren,Pind,5
+133,John Dyrby Paulsen,John Dyrby,Paulsen,5
+134,Christian Friis Bach,Christian Friis,Bach,5
+135,Mette Bock,Mette,Bock,5
+138,Mette Frederiksen,Mette,Frederiksen,5
+139,Thomas Danielsen,Thomas,Danielsen,5
+141,Martin Lidegaard,Martin,Lidegaard,5
+144,Helle Thorning-Schmidt,Helle,Thorning-Schmidt,5
+145,Lars Løkke Rasmussen,Lars Løkke,Rasmussen,5
+147,Johanne Schmidt-Nielsen,Johanne,Schmidt-Nielsen,5
+148,Anders Samuelsen,Anders,Samuelsen,5
+149,Lars Barfoed,Lars,Barfoed,5
+152,Ida Auken,Ida,Auken,5
+153,Per Stig Møller,Per Stig,Møller,5
+154,Mogens Jensen,Mogens,Jensen,5
+155,Villum Christensen,Villum,Christensen,5
+156,Lone Loklindt,Lone,Loklindt,5
+158,Eigil Andersen,Eigil,Andersen,5
+159,Lars Dohn,Lars,Dohn,5
+160,Jan Johansen,Jan,Johansen,5
+161,Liv Holm Andersen,Liv Holm,Andersen,5
+162,Karina Adsbøl,Karina,Adsbøl,5
+163,Ellen Trane Nørby,Ellen Trane,Nørby,5
+164,Hans Andersen,Hans,Andersen,5
+167,Dan Jørgensen,Dan,Jørgensen,5
+168,Anni Matthiesen,Anni,Matthiesen,5
+171,Per Clausen,Per,Clausen,5
+172,Pernille Rosenkrantz-Theil,Pernille,Rosenkrantz-Theil,5
+173,Jacob Jensen,Jacob,Jensen,5
+176,Søren Søndergaard,Søren,Søndergaard,5
+177,Rina Ronja Kari,Rina Ronja,Kari,5
+178,Michael Aastrup Jensen,Michael Aastrup,Jensen,5
+179,Hans Christian Thoning,Hans Christian,Thoning,5
+180,Peter Juel-Jensen,Peter,Juel-Jensen,5
+181,Annette Lind,Annette,Lind,5
+182,Inger Støjberg,Inger,Støjberg,5
+183,Bent Bøgsted,Bent,Bøgsted,5
+184,Lennart Damsbo-Andersen,Lennart,Damsbo-Andersen,5
+185,Nadeem Farooq,Nadeem,Farooq,5
+187,Julie Skovsby,Julie,Skovsby,5
+188,Sanne Rubinke,Sanne,Rubinke,5
+189,Mai Mercado,Mai,Mercado,5
+190,Thyra Frank,Thyra,Frank,5
+191,Zenia Stampe,Zenia,Stampe,5
+192,Fatma Øktem,Fatma,Øktem,5
+193,Karsten Nonbo,Karsten,Nonbo,5
+194,Kristian Pihl Lorentzen,Kristian Pihl,Lorentzen,5
+195,Pernille Vigsø Bagge,Pernille Vigsø,Bagge,5
+197,Mette Gjerskov,Mette,Gjerskov,5
+198,Anne Baastrup,Anne,Baastrup,5
+199,Karsten Hønge,Karsten,Hønge,5
+200,Jane Heitmann,Jane,Heitmann,5
+201,Thomas Jensen,Thomas,Jensen,5
+202,Peder Christensen,Peder,Christensen,5
+205,Jonas Dahl,Jonas,Dahl,5
+206,Troels Lund Poulsen,Troels Lund,Poulsen,5
+207,Jakob Ellemann-Jensen,Jakob,Ellemann-Jensen,5
+208,Simon Kollerup,Simon,Kollerup,5
+209,Camilla Hersom,Camilla,Hersom,5
+210,Birgitte Josefsen,Birgitte,Josefsen,5
+211,Jørn Dohrmann,Jørn,Dohrmann,5
+212,Eyvind Vesselbo,Eyvind,Vesselbo,5
+213,Jens Joel,Jens,Joel,5
+214,Jeppe Bruus,Jeppe,Bruus,5
+215,Jørgen Arbo-Bæhr,Jørgen,Arbo-Bæhr,5
+216,Mikkel Dencker,Mikkel,Dencker,5
+217,Lars Christian Lilleholt,Lars Christian,Lilleholt,5
+219,Lisbeth Bech-Nielsen,Lisbeth,Bech-Nielsen,5
+220,Morten Bødskov,Morten,Bødskov,5
+221,Pia Adelsteen,Pia,Adelsteen,5
+223,Henrik Høegh,Henrik,Høegh,5
+224,Flemming Møller Mortensen,Flemming Møller,Mortensen,5
+225,Uffe Elbæk,Uffe,Elbæk,5
+226,Ole Sohn,Ole,Sohn,5
+231,Manu Sareen,Manu,Sareen,5
+234,Anders Fogh Rasmussen,Anders Fogh,Rasmussen,5
+235,Jeppe Kofod,Jeppe,Kofod,5
+238,Morten Messerschmidt,Morten,Messerschmidt,5
+239,Kirsten Hermansen,Kirsten,Hermansen,5
+240,Signe Draabe Bruunsgaard,Signe Draabe,Bruunsgaard,5
+241,Karen Munk Christensen,Karen Munk,Christensen,5
+242,Tina Grønlund,Tina,Grønlund,5
+244,Magnus Heunicke,Magnus,Heunicke,5
+245,Leif Mikkelsen,Leif,Mikkelsen,5
+246,Orla Hav,Orla,Hav,5
+247,Edmund Joensen,Edmund,Joensen,5
+249,Kirsten Brosbøl (udpeget af S),Kirsten,Brosbøl (udpeget af S),5
+252,Pia Kjærsgaard,Pia,Kjærsgaard,5
+257,Bjarne Laustsen,Bjarne,Laustsen,5
+258,Poul Andersen,Poul,Andersen,5
+259,Anne-Mette Winther Christiansen (udpeget af V),Anne-Mette Winther,Christiansen (udpeget af V),5
+260,Leif Lahn Jensen,Leif Lahn,Jensen,5
+261,Esben Lunde Larsen,Esben Lunde,Larsen,5
+262,Sjúrður Skaale,Sjúrður,Skaale,5
+263,Mette Hjermind Dencker,Mette Hjermind,Dencker,5
+264,Rasmus Prehn,Rasmus,Prehn,5
+265,Eva Kjer Hansen,Eva Kjer,Hansen,5
+266,Rasmus Horn Langhoff,Rasmus Horn,Langhoff,5
+268,Helle Løvgreen Mølvig,Helle Løvgreen,Mølvig,5
+270,Claus Hjort Frederiksen,Claus Hjort,Frederiksen,5
+271,Kristian Jensen,Kristian,Jensen,5
+272,Ole Hækkerup,Ole,Hækkerup,5
+273,Per Husted,Per,Husted,5
+274,Mette Hansen,Mette,Hansen,5
+275,Charlotte Friis,Charlotte,Friis,5
+276,Pernille Boye Koch,Pernille Boye,Koch,5
+277,Johan Lund Olsen,Johan Lund,Olsen,5
+278,Karin Gaardsted,Karin,Gaardsted,5
+279,Tina Nedergaard,Tina,Nedergaard,5
+280,Karen J. Klint,Karen J.,Klint,5
+281,Finn Thranum,Finn,Thranum,5
+282,Sanne Bjørn,Sanne,Bjørn,5
+286,Ane Halsboe-Jørgensen,Ane,Halsboe-Jørgensen,5
+288,Torben Hansen (udpeget af S),Torben,Hansen (udpeget af S),5
+294,Doris Jakobsen,Doris,Jakobsen,5
+296,Ulla Tørnæs,Ulla,Tørnæs,5
+297,Maja Panduro (udpeget af S),Maja,Panduro (udpeget af S),5
+301,Klaus Andersen,Klaus,Andersen,5
+302,Benedikte Kiær,Benedikte,Kiær,5
+303,Anita Christensen,Anita,Christensen,5
+304,Jacob Lund,Jacob,Lund,5
+305,Jens Ejner Christensen,Jens Ejner,Christensen,5
+343,Mie Bergmann,Mie,Bergmann,5
+344,Linda Kristiansen,Linda,Kristiansen,5
+348,Villy Søvndal,Villy,Søvndal,5
+350,Gitte Lillelund Bech,Gitte Lillelund,Bech,5
+351,Sophie Hæstorp Andersen,Sophie Hæstorp,Andersen,5
+352,Henrik Dam Kristensen,Henrik Dam,Kristensen,5
+353,Lykke Friis,Lykke,Friis,5
+354,Mette Boye,Mette,Boye,5
+361,Klaus Frandsen (udpeget af RV),Klaus,Frandsen (udpeget af RV),5
+362,Vivi Kier,Vivi,Kier,5
+363,Jacob Bjerregaard,Jacob,Bjerregaard,5
+364,Birthe Rønn Hornbech,Birthe Rønn,Hornbech,5
+365,Karen Jespersen,Karen,Jespersen,5
+366,Daniel Toft Jakobsen,Daniel Toft,Jakobsen,5
+367,Karen Touborg,Karen,Touborg,5
+370,Thomas Medom,Thomas,Medom,5
+371,Niels Christian Nielsen,Niels Christian,Nielsen,5
+376,Annika Smith,Annika,Smith,5
+378,Merete Dea Larsen,Merete Dea,Larsen,5
+379,Kristen Touborg,Kristen,Touborg,5
+380,Rasmus Lynghøj,Rasmus,Lynghøj,5
+384,Mogens Lykketoft,Mogens,Lykketoft,5
+385,Henrik Thorup (udpeget af DF),Henrik,Thorup (udpeget af DF),5
+386,Claus Larsen-Jensen (udpeget af),Claus,Larsen-Jensen (udpeget af),5
+387,Linda Kubasiak Johansen,Linda Kubasiak,Johansen,5
+389,Gro Iversen,Gro,Iversen,5
+390,Morten Villumsen,Morten,Villumsen,5
+391,Thomas Søndergaard Sarup,Thomas Søndergaard,Sarup,5
+392,Amalie Andresen,Amalie,Andresen,5
+393,Liza Christensen,Liza,Christensen,5
+401,Mikkel Rimsø Sørensen,Mikkel Rimsø,Sørensen,5
+402,Charlotte Schwaner,Charlotte,Schwaner,5
+403,Ane Elmose,Ane,Elmose,5
+570,Edith Holm,Edith,Holm,5
+631,Jan Rasmussen,Jan,Rasmussen,5
+632,Nadia Elmhøj Pedersen,Nadia Elmhøj,Pedersen,5
+634,Lone Clausen,Lone,Clausen,5
+635,Thomas Søndergaard Sarup,Thomas,Søndergaard Sarup,5
+636,Iben Tybjærg Schacke-Barfoed,Iben,Tybjærg Schacke-Barfoed,5
+637,Lotte Rickers Olesen,Lotte,Rickers Olesen,5
+638,Signe Riis Andersen,Signe Riis,Andersen,5
+639,Niels Yde,Niels,Yde,5
+640,Mette Nielsen,Mette,Nielsen,5
+641,Mia Dehnhardt-Larsen,Mia,Dehnhardt-Larsen,5
+642,Maria Louise Bjørn Bøtker,Maria Louise Bjørn,Bøtker,5
+643,Stina Jørgensen,Stina,Jørgensen,5
+644,Pernille Deleuran,Pernille,Deleuran,5
+645,Christian Mejdahl,Christian,Mejdahl,5
+646,Jens Hald,Jens,Hald,5
+647,Charlotte Antonsen (udpeget af V),Charlotte,Antonsen (udpeget af V),5
+648,Carina Christensen,Carina,Christensen,5
+649,Jakob Axel Nielsen,Jakob Axel,Nielsen,5
+650,Hüseyin Arac,Hüseyin,Arac,5
+651,Jens Christian Lund,Jens Christian,Lund,5
+652,Lene Jensen,Lene,Jensen,5
+653,Lise von Seelen,Lise von,Seelen,5
+654,Lone Dybkjær,Lone,Dybkjær,5
+655,Rune Lund,Rune,Lund,5
+656,Jesper Kiel,Jesper,Kiel,5
+657,Pia Larsen,Pia,Larsen,5
+658,Dorte Neimann,Dorte,Neimann,5
+659,Britt Thøgersen,Britt,Thøgersen,5
+660,Svend Erik Hovmand,Svend Erik,Hovmand,5
+661,Jens Rohde,Jens,Rohde,5
+662,Poul Nødgaard,Poul,Nødgaard,5
+663,Christian H. Hansen,Christian H.,Hansen,5
+664,Pia Christmas-Møller,Pia,Christmas-Møller,5
+665,Helge Adam Møller,Helge Adam,Møller,5
+666,Jørn Pedersen,Jørn,Pedersen,5
+667,Søren Egge Rasmussen,Søren Egge,Rasmussen,5
+668,Naser Khader,Naser,Khader,5
+669,Frank Jensen,Frank,Jensen,5
+670,Lars Emil Johansen,Lars Emil,Johansen,5
+671,Niels Helveg Petersen,Niels Helveg,Petersen,5
+672,Kuupik Kleist,Kuupik,Kleist,5
+673,Jacob Stahl Otte,Jacob Stahl,Otte,5
+674,Charlotte Faber,Charlotte,Faber,5
+675,Hanne Severinsen,Hanne,Severinsen,5
+676,Søren Krarup,Søren,Krarup,5
+677,Jesper Langballe,Jesper,Langballe,5
+678,Klaus Hækkerup (udpeget af S),Klaus,Hækkerup (udpeget af S),5
+679,Per Kaalund,Per,Kaalund,5
+680,Morten Helveg Petersen,Morten Helveg,Petersen,5
+681,Jørgen Nielsen,Jørgen,Nielsen,5
+682,Tommy Jørgensen,Tommy,Jørgensen,5
+720,Laue Traberg Smidt,Laue Traberg,Smidt,5
+721,Laurits Tørnæs,Laurits,Tørnæs,5
+725,Preben Rudiengaard,Preben,Rudiengaard,5
+727,Leif Hermann,Leif,Hermann,5
+728,Leif Madsen,Leif,Madsen,5
+794,Lene Garsdal,Lene,Garsdal,5
+801,Lene Hansen,Lene,Hansen,5
+838,Lene Brandt Jeppesen,Lene Brandt,Jeppesen,5
+851,Annie Margit Larsson,Annie Margit,Larsson,5
+852,Leo Johansen,Leo,Johansen,5
+853,Lilian Nilsson,Lilian,Nilsson,5
+854,Mette Vestergaard,Mette,Vestergaard,5
+855,Kenneth Finsen,Kenneth,Finsen,5
+856,Line Barfod,Line,Barfod,5
+909,Lis Benfeldt,Lis,Benfeldt,5
+910,Lis Greibe,Lis,Greibe,5
+911,Lis Aaltonen,Lis,Aaltonen,5
+912,Lis H. Noer,Lis H.,Noer,5
+913,Lisbeth Arbøl,Lisbeth,Arbøl,5
+914,Eva Esmarch,Eva,Esmarch,5
+915,Peter Riis,Peter,Riis,5
+916,Claudius Larson,Claudius,Larson,5
+917,Leif Glensgård,Leif,Glensgård,5
+918,Lisbeth Petersen,Lisbeth,Petersen,5
+919,Lise Hansen,Lise,Hansen,5
+920,Lise Hækkerup,Lise,Hækkerup,5
+922,Malene Maxe Petersen,Malene,Maxe Petersen,5
+923,Katinka Villemoes,Katinka,Villemoes,5
+924,Flemming Kordt Wessel,Flemming Kordt,Wessel,5
+925,Lise Rasmussen,Lise,Rasmussen,5
+926,Peder H. Pedersen,Peder H.,Pedersen,5
+927,Kamilla Kjelgaard,Kamilla,Kjelgaard,5
+928,Ulla Stegemüller,Ulla,Stegemüller,5
+929,Jonna Sandø,Jonna,Sandø,5
+930,Dennis Barndorph Sichlau,Dennis Barndorph,Sichlau,5
+951,Lissa Mathiasen,Lissa,Mathiasen,5
+986,Lissy Holtegaard,Lissy,Holtegaard,5
+987,Litten Hansen,Litten,Hansen,5
+988,Lizzie Lichtenberg,Lizzie,Lichtenberg,5
+1023,Lone Møller (udpeget af S),Lone,Møller (udpeget af S),5
+1036,Lone Saaby,Lone,Saaby,5
+1037,Lone Francis Nielsen Madsen,Lone Francis Nielsen,Madsen,5
+1038,Lone Stig Andersen,Lone Stig,Andersen,5
+1039,Lotte Bundsgaard,Lotte,Bundsgaard,5
+1043,Lotte Henriksen,Lotte,Henriksen,5
+1044,Lotte Thiim Bertelsen,Lotte Thiim,Bertelsen,5
+1047,Louise Frevert,Louise,Frevert,5
+1067,Lykke Roed,Lykke,Roed,5
+1069,Lene Gregersen Kaasgaard,Lene Gregersen,Kaasgaard,5
+1070,Claus Dethlefsen,Claus,Dethlefsen,5
+1071,Jette Buus Smidt,Jette Buus,Smidt,5
+1072,Malene Rasmussen,Malene,Rasmussen,5
+1073,Lise Brogaard Dahl,Lise Brogaard,Dahl,5
+1074,Mads Lebech,Mads,Lebech,5
+1081,Peter Bohlbro,Peter,Bohlbro,5
+1082,Katja Holmboe Andersen,Katja Holmboe,Andersen,5
+1083,Magnus Leopold Demsitz,Magnus Leopold,Demsitz,5
+1085,Majbrit Berlau,Majbrit,Berlau,5
+1087,Malene Søgaard-Andersen,Malene,Søgaard-Andersen,5
+1089,Malene Vestergård,Malene,Vestergård,5
+1090,Malou Aamund,Malou,Aamund,5
+1093,Margit Hansen,Margit,Hansen,5
+1094,Margot Torp,Margot,Torp,5
+1095,Margrete Auken,Margrete,Auken,5
+1112,Mariann Fischer Boel,Mariann Fischer,Boel,5
+1113,Marianne Bentsen-Pedersen,Marianne,Bentsen-Pedersen,5
+1115,Marianne Pedersen,Marianne,Pedersen,5
+1116,Marianne Saxtoft,Marianne,Saxtoft,5
+1117,Marianne Stentebjerg,Marianne,Stentebjerg,5
+1118,Jakob Willum Slot,Jakob Willum,Slot,5
+1119,Marianne Ziirsen,Marianne,Ziirsen,5
+1120,Marie Daugaard,Marie,Daugaard,5
+1121,Marie Fugl,Marie,Fugl,5
+1123,Mario See,Mario,See,5
+1124,Marion Pedersen,Marion,Pedersen,5
+1146,Marlene Harpsøe,Marlene,Harpsøe,5
+1147,Martin Glerup,Martin,Glerup,5
+1156,Merete Behrndt,Merete,Behrndt,5
+1157,Jesper Thinghuus,Jesper,Thinghuus,5
+1158,Per Movritsen,Per,Movritsen,5
+1159,Jette Marlene Hansen,Jette Marlene,Hansen,5
+1160,Merete Aarup,Merete,Aarup,5
+1161,Merethe Due Jensen,Merethe Due,Jensen,5
+1162,Meta Fuglsang,Meta,Fuglsang,5
+1168,Mette Groes,Mette,Groes,5
+1171,Mette Madsen,Mette,Madsen,5
+1172,Mia Falkenberg,Mia,Falkenberg,5
+1179,Michael Gammelgaard,Michael,Gammelgaard,5
+1180,Michael Kock,Michael,Kock,5
+1181,Marie Louise Fischer,Marie Louise,Fischer,5
+1182,Dan Westfall,Dan,Westfall,5
+1183,Michael Thomsen,Michael,Thomsen,5
+1190,Finn Skriver Frandsen,Finn Skriver,Frandsen,5
+1191,Charlotte Roel Andersen,Charlotte,Roel Andersen,5
+1192,Mikael Lennart Waldorff,Mikael Lennart,Waldorff,5
+1198,Mimi Jakobsen,Mimi,Jakobsen,5
+1199,Mogens Andreasen,Mogens,Andreasen,5
+1200,Mogens Blach,Mogens,Blach,5
+1201,Mogens Camre,Mogens,Camre,5
+1202,Mogens Christensen,Mogens,Christensen,5
+1203,Mogens Højland,Mogens,Højland,5
+1218,Mogens Lønborg,Mogens,Lønborg,5
+1219,Mogens Nørgård,Mogens,Nørgård,5
+1226,Mogens Voigt,Mogens,Voigt,5
+1228,Mogens Christian Fabricius Tange,Mogens Christian Fabricius,Tange,5
+1230,Morten Knudsen,Morten,Knudsen,5
+1234,Morten Homann,Morten,Homann,5
+1247,Ketty Gammelgaard,Ketty,Gammelgaard,5
+1248,Leif Rehn,Leif,Rehn,5
+1249,Allan Niebuhr,Allan,Niebuhr,5
+1250,Jan Trøjborg,Jan,Trøjborg,5
+1251,Morten Roland Hansen,Morten Roland,Hansen,5
+1252,Ib Skovsted Thomsen,Ib Skovsted,Thomsen,5
+1253,Johannes Lebech (Udpeget af RV),Johannes,Lebech (Udpeget af RV),5
+1254,Peder Larsen (Udpeget af SF),Peder,Larsen (Udpeget af SF),5
+1255,Flemming Øberg Palsøe (udpeget af SF),Flemming Øberg,Palsøe (udpeget af SF),5
+1256,Pia Gjellerup,Pia,Gjellerup,5
+1257,Nana Mikkelsen,Nana,Mikkelsen,5
+1258,Nanna Westerby,Nanna,Westerby,5
+1267,Niels Ahlmann-Ohlsen,Niels,Ahlmann-Ohlsen,5
+1268,Niels Andersen,Niels,Andersen,5
+1269,Niels Høiby,Niels,Høiby,5
+1271,Niels Højland,Niels,Højland,5
+1272,Niels Kallesøe,Niels,Kallesøe,5
+1273,Jens Rubenhagen,Jens,Rubenhagen,5
+1274,Anja Østergaard Johansen,Anja Østergaard,Johansen,5
+1275,Niels Langkilde,Niels,Langkilde,5
+1276,Niels Mikkelsen,Niels,Mikkelsen,5
+1277,Jette Christensen,Jette,Christensen,5
+1278,Ole Berglund,Ole,Berglund,5
+1279,Niels Rasmussen,Niels,Rasmussen,5
+1280,Niels Sindal,Niels,Sindal,5
+1281,Niels Solgaard-Nielsen,Niels,Solgaard-Nielsen,5
+1282,Niels Westerby,Niels,Westerby,5
+1283,Niels Anker Kofoed,Niels Anker,Kofoed,5
+1284,Niels Bloch Jespersen,Niels Bloch,Jespersen,5
+1299,Helle Sjelle,Helle,Sjelle,5
+1300,Niels Henrik Gydemark,Niels Henrik,Gydemark,5
+1301,Niels V. Andersen,Niels V.,Andersen,5
+1302,Niels Villy Christensen,Niels Villy,Christensen,5
+1303,Nils Wilhjelm,Nils,Wilhjelm,5
+1304,Nils-Ole Heggland,Nils-Ole,Heggland,5
+1305,Nina Berrig,Nina,Berrig,5
+1306,Lone Klinke,Lone,Klinke,5
+1307,Ninna E. Pedersen,Ninna E.,Pedersen,5
+1308,Ole Donner,Ole,Donner,5
+1309,Ole Espersen,Ole,Espersen,5
+1310,Ole Gerstrøm,Ole,Gerstrøm,5
+1311,Ole Glahn,Ole,Glahn,5
+1312,Ole Henriksen,Ole,Henriksen,5
+1313,Ole Jensen,Ole,Jensen,5
+1314,Ole Pagels,Ole,Pagels,5
+1319,Ole Stavad (udpeget af S),Ole,Stavad (udpeget af S),5
+1320,Ole Thomsen,Ole,Thomsen,5
+1321,Ole Maisted,Ole,Maisted,5
+1322,Ole Løvig Simonsen,Ole Løvig,Simonsen,5
+1323,Ole Pilgaard Andersen,Ole Pilgaard,Andersen,5
+1324,Ole Rötzler Møller,Ole Rötzler,Møller,5
+1325,Ole Vagn Christensen,Ole Vagn,Christensen,5
+1326,Ole Vig Jensen,Ole Vig,Jensen,5
+1328,Sherie Falding,Sherie,Falding,5
+1329,Julie Christiane Jensen-Bendtsen,Julie Christiane,Jensen-Bendtsen,5
+1330,Nanna Grothe-Werge,Nanna,Grothe-Werge,5
+1334,Peter Laigaard,Peter,Laigaard,5
+1335,Óli Breckmann,Óli,Breckmann,5
+1336,Oluf Houmann,Oluf,Houmann,5
+1337,Oluf Simonsen,Oluf,Simonsen,5
+1338,Oluf von Lowzow,Oluf von,Lowzow,5
+1339,Otto Steenholdt,Otto,Steenholdt,5
+1342,Ove Fich,Ove,Fich,5
+1343,Ove Jensen,Ove,Jensen,5
+1346,Ove Munch,Ove,Munch,5
+1347,Ove Krog Hansen,Ove Krog,Hansen,5
+1348,Palle Andersen,Palle,Andersen,5
+1349,Palle Hölge,Palle,Hölge,5
+1350,Palle Simonsen,Palle,Simonsen,5
+1351,Paul Elmholt,Paul,Elmholt,5
+1353,Peder Sass,Peder,Sass,5
+1357,Helge Sander,Helge,Sander,5
+1358,Julie Rademacher,Julie,Rademacher,5
+1359,Peder Sønderby,Peder,Sønderby,5
+1360,Pelle Voigt,Pelle,Voigt,5
+1361,Per Bendix,Per,Bendix,5
+1362,Per Bisgaard,Per,Bisgaard,5
+1371,Per Dalgaard,Per,Dalgaard,5
+1375,Per Løkken,Per,Løkken,5
+1376,Per Tærsbøl,Per,Tærsbøl,5
+1377,Per W. Johansson,Per W.,Johansson,5
+1378,Per Ørum Jørgensen,Per Ørum,Jørgensen,5
+1383,Pernille Falcon,Pernille,Falcon,5
+1384,Pernille Forchhammer,Pernille,Forchhammer,5
+1385,Pernille Frahm (udpeget af SF),Pernille,Frahm (udpeget af SF),5
+1391,Pernille Sams,Pernille,Sams,5
+1392,Pernille Søndergaard,Pernille,Søndergaard,5
+1393,Pernille Blach Hansen,Pernille Blach,Hansen,5
+1397,Peter Bonnevie,Peter,Bonnevie,5
+1398,Peter Brixtofte,Peter,Brixtofte,5
+1407,Peter Duetoft,Peter,Duetoft,5
+1408,Peter Hansen-Nord,Peter,Hansen-Nord,5
+1409,Peter Holst,Peter,Holst,5
+1410,Peter Madsen,Peter,Madsen,5
+1411,Peter Sterup,Peter,Sterup,5
+1412,Peter Valenius,Peter,Valenius,5
+1413,Peter Westermann,Peter,Westermann,5
+1414,Peter Christian Christensen,Peter Christian,Christensen,5
+1415,Peter Hvid Jensen,Peter Hvid,Jensen,5
+1417,Pia Boisen,Pia,Boisen,5
+1423,Pia Dahl,Pia,Dahl,5
+1424,Pia Dam,Pia,Dam,5
+1431,Pia Kristensen,Pia,Kristensen,5
+1432,Poul Brix,Poul,Brix,5
+1433,Poul Fischer,Poul,Fischer,5
+1434,Poul Nielson,Poul,Nielson,5
+1436,Poul Schlüter,Poul,Schlüter,5
+1437,Poul Søgaard,Poul,Søgaard,5
+1438,Poul Westergaard,Poul,Westergaard,5
+1439,Poul Adrian Andreasen,Poul Adrian,Andreasen,5
+1440,Poul Erik Christensen,Poul Erik,Christensen,5
+1441,Poul Erik Dyrlund,Poul Erik,Dyrlund,5
+1442,Poul Erik Iversen,Poul Erik,Iversen,5
+1443,Poul Erik Korneliusen,Poul Erik,Korneliusen,5
+1444,Poul Henrik Hedeboe,Poul Henrik,Hedeboe,5
+1445,Poul Henrik Houe,Poul Henrik,Houe,5
+1446,Poul Nyrup Rasmussen,Poul Nyrup,Rasmussen,5
+1447,Poul Qvist Jørgensen,Poul Qvist,Jørgensen,5
+1448,Povl Brøndsted,Povl,Brøndsted,5
+1449,Povl Reidar Faurbye,Povl Reidar,Faurbye,5
+1450,Preben Lange,Preben,Lange,5
+1451,Preben Wilhjelm,Preben,Wilhjelm,5
+1452,Preben Steen Nielsen,Preben Steen,Nielsen,5
+1454,Rasmus Jarlov,Rasmus,Jarlov,5
+1455,René Skau Björnsson,René Skau,Björnsson,5
+1460,Richardt Lykke Jørgensen,Richardt Lykke,Jørgensen,5
+1461,Rikke Hvilshøj,Rikke,Hvilshøj,5
+1462,Rikke Karlsson,Rikke,Karlsson,5
+1463,Ritt Bjerregaard,Ritt,Bjerregaard,5
+1465,Robert Dalskov Andersen,Robert Dalskov,Andersen,5
+1466,Rosa Frederiksen,Rosa,Frederiksen,5
+1467,Ruth Andersen,Ruth,Andersen,5
+1468,Ruth Olsen,Ruth,Olsen,5
+1469,Ruth Schjødt-Pedersen,Ruth,Schjødt-Pedersen,5
+1470,Sandy Brinck,Sandy,Brinck,5
+1471,Sanne Schroll,Sanne,Schroll,5
+1472,Shirley H. Højbjerg,Shirley H.,Højbjerg,5
+1473,Sidsel Homann,Sidsel,Homann,5
+1474,Sidsel Leth Svensson,Sidsel Leth,Svensson,5
+1475,Signe Færch,Signe,Færch,5
+1478,Simon Pihl Sørensen,Simon Pihl,Sørensen,5
+1484,Sofia Rossen,Sofia,Rossen,5
+1487,Sonja Albrink,Sonja,Albrink,5
+1488,Laura Purup,Laura,Purup,5
+1489,Aicha Esdam,Aicha,Esdam,5
+1490,Sonja Mikkelsen,Sonja,Mikkelsen,5
+1495,Bendt Bendtsen,Bendt,Bendtsen,5
+1497,Annemette Ross,Annemette,Ross,5
+1500,Niels Hoffmeyer,Niels,Hoffmeyer,5
+1502,Karl H. Bornhøft,Karl H.,Bornhøft,5
+1503,Hans Vestager,Hans,Vestager,5
+1504,Laura Lindahl,Laura,Lindahl,5
+1505,Thor Möger Pedersen,Thor Möger,Pedersen,5
+1507,Henrik Hagemann,Henrik,Hagemann,5
+1513,Kisser Franciska Lehnert,Kisser Franciska,Lehnert,5
+1522,Anders Nymark,Anders,Nymark,5
+1543,Susanne Henriksen,Susanne,Henriksen,5
+1546,Martin Jørgensen,Martin,Jørgensen,5
+1556,Jann Sjursen,Jann,Sjursen,5
+1557,Bodil Kornbek,Bodil,Kornbek,5
+1558,Tove Videbæk,Tove,Videbæk,5
+1588,Gitte Ravn Jensen,Gitte Ravn,Jensen,5
+1612,Vibeke Grønbæk,Vibeke,Grønbæk,5
+1613,Vibeke Kiil,Vibeke,Kiil,5
+1614,Vibeke Peschardt,Vibeke,Peschardt,5
+1615,Vibeke Storm Rasmussen,Vibeke Storm,Rasmussen,5
+1616,Viggo Fischer,Viggo,Fischer,5
+1617,Villy Jørgensen,Villy,Jørgensen,5
+1618,Walter Christophersen,Walter,Christophersen,5
+1619,Yildiz Akdogan,Yildiz,Akdogan,5
+1621,Yvonne Herløv Andersen,Yvonne Herløv,Andersen,5
+1622,Aage Brusgaard,Aage,Brusgaard,5
+1623,Aage Frandsen,Aage,Frandsen,5
+1635,Aase Olesen,Aase,Olesen,5
+1636,Aase D. Madsen (udpeget af DF),Aase D.,Madsen (udpeget af DF),5
+1640,Mariechen Nielsen,Mariechen,Nielsen,5
+1641,Addi Andersen,Addi,Andersen,5
+1651,Hanne Schmidt,Hanne,Schmidt,5
+1660,Thomas Fich,Thomas,Fich,5
+1667,growBusiness Administrator,growBusiness,Administrator,5
+1669,Guest User,Guest,User,5
+1670,SI360 Service Account,SI360,Service Account,5
+1672,Morten Jensen,Morten,Jensen,5
+1673,Torben Allan Olsen,Torben Allan,Olsen,5
+1674,Klaus Høyer Nielsen,Klaus,Høyer Nielsen,5
+1675,Torben Laursen,Torben,Laursen,5
+1676,Thomas Worm,Thomas,Worm,5
+1677,Knut Haugerud,Knut,Haugerud,5
+1678,Ole Kornbeck Schröder,Ole Kornbeck,Schröder,5
+1679,Anders Duus Østergaard,Anders,Duus Østergaard,5
+1681,Lars Jørgensen,Lars,Jørgensen,5
+1682,Lene Henriksen,Lene,Henriksen,5
+1683,Jenni Birklund,Jenni,Birklund,5
+1684,Monica Krenkel,Monica,Krenkel,5
+1685,Niels Vesterholt,Niels,Vesterholt,5
+1686,Annelise Romme,Annelise,Romme,5
+1687,Benny Høyer,Benny,Høyer,5
+1688,Johan Mortensen,Johan,Mortensen,5
+1689,Tim Pedersen,Tim,Pedersen,5
+1690,Annika Kure,Annika,Kure,5
+1691,Jette Nedergaard,Jette,Nedergaard,5
+1695,Camilla Mølgaard,Camilla,Mølgaard,5
+1696,Pia Rud Skov,Pia Rud,Skov,5
+1697,Henrik Thystrup,Henrik,Thystrup,5
+1698,Liselotte Astrup,Liselotte,Astrup,5
+1699,Jens Skov,Jens,Skov,5
+1700,Kontorleder Test,Kontorleder,Test,5
+1701,Søgebruger Test,Søgebruger,Test,5
+1702,Sekretariatsbruger test,Sekretariatsbruger,test,5
+1703,Lokaladministrator Test,Lokaladministrator,Test,5
+1704,UATEST 2,UATEST,2,5
+1705,Sonia Marianne Westall,Sonia Marianne,Westall,5
+1707,Systemadministrator Test,Systemadministrator,Test,5
+1708,Ea Erbo Jensen,Ea Erbo,Jensen,5
+1718,Svend Heiselberg,Svend,Heiselberg,5
+1727,Jette Bergenholz Bautrup,Jette Bergenholz,Bautrup,5
+1730,Elsebeth Gerner Nielsen,Elsebeth Gerner,Nielsen,5
+1731,Flemming Hansen,Flemming,Hansen,5
+1739,Thor Gunnar Kofoed,Thor Gunnar,Kofoed,5
+1740,Karina Sørensen,Karina,Sørensen,5
+1744,Kamal Qureshi,Kamal,Qureshi,5
+1745,Ulrik Kragh,Ulrik,Kragh,5
+1746,Tove Fergo,Tove,Fergo,5
+1747,Jytte Wittrock,Jytte,Wittrock,5
+1748,Frode Sørensen,Frode,Sørensen,5
+1749,Jens Vibjerg (udpeget af V),Jens,Vibjerg (udpeget af V),5
+1751,Inger Bierbaum,Inger,Bierbaum,5
+1752,Jørn Jespersen,Jørn,Jespersen,5
+1753,Flemming Oppfeldt,Flemming,Oppfeldt,5
+1755,Colette L. Brix,Colette L.,Brix,5
+1757,Irene Simonsen,Irene,Simonsen,5
+1759,Kaj Ikast,Kaj,Ikast,5
+1760,Helga Moos,Helga,Moos,5
+1761,Else Theill Sørensen,Else Theill,Sørensen,5
+1762,Richard Mongin Forrest,Richard Mongin,Forrest,5
+1763,Lisbeth Mørk,Lisbeth,Mørk,5
+1764,Nelly Terlaak,Nelly,Terlaak,5
+1765,Lone Boelt Møller,Lone Boelt,Møller,5
+1767,Arne Toft,Arne,Toft,5
+1768,Grete Schødts,Grete,Schødts,5
+1769,Birthe Skaarup,Birthe,Skaarup,5
+1770,Erik Mortensen,Erik,Mortensen,5
+1771,Uno Larsson,Uno,Larsson,5
+1773,Carsten Bo Jensen,Carsten Bo,Jensen,5
+1774,Jørgen Winther,Jørgen,Winther,5
+1777,Anita Knakkergaard,Anita,Knakkergaard,5
+1778,Svend Auken,Svend,Auken,5
+1779,Else Winther Andersen,Else Winther,Andersen,5
+1790,Freddy Dam (udpeget af V),Freddy,Dam (udpeget af V),5
+1791,Henrik Vestergaard,Henrik,Vestergaard,5
+1792,Svend Aage Jensby,Svend Aage,Jensby,5
+1793,Keld Albrechtsen,Keld,Albrechtsen,5
+1804,Jan Petersen (udpeget af S),Jan,Petersen (udpeget af S),5
+1805,Inge-Lene Ebdrup,Inge-Lene,Ebdrup,5
+1806,Tina Bostrup,Tina,Bostrup,5
+1807,Tutter Blume-Frederiksen,Tutter,Blume-Frederiksen,5
+1811,Erik Larsen (udpeget af V),Erik,Larsen (udpeget af V),5
+1812,Maiken Bork Clausen,Maiken Bork,Clausen,5
+1814,Gudrun Laub,Gudrun,Laub,5
+1815,Jette Jespersen,Jette,Jespersen,5
+1817,Jens Christian Larsen,Jens Christian,Larsen,5
+1818,Ester Larsen,Ester,Larsen,5
+1821,Sven Buhrkall,Sven,Buhrkall,5
+1822,Jens Peter Vernersen,Jens Peter,Vernersen,5
+1823,Knud Erik Kirkegaard,Knud Erik,Kirkegaard,5
+1824,Anders Møller,Anders,Møller,5
+1829,Thor Pedersen,Thor,Pedersen,5
+1830,Helge Mortensen,Helge,Mortensen,5
+1831,Freddie H. Madsen,Freddie H.,Madsen,5
+1833,Høgni Hoydal,Høgni,Hoydal,5
+1844,Jens Kirk,Jens,Kirk,5
+1845,Søren Gade,Søren,Gade,5
+1850,Christian Lund Jepsen,Christian Lund,Jepsen,5
+1858,Jesper Schaumburg-Müller,Jesper,Schaumburg-Müller,5
+1867,Anne Mette Falbe-Hansen,Anne Mette,Falbe-Hansen,5
+1874,Jytte Andersen,Jytte,Andersen,5
+1879,Lars Kramer Mikkelsen,Lars Kramer,Mikkelsen,5
+1880,Anne-Marie Meldgaard,Anne-Marie,Meldgaard,5
+1881,Elisabeth Arnold,Elisabeth,Arnold,5
+1882,Henriette Kjær,Henriette,Kjær,5
+1883,Anne Grete Holmsgaard (udpeget af SF),Anne Grete,Holmsgaard (udpeget af SF),5
+1884,Hans Gammeltoft-Hansen,Hans,Gammeltoft-Hansen,5
+1885,Inge Dahl-Sørensen,Inge,Dahl-Sørensen,5
+1886,Jacob Buksti,Jacob,Buksti,5
+1887,Connie Hedegaard,Connie,Hedegaard,5
+1891,Thomas Adelskov,Thomas,Adelskov,5
+1899,Anne Wallberg,Anne,Wallberg,5
+1900,Niels Sørensen,Niels,Sørensen,5
+1901,Lene Jakobsen,Lene,Jakobsen,5
+1902,Nanna Sten Jensen,Nanna Sten,Jensen,5
+1903,Annelise Quistorff,Annelise,Quistorff,5
+1904,Bente Svensson,Bente,Svensson,5
+1905,Bente Pedersen,Bente,Pedersen,5
+1908,Jonna Hansen,Jonna,Hansen,5
+1909,Niels Barslund,Niels,Barslund,5
+1911,Henning Gjellerod,Henning,Gjellerod,5
+1912,Ida Jørgensen,Ida,Jørgensen,5
+1913,Sevgül Sabedin,Sevgül,Sabedin,5
+1914,Jakob Jensen,Jakob,Jensen,5
+1915,Christina Johansen,Christina,Johansen,5
+1916,Christian Wedell-Neergaard,Christian,Wedell-Neergaard,5
+1917,Anne-Sofie Jensen,Anne-Sofie,Jensen,5
+1918,Else Risum,Else,Risum,5
+1921,John Skovgaard Sørensen,John Skovgaard,Sørensen,5
+1922,Marianne Hansen,Marianne,Hansen,5
+1923,Signe Agertoft Hansen,Signe Agertoft,Hansen,5
+1924,Torben Olsen,Torben,Olsen,5
+1926,Keld Laumann Pedersen,Keld Laumann,Pedersen,5
+1927,Henrik Rolsted,Henrik,Rolsted,5
+1928,Dorthe Hjorth Hansen,Dorthe Hjorth,Hansen,5
+1929,Michala Wørmer,Michala,Wørmer,5
+1931,Birgitte Nielsen,Birgitte,Nielsen,5
+1933,Finn Holle,Finn,Holle,5
+1934,Ole Søndergaard,Ole,Søndergaard,5
+1935,Sirenetta P. Sparsø,Sirenetta P.,Sparsø,5
+1937,Hanne Rasmussen,Hanne,Rasmussen,5
+1939,Mette Laustsen,Mette,Laustsen,5
+1940,René Alslund,René,Alslund,5
+1941,Ulla Møller,Ulla,Møller,5
+1942,Anne-Lise Kragh,Anne-Lise,Kragh,5
+1943,Susanne Nylander Nielsen,Susanne Nylander,Nielsen,5
+1944,Anne Marie Otto,Anne Marie,Otto,5
+1945,Karen Margrethe Stevns,Karen Margrethe,Stevns,5
+1946,Charlotte Sahl-Madsen,Charlotte,Sahl-Madsen,5
+1947,Søren Hansen,Søren,Hansen,5
+1948,Birgitte Møller,Birgitte,Møller,5
+1950,Ditte-Louise Arnfast,Ditte-Louise,Arnfast,5
+1951,Flemming Møller (udpeget af V),Flemming,Møller (udpeget af V),5
+1954,Louise Juul,Louise,Juul,5
+1955,Helen Arentoft,Helen,Arentoft,5
+1956,Lars Gregersen,Lars,Gregersen,5
+1957,Britt Scherfig,Britt,Scherfig,5
+1958,Lis Grønnegård Rasmussen,Lis Grønnegård,Rasmussen,5
+1959,Jørgen Bjelskou,Jørgen,Bjelskou,5
+1960,Jannie Wagner,Jannie,Wagner,5
+1961,Birgitte Horsager Møller,Birgitte Horsager,Møller,5
+1962,Jakob Heltoft,Jakob,Heltoft,5
+1963,Søren Koushede,Søren,Koushede,5
+1964,Jacob Ravn,Jacob,Ravn,5
+1965,Anja Riber Skydt,Anja Riber,Skydt,5
+1967,Pia Mortensen,Pia,Mortensen,5
+1969,Ejner Jensen,Ejner,Jensen,5
+1970,Bjørn Rømer Westh,Bjørn Rømer,Westh,5
+1973,Anders Stenild,Anders,Stenild,5
+1974,Dorthe I. Jensen,Dorthe I.,Jensen,5
+1975,Gitte Kildevæld,Gitte,Kildevæld,5
+1976,Anne Olsson,Anne,Olsson,5
+1977,Birgit I. Jørgensen,Birgit I.,Jørgensen,5
+1978,Bo Schramm,Bo,Schramm,5
+1979,Birgitte Lynggaard,Birgitte,Lynggaard,5
+1980,Karina Jarlbæk,Karina,Jarlbæk,5
+1981,John Platou-Lange,John,Platou-Lange,5
+1982,Tove Jordal,Tove,Jordal,5
+1983,Lars Busch Nielsen,Lars Busch,Nielsen,5
+1984,Karsten Skawbo-Jensen,Karsten,Skawbo-Jensen,5
+1985,Aage Dalgaard,Aage,Dalgaard,5
+1986,Nanna Kleist,Nanna,Kleist,5
+1987,Peter Juul Larsen,Peter Juul,Larsen,5
+1991,Inge-Lise Rasmussen,Inge-Lise,Rasmussen,5
+1997,Rasmus Baastrup,Rasmus,Baastrup,5
+2000,Anders Lund,Anders,Lund,5
+2001,Camilla Feldvoss,Camilla,Feldvoss,5
+2003,Marianne Treumer Ammitzbøll,Marianne Treumer,Ammitzbøll,5
+2004,Irene Pedersen,Irene,Pedersen,5
+2006,Christian Dubois,Christian,Dubois,5
+2010,Pernille Anka Hansen,Pernille Anka,Hansen,5
+2012,Helle Køhler Ward,Helle Køhler,Ward,5
+2013,Henrik Tvarnø,Henrik,Tvarnø,5
+2015,Susanne Kvist Jensen,Susanne Kvist,Jensen,5
+2024,Signe Agertoft Hansen,Signe Agertoft,Hansen,5
+2051,Dorte Rønnemoes,Dorte,Rønnemoes,5
+2052,Lotte Vibild Schønau,Lotte Vibild,Schønau,5
+2058,Ole Ødegaard Christiansen,Ole Ødegaard,Christiansen,5
+2062,Knud Erik Petersen,Knud Erik,Petersen,5
+2063,Tommy Kruse,Tommy,Kruse,5
+2078,Troels Stigaard,Troels,Stigaard,5
+2079,Anne-Dorthe Rasmussen,Anne-Dorthe,Rasmussen,5
+2080,Thor Poulsen,Thor,Poulsen,5
+2081,Torben Schubert,Torben,Schubert,5
+2082,Brian Pedersen,Brian,Pedersen,5
+2083,Rudolf Asmussen,Rudolf,Asmussen,5
+2084,Patrick Odvig,Patrick,Odvig,5
+2085,Jens Nørgaard,Jens,Nørgaard,5
+2086,Søren Thomsen,Søren,Thomsen,5
+2087,Tommy M. Sandau,Tommy M.,Sandau,5
+2088,Troels Gamst,Troels,Gamst,5
+2093,Knud Johnsen (Udpeget af SF),Knud,Johnsen (Udpeget af SF),5
+2094,Carsten Aagaard (udpeget af DF),Carsten,Aagaard (udpeget af DF),5
+2103,Britta Schall Holberg,Britta Schall,Holberg,5
+2104,Niels Oluf Kyed (Udpeget af V),Niels Oluf,Kyed (Udpeget af V),5
+2105,Dorte Bennedsen (Udpeget af S),Dorte,Bennedsen (Udpeget af S),5
+2106,Jens Østergaard Madsen (Udpeget af V),Jens,Østergaard Madsen (Udpeget af V),5
+2107,Søren Eriksen (Udpeget af S),Søren,Eriksen (Udpeget af S),5
+2108,Egil Møller (udpeget af DF),Egil,Møller (udpeget af DF),5
+2109,Erik B. Smith (udpeget af S),Erik B.,Smith (udpeget af S),5
+2110,Gina Øbakke (Udpeget af S),Gina,Øbakke (Udpeget af S),5
+2111,Greve Frants Bernstorff Gyldensteen (udpeget af KF),Greve Frants,Bernstorff Gyldensteen (udpeget af KF),5
+2112,Kirsten Ebbensgaard (Udpeget af KF),Kirsten,Ebbensgaard (Udpeget af KF),5
+2113,Lars Lyngsdal (Udpeget af SF),Lars,Lyngsdal (Udpeget af SF),5
+2114,Flemming Kofod-Svendsen (Udpeget af KD),Flemming,Kofod-Svendsen (Udpeget af KD),5
+2115,Ingelise Bech Hansen (Udpeget af EL),Ingelise,Bech Hansen (Udpeget af EL),5
+2116,Klaus Kjær (Udpeget af DF),Klaus,Kjær (Udpeget af DF),5
+2117,Janne Normann (Udpeget af RV),Janne,Normann (Udpeget af RV),5
+2118,Henrik Bach Mortensen (udpeget af V),Henrik,Bach Mortensen (udpeget af V),5
+2119,Lars Stolshøj,Lars,Stolshøj,5
+2120,Ingrid Rasmussen,Ingrid,Rasmussen,5
+2121,Hans Peter Baadsgaard,Hans Peter,Baadsgaard,5
+2122,Niels Christian Kirketerp,Niels Christian,Kirketerp,5
+2123,Kim Mouritsen (udpeget af V),Kim,Mouritsen (udpeget af V),5
+2124,Uffe Steiner,Uffe,Steiner,5
+2125,Poul Øland,Poul,Øland,5
+2126,Svend Aage Fauerholdt,Svend Aage,Fauerholdt,5
+2127,Carsten Vestergaard,Carsten,Vestergaard,5
+2128,Gitte Krogh,Gitte,Krogh,5
+2129,Hjalte Aaberg,Hjalte,Aaberg,5
+2130,Michael Fagerlund (udpeget af V),Michael,Fagerlund (udpeget af V),5
+2131,Annebeth Runge Gjessing,Annebeth,Runge Gjessing,5
+2132,Kirsten Jensen,Kirsten,Jensen,5
+2133,Kirsten Nissen,Kirsten,Nissen,5
+2134,Carl Martin Christensen (udpeget af KF),Carl Martin,Christensen (udpeget af KF),5
+2135,Nina Berrig,Nina,Berrig,5
+2136,Kurt Bjørndal (udpeget af KF),Kurt,Bjørndal (udpeget af KF),5
+2137,Marie Jepsen (udpeget af KF),Marie,Jepsen (udpeget af KF),5
+2138,Ebba Strange,Ebba,Strange,5
+2139,Oluf Jørgensen,Oluf,Jørgensen,5
+2140,Hans Peter Gejl,Hans Peter,Gejl,5
+2141,Carl Holst,Carl,Holst,5
+2142,Susanne Flydtkjær (udpeget af EL),Susanne,Flydtkjær (udpeget af EL),5
+2143,Dan Lundrup (udpeget af EL),Dan,Lundrup (udpeget af EL),5
+2144,Steffen Kjærulff-Schmidt (udpeget af DF),Steffen,Kjærulff-Schmidt (udpeget af DF),5
+2145,Jonna Petersen,Jonna,Petersen,5
+2146,Jørgen Jørgensen,Jørgen,Jørgensen,5
+2153,Sten Tiedemann,Sten,Tiedemann,5
+2156,Gitte Seeberg,Gitte,Seeberg,5
+2157,Poul Overlund-Sørensen (Udpeget af SF),Poul,Overlund-Sørensen (Udpeget af SF),5
+2158,Peer Tidemand-Petersson (Udpeget af RV),Peer,Tidemand-Petersson (Udpeget af RV),5
+2159,Søren Günther-Sørensen (Udpeget af DF),Søren,Günther-Sørensen (Udpeget af DF),5
+2160,Christen Amby (Udpeget af SF),Christen,Amby (Udpeget af SF),5
+2166,Hans Jørgen Jensen (Udpeget af S),Hans Jørgen,Jensen (Udpeget af S),5
+2167,Bente Witt (udpeget af KF),Bente,Witt (udpeget af KF),5
+2168,Christian Bjerre (Udpeget af KD),Christian,Bjerre (Udpeget af KD),5
+2169,Ulla Runge (Udpeget af SF),Ulla,Runge (Udpeget af SF),5
+2171,Martin Glerup (udpeget af S),Martin,Glerup (udpeget af S),5
+2172,Ole Pilgaard Andersen (udpeget af DF),Ole,Pilgaard Andersen (udpeget af DF),5
+2173,Leif Herman (udpeget af SF),Leif,Herman (udpeget af SF),5
+2174,Mogens Mikkelsen (udpeget af RV),Mogens,Mikkelsen (udpeget af RV),5
+2175,Erling S. Christensen (udpeget af KD),Erling S.,Christensen (udpeget af KD),5
+2176,Helen Beim (udpeget af S),Helen,Beim (udpeget af S),5
+2177,John Harpøth (udpeget af DF),John,Harpøth (udpeget af DF),5
+2178,Eva Møller (udpeget af KF),Eva,Møller (udpeget af KF),5
+2180,Kim Christian Jensen (udpeget af SF),Kim Christian,Jensen (udpeget af SF),5
+2181,Vibeke Peschardt (udpeget af RV),Vibeke,Peschardt (udpeget af RV),5
+2182,Erik Agergård (udpeget af SF),Erik,Agergård (udpeget af SF),5
+2183,Rolf Bagger (udpeget af KF),Rolf,Bagger (udpeget af KF),5
+2184,Gunhild Legaard (udpeget af DF),Gunhild,Legaard (udpeget af DF),5
+2185,Kirsten Grønborg (udpeget af RV),Kirsten,Grønborg (udpeget af RV),5
+2186,Per Breindahl (udpeget af KD),Per,Breindahl (udpeget af KD),5
+2187,Michael Jappe (udpeget af KF),Michael,Jappe (udpeget af KF),5
+2188,Nis Georg Bøgen (udpeget af SF),Nis Georg,Bøgen (udpeget af SF),5
+2189,Steen Jørgensen (udpeget af DF),Steen,Jørgensen (udpeget af DF),5
+2190,Svend Aage Jensen (udpeget af CD),Svend Aage,Jensen (udpeget af CD),5
+2191,Christian Brix Møller (udpeget af RV),Christian,Brix Møller (udpeget af RV),5
+2192,Gaba Engqvist (udpeget af EL),Gaba,Engqvist (udpeget af EL),5
+2193,Paul Anton Martinussen (udpeget af KD),Paul Anton,Martinussen (udpeget af KD),5
+2194,Annette Just (udpeget af FRI),Annette,Just (udpeget af FRI),5
+2196,Kim Behnke (udpeget af KF),Kim,Behnke (udpeget af KF),5
+2197,John Reynolds (udpeget af SF),John,Reynolds (udpeget af SF),5
+2198,Klaus Bondam (udpeget af RV),Klaus,Bondam (udpeget af RV),5
+2199,Jens Kjær Kristensen (udpeget af EL),Jens,Kjær Kristensen (udpeget af EL),5
+2200,Karsten Madsen (udpeget af V),Karsten,Madsen (udpeget af V),5
+2204,Thorkild Ibsen (udpeget af SF),Thorkild,Ibsen (udpeget af SF),5
+2205,Søren Espersen (udpeget af DF),Søren,Espersen (udpeget af DF),5
+2206,Erling Aaskov (udpeget af KF),Erling,Aaskov (udpeget af KF),5
+2207,Finn Aaberg (udpeget af S),Finn,Aaberg (udpeget af S),5
+2208,Peter Hvid Jensen (udpeget af RV),Peter,Hvid Jensen (udpeget af RV),5
+2209,Stig Hartvig Nielsen (udpeget af V),Stig Hartvig,Nielsen (udpeget af V),5
+2232,Karin Berglund,Karin,Berglund,5
+2246,Jonna Degn,Jonna,Degn,5
+2256,Bo Bøgeskov,Bo,Bøgeskov,5
+2258,Merete Jeppesen,Merete,Jeppesen,5
+2278,Jens Peter S. Skaarup,Jens Peter S.,Skaarup,5
+2281,Inger Holten Larsen,Inger Holten,Larsen,5
+2306,Peter Pagh,Peter,Pagh,5
+2307,Henning Buur,Henning,Buur,5
+2346,Jan Ornebjerghus Petterson,Jan Ornebjerghus,Petterson,5
+2359,Lene Sejling,Lene,Sejling,5
+2362,Johan Bremsted,Johan,Bremsted,5
+2365,Peter Kjærulff Larsen,Peter Kjærulff,Larsen,5
+2367,Susanne Bundgaard,Susanne,Bundgaard,5
+2368,Henrik Albrechtsen,Henrik,Albrechtsen,5
+2389,Ingrid Olsen Yeh,Ingrid Olsen,Yeh,5
+2390,Kjeld Holten Stegler,Kjeld Holten,Stegler,5
+2392,Poul Nielsen,Poul,Nielsen,5
+2396,Jette Petersen,Jette,Petersen,5
+2397,Ellen Olsen,Ellen,Olsen,5
+2398,Sussie Blom Hansen,Sussie Blom,Hansen,5
+2399,Bodil Jørgensen,Bodil,Jørgensen,5
+2400,Hanne Helth,Hanne,Helth,5
+2401,Finn Knudsen,Finn,Knudsen,5
+2402,Ritva Pedersen,Ritva,Pedersen,5
+2403,Sanne Dahl,Sanne,Dahl,5
+2404,Lis Birkholm,Lis,Birkholm,5
+2406,Susanne Hjuler,Susanne,Hjuler,5
+2407,Peter Omdal,Peter,Omdal,5
+2412,Tommy von Pein,Tommy,von Pein,5
+2415,Marie W. Tielbo,Marie W.,Tielbo,5
+2417,Mette Mathiesen,Mette,Mathiesen,5
+2421,Camilla Langergaard,Camilla,Langergaard,5
+2422,Kristine Naundrup-Jensen,Kristine,Naundrup-Jensen,5
+2423,Birgit Rintza,Birgit,Rintza,5
+2424,Hanne Nevdal,Hanne,Nevdal,5
+2425,Hans Peter Rolfsen,Hans Peter,Rolfsen,5
+2426,Karina Kjølholm,Karina,Kjølholm,5
+2427,Kerstin Tensing Larsen,Kerstin Tensing,Larsen,5
+2428,Sven Delfs-Andersen,Sven,Delfs-Andersen,5
+2430,John Flindt,John,Flindt,5
+2431,Annette Andersen,Annette,Andersen,5
+2433,Lars-Erik Hein,Lars-Erik,Hein,5
+2437,Tina Jensen,Tina,Jensen,5
+2438,Gorm Andersen,Gorm,Andersen,5
+2439,Freddy Sørensen,Freddy,Sørensen,5
+2441,Jan van der Steen,Jan,van der Steen,5
+2442,Katrina Skardberg,Katrina,Skardberg,5
+2444,Henrik Lars Hybertz Nielsen,Henrik Lars Hybertz,Nielsen,5
+2445,Linda Nannberg,Linda,Nannberg,5
+2446,Martin Peter Kirkhammer,Martin Peter,Kirkhammer,5
+2447,Morten Green Mortensen,Morten Green,Mortensen,5
+2448,Svend Erik Andreasen,Svend Erik,Andreasen,5
+2452,Lili Linnet Olsen,Lili Linnet,Olsen,5
+2463,Cecilia Lawson Vinje,Cecilia Lawson,Vinje,5
+2464,Christian Birbak Madsen,Christian Birbak,Madsen,5
+2465,Morten H. Schultz,Morten H.,Schultz,5
+2466,Jonas Bruus Christensen,Jonas Bruus,Christensen,5
+2485,Peter Østrup,Peter,Østrup,5
+2486,Peter Nielsen,Peter,Nielsen,5
+2528,Claus Brundthagen Olesen,Claus Brundthagen,Olesen,5
+2534,Stephen Skriver,Stephen,Skriver,5
+2540,Thomas Moesgaard Iversen,Thomas Moesgaard,Iversen,5
+2541,Steen B. Rasmussen,Steen B.,Rasmussen,5
+2557,Mette Brask,Mette,Brask,5
+2586,Casper Petersen,Casper,Petersen,5
+2593,Rita Krügermeier,Rita,Krügermeier,5
+2612,Erik Kjærgaard,Erik,Kjærgaard,5
+2613,Nada Krogsgaard,Nada,Krogsgaard,5
+2639,Peter Joshi,Peter,Joshi,5
+2784,Fællesbruger Meddelelsescentralen,Fællesbruger,Meddelelsescentralen,5
+2875,Peter Egemose Grib,Peter Egemose,Grib,5
+2914,Jacob Svarre,Jacob,Svarre,5
+2976,Inger Marie Bruun-Vierø,Inger Marie,Bruun-Vierø,5
+3009,Camilla Gadebusch,Camilla,Gadebusch,5
+3011,Johanne Albjerg,Johanne,Albjerg,5
+3031,Torben Peter Mikkelsen,Torben Peter,Mikkelsen,5
+3032,Irli Plambech,Irli,Plambech,5
+3033,Alice Frejo Varder,Alice Frejo,Varder,5
+3036,Michala Pernille Hansen,Michala Pernille,Hansen,5
+3038,Lavst Riemann Hansen,Lavst Riemann,Hansen,5
+3050,Poul Nyrup Rasmussen (S),Poul Nyrup,Rasmussen (S),5
+3051,Britta Thomsen (udpeget af S),Britta,Thomsen (udpeget af S),5
+3052,Ole Christensen (udpeget af S),Ole,Christensen (udpeget af S),5
+3053,Dan Jørgensen (S),Dan,Jørgensen (S),5
+3054,Jens-Peter Bonde (JBMU),Jens-Peter,Bonde (JBMU),5
+3055,Ole Krarup (FMEU),Ole,Krarup (FMEU),5
+3056,Karin Riis-Jørgensen (V),Karin,Riis-Jørgensen (V),5
+3057,Niels Busk (V),Niels,Busk (V),5
+3058,Anne E. Jensen (V),Anne E.,Jensen (V),5
+3068,Rikke Seerup Bendixen,Rikke Seerup,Bendixen,5
+3073,Lene Voigt,Lene,Voigt,5
+3075,Birgit Weng,Birgit,Weng,5
+3081,Kurt Kirkegaard,Kurt,Kirkegaard,5
+3082,Henrik Brodersen,Henrik,Brodersen,5
+3083,Charlotte Fischer,Charlotte,Fischer,5
+3084,Troels Christensen (udpeget af V),Troels,Christensen (udpeget af V),5
+3085,Kim Mortensen,Kim,Mortensen,5
+3086,Johs. Poulsen,Johs.,Poulsen,5
+3087,Elisabeth Geday,Elisabeth,Geday,5
+3088,Bente Dahl,Bente,Dahl,5
+3089,Joan Erlandsen,Joan,Erlandsen,5
+3090,Tina Petersen,Tina,Petersen,5
+3091,Tine Bruun,Tine,Bruun,5
+3092,Vibeke Grave,Vibeke,Grave,5
+3093,Anfinn Kallsberg,Anfinn,Kallsberg,5
+3097,Bent Hindrup Andersen (udpeget af EL),Bent Hindrup,Andersen (udpeget af EL),5
+3098,Søren Kolstrup (Udpeget af EL),Søren,Kolstrup (Udpeget af EL),5
+3167,Iben Bryld,Iben,Bryld,5
+3169,Astrid Hendrup,Astrid,Hendrup,5
+3289,Kristian Bothe,Kristian,Bothe,5
+3319,Mogens og Thomas Olesen,Mogens og Thomas,Olesen,5
+3572,Maria Roskilde,Maria,Roskilde,5
+3573,Kenneth Klinck Persson,Kenneth Klinck,Persson,5
+3602,Christina Nielsen,Christina,Nielsen,5
+3634,Charlotte Eisenhardt,Charlotte,Eisenhardt,5
+3635,Tove Olsen,Tove,Olsen,5
+3636,Niels Erik Fagerberg,Niels Erik,Fagerberg,5
+3688,Fællesbruger Kopicentralen,Fællesbruger,Kopicentralen,5
+3733,Fællesbruger Chr.Brygge Kopicentral,Fællesbruger Chr.Brygge,Kopicentral,5
+3816,Marie-Kristine Tang,Marie-Kristine,Tang,5
+3819,Vibe Stenholt Andersson,Vibe Stenholt,Andersson,5
+3846,Dimitrij Rimpler Busk,Dimitrij Rimpler,Busk,5
+3851,Bent Henning Hansen,Bent Henning,Hansen,5
+3855,Rt Hon John Denham MP,Rt Hon John,Denham MP,5
+3856,Dmitriy Ryurikov,Dmitriy,Ryurikov,5
+3875,Henrik Vilhelmsen,Henrik,Vilhelmsen,5
+3887,Karsten Hansen,Karsten,Hansen,5
+3918,Michael Beck,Michael,Beck,5
+3920,Salvatore Cappai,Salvatore,Cappai,5
+3925,Kristian Kristiansen,Kristian,Kristiansen,5
+3975,Finn Sørensen,Finn,Sørensen,5
+3992,Bjørn Medom Nielsen,Bjørn Medom,Nielsen,5
+3993,Grethe H. Nielsen,Grethe H.,Nielsen,5
+3994,Jesper Kinch-Jensen,Jesper,Kinch-Jensen,5
+3995,Egil Møller,Egil,Møller,5
+3996,Henrik Fruergaard,Henrik,Fruergaard,5
+3997,Tina Bostrup,Tina,Bostrup,5
+3998,Thomas Krog,Thomas,Krog,5
+4003,Jonathan Motzfeldt,Jonathan,Motzfeldt,5
+4004,Aqqaluk Lynge,Aqqaluk,Lynge,5
+4005,Augusta Salling,Augusta,Salling,5
+4006,Per Berthelsen,Per,Berthelsen,5
+4007,Per Rosing-Petersen,Per,Rosing-Petersen,5
+4008,Kalistat Lund,Kalistat,Lund,5
+4010,Uffe Elbæk (udpeget af RV),Uffe,Elbæk (udpeget af RV),5
+4011,Anna Rytter (udpeget af EL),Anna,Rytter (udpeget af EL),5
+4012,Anders Stenild (udpeget af KF),Anders,Stenild (udpeget af KF),5
+4015,Iris Madsen,Iris,Madsen,5
+4016,Henrik Vestergaard (udpeget af V),Henrik,Vestergaard (udpeget af V),5
+4017,Ove Jensen,Ove,Jensen,5
+4018,Jørgen Kent Jørgensen,Jørgen Kent,Jørgensen,5
+4023,Anna de Klauman,Anna de,Klauman,5
+4091,Susanne Hjarne,Susanne,Hjarne,5
+4115,Naja Henriette Bloch,Naja Henriette,Bloch,5
+4167,Christina Hyldgaard Jacobsen,Christina Hyldgaard,Jacobsen,5
+4182,Katrine Flye,Katrine,Flye,5
+4188,Ognjan Gerdjikov,Ognjan,Gerdjikov,5
+4278,Jens Erik Clausen,Jens Erik,Clausen,5
+4364,Jens Frandsen,Jens,Frandsen,5
+4407,Louise Vadheim Mortensen,Louise Vadheim,Mortensen,5
+4428,Jens Borking,Jens,Borking,5
+4433,Jens Jørgen Nygaard,Jens Jørgen,Nygaard,5
+4434,Abbas Razvi,Abbas,Razvi,5
+4505,Thea Halse,Thea,Halse,5
+4514,Nadia Steen Steensen,Nadia Steen,Steensen,5
+4515,Jørgen S. Lundsgaard,Jørgen S.,Lundsgaard,5
+4536,Sune Clausen,Sune,Clausen,5
+4578,Mads Thelander,Mads,Thelander,5
+4617,Karsten Egtved,Karsten,Egtved,5
+4644,Helle Mortensen,Helle,Mortensen,5
+4674,Lene Aabye-Hansen,Lene,Aabye-Hansen,5
+4676,Christian Foldager,Christian,Foldager,5
+4734,Anne Mette Risager,Anne Mette,Risager,5
+4802,Maria Frej,Maria,Frej,5
+4807,Peter Rejnholdt Petersen,Peter,Rejnholdt Petersen,5
+4832,Casper Abild,Casper,Abild,5
+4881,David Kruse Lange,David,Kruse Lange,5
+4956,Ib Poulsen,Ib,Poulsen,5
+4957,Tage Leegaard,Tage,Leegaard,5
+4965,Hanne Agersnap (udpeget af SF),Hanne,Agersnap (udpeget af SF),5
+4968,Knud Kristensen,Knud,Kristensen,5
+4969,Jørgen Poulsen,Jørgen,Poulsen,5
+4971,Jane Alrø Sørensen,Jane Alrø,Sørensen,5
+5101,Rikke Nielsen,Rikke,Nielsen,5
+5108,Søren Voxted,Søren,Voxted,5
+5132,Flemming Bonne,Flemming,Bonne,5
+5148,Bente Dalsbæk (udpeget af NY),Bente,Dalsbæk (udpeget af NY),5
+5149,Leif Haarbo Nielsen (udpeget af RV),Leif Haarbo,Nielsen (udpeget af RV),5
+5150,Marianne Hartling (udpeget af V),Marianne,Hartling (udpeget af V),5
+5151,Hans L. Hansen (udpeget af V),Hans L.,Hansen (udpeget af V),5
+5152,Jamilla Jaffer (udpeget af NY),Jamilla,Jaffer (udpeget af NY),5
+5153,Jens Adser Sørensen (udpeget af NY),Jens Adser,Sørensen (udpeget af NY),5
+5154,Leon Sebbelin (udpeget af RV),Leon,Sebbelin (udpeget af RV),5
+5155,Hanne Jakobsen (udpeget af RV),Hanne,Jakobsen (udpeget af RV),5
+5177,Rebecca Wolffberg,Rebecca,Wolffberg,5
+5182,Anne Marie Geisler Andersen,Anne Marie Geisler,Andersen,5
+5253,Jens Hørlück,Jens,Hørlück,5
+5261,Vagn Sundgaard,Vagn,Sundgaard,5
+5262,Gülay Sahin,Gülay,Sahin,5
+5279,Frank Schmidt,Frank,Schmidt,5
+5293,Henny Lihn Jensen,Henny Lihn,Jensen,5
+5311,Torben Grandal,Torben,Grandal,5
+5322,Bent Skovgaard Olsen,Bent Skovgaard,Olsen,5
+5367,Stig Nordestgaard,Stig,Nordestgaard,5
+5393,Leif Hansen,Leif,Hansen,5
+5434,Gertrud Holland,Gertrud,Holland,5
+5439,Laust Leth Gregersen,Laust Leth,Gregersen,5
+5453,Anne Jensen,Anne,Jensen,5
+5456,Flemming Dengsø Nielsen,Flemming Dengsø,Nielsen,5
+5468,Dorrit Knudsen,Dorrit,Knudsen,5
+5474,Lisa Goth,Lisa,Goth,5
+5476,Thure Krarup,Thure,Krarup,5
+5568,Anna Margrethe Ikast (udpeget af KF),Anna Margrethe,Ikast (udpeget af KF),5
+5570,Bente Nielsen (udpeget af SF),Bente,Nielsen (udpeget af SF),5
+5579,Kaj Møldrup Christensen (udpeget af S),Kaj,Møldrup Christensen (udpeget af S),5
+5583,Lykke Outzen (udpeget af KF),Lykke,Outzen (udpeget af KF),5
+5609,Torben Dalby Larsen (udpeget af V),Torben Dalby,Larsen (udpeget af V),5
+5649,Christina Mølgaard,Christina,Mølgaard,5
+5685,Anja Sørensen,Anja,Sørensen,5
+5715,Preben Kjær,Preben,Kjær,5
+5720,Melina Laubech,Melina,Laubech,5
+5775,Mette Teilmann Nielsen,Mette,Teilmann Nielsen,5
+5776,Preben Zeuner,Preben,Zeuner,5
+5778,Michael Johnson,Michael,Johnson,5
+5779,Nina Egebjærg Clausen,Nina,Egebjærg Clausen,5
+5788,Jørgen Skovmose Madsen,Jørgen Skovmose,Madsen,5
+5796,Trine Toftgaard Lund,Trine Toftgaard,Lund,5
+5847,John Test Test,John Test,Test,5
+5872,Jens Kasper Rasmussen,Jens Kasper,Rasmussen,5
+5888,Sara Larsen,Sara,Larsen,5
+5894,Katrine Stevelt Lind,Katrine Stevelt,Lind,5
+5904,Lisbeth Madsen,Lisbeth,Madsen,5
+5906,Asger Hallberg Borg,Asger,Hallberg Borg,5
+5911,Henrik Madsen,Henrik,Madsen,5
+5930,Birte Hjorth Johansen,Birte Hjorth,Johansen,5
+5934,Niels Dufour,Niels,Dufour,5
+6047,Rie Aarup,Rie,Aarup,5
+6068,Maj-Britt Skjoldan Petersen,Maj-Britt Skjoldan,Petersen,5
+6080,Carin Holm,Carin,Holm,5
+6113,Gert Nielsen,Gert,Nielsen,5
+6123,Christian Vinaa,Christian,Vinaa,5
+6131,Laura Sørensen,Laura,Sørensen,5
+6138,Tomas Heron,Tomas,Heron,5
+6144,Henrik Lam,Henrik,Lam,5
+6151,Ulla Fasting,Ulla,Fasting,5
+6153,Mette Olsgaard,Mette,Olsgaard,5
+6159,Christel Schaldemose,Christel,Schaldemose,5
+6160,Hanne Dahl (JBMU),Hanne,Dahl (JBMU),5
+6163,Katja Lykke Friis,Katja,Lykke Friis,5
+6171,Flemming Dalby,Flemming,Dalby,5
+6172,Christopher Schubert,Christopher,Schubert,5
+6195,Jette Dalberg Olsen,Jette Dalberg,Olsen,5
+6300,Thomas Elfing Johansen,Thomas,Elfing Johansen,5
+6350,Medcentr Medcentr,Medcentr,Medcentr,5
+6352,Medcentr2 Medcentr2,Medcentr2,Medcentr2,5
+6380,Dora Rossen (udpeget af DF),Dora,Rossen (udpeget af DF),5
+6443,Tine Due Karskov,Tine Due,Karskov,5
+6468,Ole Hyltoft (udpeget af DF),Ole,Hyltoft (udpeget af DF),5
+6603,Sander Sebastien Gunther,Sander Sebastien,Gunther,5
+6630,Jacob Juul Andersen,Jacob Juul,Andersen,5
+6638,Dennis Schnell-Lauritzen,Dennis,Schnell-Lauritzen,5
+6639,Carl Christian Ebbesen,Carl Christian,Ebbesen,5
+6654,Karin Baunsgaard,Karin,Baunsgaard,5
+6684,Annita á Fríðriksmørk,Annita á,Fríðriksmørk,5
+6685,Anders Broholm,Anders,Broholm,5
+6686,Torben Lund,Torben,Lund,5
+6687,Kaj Leo Johannesen,Kaj Leo,Johannesen,5
+6688,Henrik Rasmussen,Henrik,Rasmussen,5
+6689,Juliane Henningsen Heilmann,Juliane Henningsen,Heilmann,5
+6701,Kenneth F. Christensen,Kenneth F.,Christensen,5
+6720,Manu Sareen (udpeget af RV),Manu,Sareen (udpeget af RV),5
+6728,Finn Poulsen (udpeget af KF),Finn,Poulsen (udpeget af KF),5
+6729,Trine Gregorius (udpeget af S),Trine,Gregorius (udpeget af S),5
+6730,Lars L. Nielsen (udpeget af RV),Lars L.,Nielsen (udpeget af RV),5
+6734,Louise Piester,Louise,Piester,5
+6736,Christian Rovsing,Christian,Rovsing,5
+6737,Johannes Lebech,Johannes,Lebech,5
+6803,Margareta Levin,Margareta,Levin,5
+6859,John Hansen,John,Hansen,5
+6860,L. Jeppesen,L.,Jeppesen,5
+6901,Lena Smith Cox,Lena Smith,Cox,5
+7011,Michael Østergård Pedersen,Michael,Østergård Pedersen,5
+7012,Ida Margrethe Hjeltnes Svensen,Ida Margrethe,Hjeltnes Svensen,5
+7018,Kristian Kopp,Kristian,Kopp,5
+7025,Tommy Nilsson,Tommy,Nilsson,5
+7042,Søren Dybro,Søren,Dybro,5
+7060,Niels Markussen,Niels,Markussen,5
+7088,Camilla Danielsen,Camilla,Danielsen,5
+7093,Tanja Hesselager,Tanja,Hesselager,5
+7126,Niels N. Nielsen,Niels N.,Nielsen,5
+7130,Lene Holm Mortensen,Lene Holm,Mortensen,5
+7145,Karsten Agergaard,Karsten,Agergaard,5
+7154,Jens Lunde Pedersen,Jens Lunde,Pedersen,5
+7180,Povl-Otto Niessen,Povl-Otto,Niessen,5
+7183,Helge Tegen,Helge,Tegen,5
+7235,Henriette Houth,Henriette,Houth,5
+7263,Benny Lund-Hansen,Benny,Lund-Hansen,5
+7267,Sonja Kløve Sørensen,Sonja Kløve,Sørensen,5
+7285,Winnie Eldrup,Winnie,Eldrup,5
+7367,Thomas Hjortevang,Thomas,Hjortevang,5
+7385,Badawy Waly,Badawy,Waly,5
+7399,Martin Kejlstrup,Martin,Kejlstrup,5
+7403,Jørn Sjøstrøm,Jørn,Sjøstrøm,5
+7489,Agnete Parbo,Agnete,Parbo,5
+7536,Pernille Andersen,Pernille,Andersen,5
+7559,Louise Jørgensen,Louise,Jørgensen,5
+7637,Nicoline Nyholm Miller,Nicoline Nyholm,Miller,5
+7642,Karen Carlsson,Karen,Carlsson,5
+7659,Rasmus Skov,Rasmus,Skov,5
+7764,Jacob Baltzer Pedersen,Jacob Baltzer,Pedersen,5
+7862,Bjørn Lunn,Bjørn,Lunn,5
+7875,Kirsten Tode,Kirsten,Tode,5
+7935,Ernst Flemming Hyllested,Ernst Flemming,Hyllested,5
+7950,Printcentret Printcentret,Printcentret,Printcentret,5
+8012,Pytrik Dieuwke Oosterhof,Pytrik,Dieuwke Oosterhof,5
+8167,Lisbet Elkjær Kristensen,Lisbet Elkjær,Kristensen,5
+8174,Laura Holt Clemmensen,Laura Holt,Clemmensen,5
+8185,Louise Bjørnlund Olsen,Louise Bjørnlund,Olsen,5
+8261,Gitte Korff,Gitte,Korff,5
+8330,Sanni Lunau Hansen,Sanni Lunau,Hansen,5
+8352,Mia Lee Soo Jin Lindsey,Mia Lee Soo Jin,Lindsey,5
+8394,Christina Elisabeth Ringvard,Christina Elisabeth,Ringvard,5
+8419,Madeleine Kanold,Madeleine,Kanold,5
+8454,Jannie Sølvsteen,Jannie,Sølvsteen,5
+8467,Jens Frederik Rasmussen,Jens Frederik,Rasmussen,5
+8504,Anders Johnsen,Anders,Johnsen,5
+8521,Per Enggaard,Per,Enggaard,5
+8542,Christine Müller Andreasen,Christine,Müller Andreasen,5
+8592,Inge Lise Bech Hansen (udpeget af EL),Inge Lise Bech,Hansen (udpeget af EL),5
+8593,Lars Stolshøj (udpeget af V),Lars,Stolshøj (udpeget af V),5
+8672,Birgitte Mårup,Birgitte,Mårup,5
+8711,Jesper Hall-Nørregaard,Jesper,Hall-Nørregaard,5
+8724,Carsten Hallqvist Jensen,Carsten Hallqvist,Jensen,5
+8741,Sofie Grønbek Jørgensen,Sofie Grønbek,Jørgensen,5
+8858,Christina Hoff Jensen,Christina Hoff,Jensen,5
+8900,Mette Kjølby Olesen,Mette Kjølby,Olesen,5
+8909,Rigmor Winthrop,Rigmor,Winthrop,5
+8910,Karin Storgaard,Karin,Storgaard,5
+8911,Michael Holm,Michael,Holm,5
+8913,Iris Madsen,Iris,Madsen,5
+8917,Thomas Horn,Thomas,Horn,5
+8926,Mette Bjerrum Koch,Mette Bjerrum,Koch,5
+8932,Mads Reinholdt,Mads,Reinholdt,5
+8941,Mikkel Thieleman,Mikkel,Thieleman,5
+8974,Kirsten Lauritzen,Kirsten,Lauritzen,5
+9097,Lotte Andreasen,Lotte,Andreasen,5
+9232,Den centrale indlevering (CI),Den centrale indlevering,(CI),5
+9257,Marc Schack,Marc,Schack,5
+9260,Kirsten-Marie Fog Pedersen,Kirsten-Marie,Fog Pedersen,5
+9264,Krista Hampe Thorn,Krista Hampe,Thorn,5
+9268,Signe Villumsen,Signe,Villumsen,5
+9339,Mads Danvad Nilausen,Mads,Danvad Nilausen,5
+9507,Allan Køhler-Andesen,Allan,Køhler-Andesen,5
+9586,Maria Commerou,Maria,Commerou,5
+9655,Søren Nørgård-Sørensen,Søren,Nørgård-Sørensen,5
+9656,Jonna Grønver,Jonna,Grønver,5
+9659,Helle Christensen,Helle,Christensen,5
+9662,Henning Lysholm,Henning,Lysholm,5
+9664,Jane Oksen,Jane,Oksen,5
+9666,Lars Jørgensen,Lars,Jørgensen,5
+9671,Lars Abel,Lars,Abel,5
+9672,Jan Køpke Christensen,Jan Køpke,Christensen,5
+9674,John Bech Christensen,John Bech,Christensen,5
+9694,Pia Brosted,Pia,Brosted,5
+9697,Peter Hostrup Gøtze Petersen,Peter Hostrup,Gøtze Petersen,5
+9726,Martin Andersen,Martin,Andersen,5
+9727,Anne Stine Schlamovitz,Anne Stine,Schlamovitz,5
+9730,Olav Jessen,Olav,Jessen,5
+9731,John Baastrup,John,Baastrup,5
+9745,Erling Olsen,Erling,Olsen,5
+9746,Bent Olsen,Bent,Olsen,5
+9747,Asbjørn Agerschou,Asbjørn,Agerschou,5
+9748,Thomas Christfort,Thomas,Christfort,5
+9749,Ebbe Kalnæs,Ebbe,Kalnæs,5
+9750,Inga-Britt Olsen,Inga-Britt,Olsen,5
+9751,Arne Christiansen,Arne,Christiansen,5
+9752,Kurt Christiansen,Kurt,Christiansen,5
+9753,Johannes Martin Olsen,Johannes Martin,Olsen,5
+9754,Helle Algreen-Ussing,Helle,Algreen-Ussing,5
+9755,Birgitte Husmark,Birgitte,Husmark,5
+9756,Henning Christophersen,Henning,Christophersen,5
+9757,Susanne Clemensen,Susanne,Clemensen,5
+9758,Anton Kanstrup,Anton,Kanstrup,5
+9759,Jutta Houmøller,Jutta,Houmøller,5
+9760,Lars Kaspersen,Lars,Kaspersen,5
+9761,Jens Kampmann,Jens,Kampmann,5
+9762,Thue Christiansen,Thue,Christiansen,5
+9763,Gunhild Husum,Gunhild,Husum,5
+9764,Ellen Schärfe,Ellen,Schärfe,5
+9765,Bent Ottesen,Bent,Ottesen,5
+9766,Christen Amby,Christen,Amby,5
+9767,Erik Haunstrup Clemmensen,Erik Haunstrup,Clemmensen,5
+9768,Hans Hækkerup,Hans,Hækkerup,5
+9769,Christian Kelm-Hansen,Christian,Kelm-Hansen,5
+9770,Bernt Johan Collet,Bernt Johan,Collet,5
+9771,Ane Hansen,Ane,Hansen,5
+9772,Erling Oxdam,Erling,Oxdam,5
+9774,Arne Oluf Andersen,Arne Oluf,Andersen,5
+9775,Jørgen Iversen,Jørgen,Iversen,5
+9776,Helle Degn,Helle,Degn,5
+9777,Arne Kirkelund,Arne,Kirkelund,5
+9778,Birte Dernert,Birte,Dernert,5
+9779,Hans Erik Jacobsen,Hans Erik,Jacobsen,5
+9780,Tórbjørn Jacobsen,Tórbjørn,Jacobsen,5
+9781,Thorkild Pedersen,Thorkild,Pedersen,5
+9782,Kim Sejr,Kim,Sejr,5
+9783,Jens Ove Kjeldsen,Jens Ove,Kjeldsen,5
+9784,Dorte Dinesen,Dorte,Dinesen,5
+9785,Tommy Dinesen,Tommy,Dinesen,5
+9786,Kirsten Jacobsen,Kirsten,Jacobsen,5
+9787,Hans Jørgen Andersen,Hans Jørgen,Andersen,5
+9788,Frank Dahlgaard,Frank,Dahlgaard,5
+9789,Bent Hindrup Andersen,Bent Hindrup,Andersen,5
+9790,Jørgen Damgaard,Jørgen,Damgaard,5
+9791,Atli Dam,Atli,Dam,5
+9792,Dorit Myltoft,Dorit,Myltoft,5
+9793,Johnny Killerup,Johnny,Killerup,5
+9794,Anna Sejerøe-Olsen,Anna,Sejerøe-Olsen,5
+9795,Kurt M. Ipsen,Kurt M.,Ipsen,5
+9796,Bodil Melgaard Haakonsen,Bodil Melgaard,Haakonsen,5
+9797,Gerda Thymann Pedersen,Gerda Thymann,Pedersen,5
+9798,Birte Lau Pedersen,Birte Lau,Pedersen,5
+9799,Hanne Andersen,Hanne,Andersen,5
+9800,Kent Sand Kirk,Kent Sand,Kirk,5
+9801,Frank Pedersen,Frank,Pedersen,5
+9802,Bjarne Petersen,Bjarne,Petersen,5
+9803,Erling Hugger Jakobsen,Erling Hugger,Jakobsen,5
+9804,Henning Baunbæk Dyremose,Henning Baunbæk,Dyremose,5
+9805,Ingrid R. Kjær Kjældgaard,Ingrid R. Kjær,Kjældgaard,5
+9806,Ib Skytte Jakobsen,Ib Skytte,Jakobsen,5
+9807,Inger Stilling Pedersen,Inger Stilling,Pedersen,5
+9808,Kirsten Kimø,Kirsten,Kimø,5
+9809,Erik Jakobsen,Erik,Jakobsen,5
+9810,Jóannes Eidesgaard,Jóannes,Eidesgaard,5
+9811,Klaus Ebbesen,Klaus,Ebbesen,5
+9812,Eggert Petersen,Eggert,Petersen,5
+9813,Henning Andersen,Henning,Andersen,5
+9814,Børge Halvgaard,Børge,Halvgaard,5
+9815,Klaus Kjær,Klaus,Kjær,5
+9816,Elisabeth Ehmer,Elisabeth,Ehmer,5
+9817,Joen Pauli Ellefsen,Joen Pauli,Ellefsen,5
+9818,Jørgen Kruse Rasmussen,Jørgen Kruse,Rasmussen,5
+9819,Kjeld Støttrup Olesen,Kjeld Støttrup,Olesen,5
+9821,Elisabeth Bruun Olesen,Elisabeth Bruun,Olesen,5
+9822,Harald Kjøller,Harald,Kjøller,5
+9823,Erik Holst,Erik,Holst,5
+9824,Hannah Kain,Hannah,Kain,5
+9825,Bjørn Elmquist,Bjørn,Elmquist,5
+9826,Steffen Kjærulff-Schmidt,Steffen,Kjærulff-Schmidt,5
+9827,Anna-Marie Hansen,Anna-Marie,Hansen,5
+9828,Uffe Ellemann-Jensen,Uffe,Ellemann-Jensen,5
+9829,Arqalo Søren Isak Abelsen,Arqalo Søren Isak,Abelsen,5
+9830,Annette Hansen,Annette,Hansen,5
+9831,Jens Peter Lerke,Jens Peter,Lerke,5
+9832,Jens Erik Klausen,Jens Erik,Klausen,5
+9833,Svend Aage Jakobsen,Svend Aage,Jakobsen,5
+9834,Erik Sigsgaard,Erik,Sigsgaard,5
+9835,Carit Enevoldsen,Carit,Enevoldsen,5
+9836,Aksel Knudsen,Aksel,Knudsen,5
+9837,Birthe Juel-Jensen,Birthe,Juel-Jensen,5
+9838,Gudrun Andreasen,Gudrun,Andreasen,5
+9839,Charlotte Enevoldsen,Charlotte,Enevoldsen,5
+9840,Knud Lind,Knud,Lind,5
+9841,Hans Engell,Hans,Engell,5
+9842,H. Buchart Petersen,H. Buchart,Petersen,5
+9843,Annie Lunde Hansen,Annie Lunde,Hansen,5
+9844,Bo Friis,Bo,Friis,5
+9845,Carsten Koch,Carsten,Koch,5
+9847,Holger Gorm Petersen,Holger Gorm,Petersen,5
+9848,Jakob Lindenskov,Jakob,Lindenskov,5
+9849,Knud Enggaard,Knud,Enggaard,5
+9850,Svend Åge Petersen,Svend Åge,Petersen,5
+9851,Birthe Hansen,Birthe,Hansen,5
+9852,Bodil Liventhal,Bodil,Liventhal,5
+9853,Christian Jensen,Christian,Jensen,5
+9854,Hans Erenbjerg,Hans,Erenbjerg,5
+9855,Grethe Philip,Grethe,Philip,5
+9856,John Arentoft,John,Arentoft,5
+9857,Dagmar Kirstine Mørk Jensen,Dagmar Kirstine Mørk,Jensen,5
+9858,Ingerlise Koefoed,Ingerlise,Koefoed,5
+9859,Jette Pors,Jette,Pors,5
+9860,Finn Eriksen,Finn,Eriksen,5
+9861,Hans Ole Thustrup Hansen,Hans Ole Thustrup,Hansen,5
+9862,Filt Jensen,Filt,Jensen,5
+9863,Anders Christian Poulsen,Anders Christian,Poulsen,5
+9864,Flemming Kofod-Svendsen,Flemming,Kofod-Svendsen,5
+9865,Hans Jørgen Jensen,Hans Jørgen,Jensen,5
+9866,Hardy Hansen,Hardy,Hansen,5
+9867,Kai Dige Bach,Kai Dige,Bach,5
+9868,Kjeld Espersen,Kjeld,Espersen,5
+9869,Holger Hansen,Holger,Hansen,5
+9870,Jens Skrumsager Skau,Jens Skrumsager,Skau,5
+9871,Søren Bastholm,Søren,Bastholm,5
+9872,Jørgen Lund,Jørgen,Lund,5
+9873,Helge Bo Jensen,Helge Bo,Jensen,5
+9874,Egon Pleidrup Poulsen,Egon Pleidrup,Poulsen,5
+9875,Hans Aage Kofoed,Hans Aage,Kofoed,5
+9876,Asger Baunsbak-Jensen,Asger,Baunsbak-Jensen,5
+9877,Ilse Hansen,Ilse,Hansen,5
+9878,Jørgen Estrup,Jørgen,Estrup,5
+9879,Jens Kristian Hansen,Jens Kristian,Hansen,5
+9880,Henning Jensen,Henning,Jensen,5
+9881,Jesper Fabricius,Jesper,Fabricius,5
+9882,Kim Behnke,Kim,Behnke,5
+9883,Ib Bjørn Poulsen,Ib Bjørn,Poulsen,5
+9884,Jes Lunde,Jes,Lunde,5
+9885,Jens Martin Søndergaard,Jens Martin,Søndergaard,5
+9886,Kaj Poulsen,Kaj,Poulsen,5
+9887,Eva Birgitte Fatum,Eva Birgitte,Fatum,5
+9888,Karen Thurøe Hansen,Karen Thurøe,Hansen,5
+9889,Ebbe Lundgaard,Ebbe,Lundgaard,5
+9890,Helen Beim,Helen,Beim,5
+9891,Jens Villy Thorvald Jensen,Jens Villy Thorvald,Jensen,5
+9892,Kristen Poulsgaard,Kristen,Poulsgaard,5
+9893,Svend Aage Fauerholdt,Svend Aage,Fauerholdt,5
+9894,Knud Erik Hansen,Knud Erik,Hansen,5
+9895,Tonna Bendtsen,Tonna,Bendtsen,5
+9896,Jørgen Kvist,Jørgen,Kvist,5
+9897,Kaare Prien,Kaare,Prien,5
+9898,Anne Birgitte Lundholt,Anne Birgitte,Lundholt,5
+9899,Kim Nøhr Skibsted,Kim Nøhr,Skibsted,5
+9900,Karen Højte Jensen,Karen Højte,Jensen,5
+9901,Bent Aage Rasmussen,Bent Aage,Rasmussen,5
+9902,Kurt Hansen,Kurt,Hansen,5
+9903,Dorte Bennedsen,Dorte,Bennedsen,5
+9904,Carsten Fink,Carsten,Fink,5
+9905,Birte Skot-Hansen,Birte,Skot-Hansen,5
+9906,Herluf Rasmussen,Herluf,Rasmussen,5
+9907,Finn Lynge,Finn,Lynge,5
+9908,Søren Kolstrup,Søren,Kolstrup,5
+9909,Henrik Michael Berlau,Henrik Michael,Berlau,5
+9910,Sven Skovmand,Sven,Skovmand,5
+9911,Gyda Kongsted,Gyda,Kongsted,5
+9912,Birgit Fjelde,Birgit,Fjelde,5
+9913,Jens-Lars Zeeb Fleischer,Jens-Lars Zeeb,Fleischer,5
+9914,Jørgen Løgstrup,Jørgen,Løgstrup,5
+9915,Jens Bilgrav-Nielsen,Jens,Bilgrav-Nielsen,5
+9916,Birgit Fogh-Andersen,Birgit,Fogh-Andersen,5
+9917,Klavs Birkholm,Klavs,Birkholm,5
+9918,Mette Hansen (fejl),Mette,Hansen (fejl),5
+9919,Bo Kristensen,Bo,Kristensen,5
+9920,Erik Brünnich Smith,Erik Brünnich,Smith,5
+9921,Asger Boertmann,Asger,Boertmann,5
+9922,Anna-Lise Frølich,Anna-Lise,Frølich,5
+9923,Jimmy Stahr,Jimmy,Stahr,5
+9924,Svend Karlskov Jensen,Svend Karlskov,Jensen,5
+9925,Susanne Fast Jensen,Susanne Fast,Jensen,5
+9926,Bodil Tang Kristensen,Bodil Tang,Kristensen,5
+9927,Birgit Bjørnvig,Birgit,Bjørnvig,5
+9928,Kirsten Madsen,Kirsten,Madsen,5
+9929,Kirsten Hav,Kirsten,Hav,5
+9930,Thorkild B. Fransgaard,Thorkild B.,Fransgaard,5
+9931,Ib Frederiksen,Ib,Frederiksen,5
+9932,Jens Løgstrup Kjær,Jens Løgstrup,Kjær,5
+9933,Inger Harms,Inger,Harms,5
+9934,Kurt Flemming Frederiksen,Kurt Flemming,Frederiksen,5
+9935,Elisabeth Hastrup,Elisabeth,Hastrup,5
+9936,Svend Blæsbjerg,Svend,Blæsbjerg,5
+9937,Jens Otto Madsen,Jens Otto,Madsen,5
+9938,Jacob Haugaard,Jacob,Haugaard,5
+9939,Ulla Solvang,Ulla,Solvang,5
+9940,Poul Boeg,Poul,Boeg,5
+9941,Irma Madsen,Irma,Madsen,5
+9942,Jytte Madsen,Jytte,Madsen,5
+9943,Svend Aage Jensen,Svend Aage,Jensen,5
+9944,Jens Kristian Steffensen,Jens Kristian,Steffensen,5
+9945,Thomas Erik Have,Thomas Erik,Have,5
+9946,Jette Wartenberg Boutrup,Jette Wartenberg,Boutrup,5
+9947,Søren Jensen,Søren,Jensen,5
+9948,Søren Hedetoft,Søren,Hedetoft,5
+9949,Ingrid Rasmussen,Ingrid,Rasmussen,5
+9950,Kristian R. Kristensen,Kristian R.,Kristensen,5
+9951,Alice Holst Brask,Alice Holst,Brask,5
+9952,Inger Garre,Inger,Garre,5
+9953,Jens Heimburger,Jens,Heimburger,5
+9954,Christian Valdemar Gede,Christian Valdemar,Gede,5
+9955,Kirsten Wind Rasmussen,Kirsten Wind,Rasmussen,5
+9956,Knud Heinesen,Knud,Heinesen,5
+9957,Frank Mathiassen,Frank,Mathiassen,5
+9958,Kirsten Gersbo,Kirsten,Gersbo,5
+9959,Bernard Jeune,Bernard,Jeune,5
+9960,René Brusvang,René,Brusvang,5
+9961,Børge Klit Johansen,Børge Klit,Johansen,5
+9962,Arne Melchior,Arne,Melchior,5
+9963,Ulla Kristensen,Ulla,Kristensen,5
+9964,Annebeth Runge Gjessing,Annebeth Runge,Gjessing,5
+9965,Irene Heintzelmann,Irene,Heintzelmann,5
+9966,Jens Michaelsen,Jens,Michaelsen,5
+9967,Jan Kristiansen,Jan,Kristiansen,5
+9968,Jørgen Bruun,Jørgen,Bruun,5
+9969,Eva Heltberg,Eva,Heltberg,5
+9970,Inge Marie E. Krogh,Inge Marie E.,Krogh,5
+9971,Bente Juncker,Bente,Juncker,5
+9972,Knud Glønborg,Knud,Glønborg,5
+9973,Annelise Gotfredsen,Annelise,Gotfredsen,5
+9974,Steen Jønsson,Steen,Jønsson,5
+9975,Annette Just,Annette,Just,5
+9976,Jette Gottlieb,Jette,Gottlieb,5
+9977,Holger Graversen,Holger,Graversen,5
+9978,Carl Anton Kruse,Carl Anton,Kruse,5
+9979,Kenneth Lambrecht,Kenneth,Lambrecht,5
+9980,Erling Brøndum,Erling,Brøndum,5
+9981,Stefan G. Rasmussen,Stefan G.,Rasmussen,5
+9982,Anker Jørgensen,Anker,Jørgensen,5
+9983,Bent Greve,Bent,Greve,5
+9984,Annette Jørgensen,Annette,Jørgensen,5
+9985,Henning Grove,Henning,Grove,5
+9987,Knud Morten Raunkjær,Knud Morten,Raunkjær,5
+9988,Bent Bundgaard,Bent,Bundgaard,5
+9989,Birgit Busk,Birgit,Busk,5
+9990,Christian Tvede Bundgaard,Christian Tvede,Bundgaard,5
+9991,Connie Sonja Buus,Connie Sonja,Buus,5
+9992,Kirsten Brøsted,Kirsten,Brøsted,5
+9993,Jakob Lange,Jakob,Lange,5
+9994,Ebbe Lodal Carlsen,Ebbe Lodal,Carlsen,5
+9995,Frank Bøgh,Frank,Bøgh,5
+9996,Hans Peter Baadsgaard,Hans Peter,Baadsgaard,5
+9997,Asger Jørgensen,Asger,Jørgensen,5
+9998,Elsebeth Larsen,Elsebeth,Larsen,5
+9999,Birger Christensen,Birger,Christensen,5
+10000,Carl-Einar Jørgensen,Carl-Einar,Jørgensen,5
+10001,Kaj Stillinger,Kaj,Stillinger,5
+10002,Erik Arnkil Jørgensen,Erik Arnkil,Jørgensen,5
+10003,Bodil Dahl Christensen,Bodil Dahl,Christensen,5
+10004,Niels Ravn,Niels,Ravn,5
+10005,Christian Hesselberg,Christian,Hesselberg,5
+10006,Grethe Larsen,Grethe,Larsen,5
+10007,Toke Stokholm,Toke,Stokholm,5
+10008,Helen Jørgensen,Helen,Jørgensen,5
+10009,Carl Martin Christensen,Carl Martin,Christensen,5
+10010,Torben Rechendorff,Torben,Rechendorff,5
+10011,Knud Hertling,Knud,Hertling,5
+10012,Erling Christensen,Erling,Christensen,5
+10013,Inge Refshauge,Inge,Refshauge,5
+10014,Jens Jørgensen,Jens,Jørgensen,5
+10015,Jørgen Jørgensen,Jørgen,Jørgensen,5
+10016,Finn O. Christensen,Finn O.,Christensen,5
+10017,Hans Larsen,Hans,Larsen,5
+10018,Jytte Hilden,Jytte,Hilden,5
+10019,Frode Nør Christensen,Frode Nør,Christensen,5
+10020,Ebba Strange,Ebba,Strange,5
+10021,Karen From,Karen,From,5
+10022,Helge Larsen,Helge,Larsen,5
+10023,Jens Arne Riber,Jens Arne,Riber,5
+10024,Thomas Thors,Thomas,Thors,5
+10025,Hans Strunge,Hans,Strunge,5
+10026,Bjørn Larsen,Bjørn,Larsen,5
+10027,Hanne Christensen,Hanne,Christensen,5
+10028,Erik Stubtoft,Erik,Stubtoft,5
+10029,Søren Riishøj,Søren,Riishøj,5
+10030,Hans Erik Hillerup-Jensen,Hans Erik,Hillerup-Jensen,5
+10031,Egon Roesgaard,Egon,Roesgaard,5
+10032,Tue Rohrsted,Tue,Rohrsted,5
+10033,Tove Bjerre Mortensen,Tove Bjerre,Mortensen,5
+10034,Else Marie Mortensen,Else Marie,Mortensen,5
+10035,Bodil Thrane,Bodil,Thrane,5
+10036,Ib Larsen,Ib,Larsen,5
+10037,Henrik Svane,Henrik,Svane,5
+10038,Alex Hilton,Alex,Hilton,5
+10039,Birgit Thye-Petersen,Birgit,Thye-Petersen,5
+10040,Ingrid Bo Larsen,Ingrid Bo,Larsen,5
+10041,Ib Germain Thyregod,Ib Germain,Thyregod,5
+10042,Eva Olga Ree,Eva Olga,Ree,5
+10043,Kim Mouritsen,Kim,Mouritsen,5
+10044,Anni Svanholt,Anni,Svanholt,5
+10045,Steen Tinning,Steen,Tinning,5
+10046,Kaj K. Larsen,Kaj K.,Larsen,5
+10047,Karl Hjortnæs,Karl,Hjortnæs,5
+10048,Henrik Toft,Henrik,Toft,5
+10049,Knud Erik Sværke,Knud Erik,Sværke,5
+10050,Henning Mysager,Henning,Mysager,5
+10051,Thomas Torp,Thomas,Torp,5
+10052,Keld Larsen,Keld,Larsen,5
+10053,Dycke Hoff,Dycke,Hoff,5
+10054,Jørgen Tved,Jørgen,Tved,5
+10055,Betina Hoffmann,Betina,Hoffmann,5
+10056,Christian Brix Møller,Christian Brix,Møller,5
+10057,Hans-Pavia Rosing,Hans-Pavia,Rosing,5
+10058,Klaus Bonde Larsen,Klaus Bonde,Larsen,5
+10059,Grethe Rostbøll,Grethe,Rostbøll,5
+10060,Eva Bente Møller,Eva Bente,Møller,5
+10061,Knud Erik Særkjær,Knud Erik,Særkjær,5
+10062,Bjarne Holm,Bjarne,Holm,5
+10063,Svend Taanquist,Svend,Taanquist,5
+10064,Grethe Fenger Møller,Grethe Fenger,Møller,5
+10065,Svend Erik Larsen,Svend Erik,Larsen,5
+10066,Anders Uhrskov,Anders,Uhrskov,5
+10067,Kjeld Rahbæk Møller,Kjeld Rahbæk,Møller,5
+10068,Finn Rudaizky,Finn,Rudaizky,5
+10069,Henning Urup,Henning,Urup,5
+10070,Tove Lindbo Larsen,Tove Lindbo,Larsen,5
+10071,Karen Rønde (udpeget af V),Karen,Rønde (udpeget af V),5
+10072,Vilhelm Mølstrøm,Vilhelm,Mølstrøm,5
+10073,Bente Albret Søltoft,Bente Albret,Søltoft,5
+10074,Jens Peter Rønholt,Jens Peter,Rønholt,5
+10075,Otto Mørch,Otto,Mørch,5
+10076,Hans Larsen-Ledet,Hans,Larsen-Ledet,5
+10077,Anna Lise Vesterby,Anna Lise,Vesterby,5
+10078,Irene Bonde,Irene,Bonde,5
+10079,Joanna Rønn,Joanna,Rønn,5
+10080,Søren Nedbo,Søren,Nedbo,5
+10081,Hans Jørgen Holm,Hans Jørgen,Holm,5
+10082,Finn Nellemann,Finn,Nellemann,5
+10083,Lennart Larsson,Lennart,Larsson,5
+10084,Svend Vig,Svend,Vig,5
+10085,Birte Nyby Krag-Sørensen,Birte Nyby,Krag-Sørensen,5
+10086,John Vinther,John,Vinther,5
+10087,Anton Nielsen,Anton,Nielsen,5
+10088,Anders Laubjerg,Anders,Laubjerg,5
+10089,Jens Vognsen,Jens,Vognsen,5
+10090,Hugo Sørensen,Hugo,Sørensen,5
+10091,Bent Wissing,Bent,Wissing,5
+10092,Hanne Lauritsen,Hanne,Lauritsen,5
+10093,Jørgen Witte,Jørgen,Witte,5
+10094,Arne Adolf Nielsen,Arne Adolf,Nielsen,5
+10095,Henning Laursen,Henning,Laursen,5
+10096,Stiig Wæver,Stiig,Wæver,5
+10097,Isminur Lone Yalcinkaya,Isminur Lone,Yalcinkaya,5
+10098,Grete Lautrup-Larsen,Grete,Lautrup-Larsen,5
+10099,Birthe Nielsen,Birthe,Nielsen,5
+10100,Erik Voss (udpeget af EL),Erik,Voss (udpeget af EL),5
+10101,Evald Zacho,Evald,Zacho,5
+10102,Bente Mousten Nielsen Hansen,Bente Mousten Nielsen,Hansen,5
+10103,Bjarne Ørum,Bjarne,Ørum,5
+10104,Tove Weidner,Tove,Weidner,5
+10105,Svend-Aage Laxager,Svend-Aage,Laxager,5
+10106,Carsten Nielsen,Carsten,Nielsen,5
+10107,Bruno Jerup,Bruno,Jerup,5
+10108,Eigil Nielsen,Eigil,Nielsen,5
+10109,Kristen Østergaard,Kristen,Østergaard,5
+10110,Carsten Aagaard,Carsten,Aagaard,5
+10111,Kirsten Damgaard Lee,Kirsten Damgaard,Lee,5
+10112,Birte Weiss,Birte,Weiss,5
+10113,Christa Werge,Christa,Werge,5
+10114,Hans Damgaard Nielsen,Hans Damgaard,Nielsen,5
+10115,Hans Carl Nielsen,Hans Carl,Nielsen,5
+10116,Christian Overdal Aagaard,Christian Overdal,Aagaard,5
+10117,Henning Nielsen,Henning,Nielsen,5
+10118,Jørgen Lenger,Jørgen,Lenger,5
+10119,Tonni Nielsen,Tonni,Nielsen,5
+10120,Sven B. Nielsen,Sven B.,Nielsen,5
+10121,Jette Westh,Jette,Westh,5
+10122,Søren Hauberg Nielsen,Søren Hauberg,Nielsen,5
+10123,Knud Wilson,Knud,Wilson,5
+10124,Kristian Josef Nielsen,Kristian Josef,Nielsen,5
+10125,Knud Nielsen,Knud,Nielsen,5
+10126,Tove Niemann,Tove,Niemann,5
+10127,Johannes Sørensen,Johannes,Sørensen,5
+10128,Thorstein Theilgaard,Thorstein,Theilgaard,5
+10129,Søren Dejgård Sørensen,Søren Dejgård,Sørensen,5
+10130,Frederik Nørgaard,Frederik,Nørgaard,5
+10131,Ivar Nørgaard,Ivar,Nørgaard,5
+10133,Kai Nyborg,Kai,Nyborg,5
+10134,Erik Ninn-Hansen,Erik,Ninn-Hansen,5
+10135,Anne Majken Hessner Thiam,Anne Majken Hessner,Thiam,5
+10166,Jens Thoft,Jens,Thoft,5
+10172,Jette Thomsen,Jette,Thomsen,5
+10181,Kai Lauritz Ahm,Kai Lauritz,Ahm,5
+10184,Connie Andersen,Connie,Andersen,5
+10185,Ellen Margrethe Andersen,Ellen Margrethe,Andersen,5
+10192,Egone Baunsgaard,Egone,Baunsgaard,5
+10193,Inge Andersen,Inge,Andersen,5
+10194,Annalisa Lohmann Andersen,Annalisa Lohmann,Andersen,5
+10195,Joan Watson Andersen,Joan Watson,Andersen,5
+10196,Karina Andersen,Karina,Andersen,5
+10197,Eva Kristine Bay,Eva Kristine,Bay,5
+10198,Edith Bjerregaard,Edith,Bjerregaard,5
+10199,Karen Margrethe Christensen,Karen Margrethe,Christensen,5
+10200,Ellen Margrethe Bakholt,Ellen Margrethe,Bakholt,5
+10201,Ida Bangert,Ida,Bangert,5
+10202,Karen Marie Christensen,Karen Marie,Christensen,5
+10203,Ester Birthe Clausen,Ester Birthe,Clausen,5
+10204,Lise Uno Christensen,Lise Uno,Christensen,5
+10208,Annette Bollmann,Annette,Bollmann,5
+10209,Ruth Gudrun Damsgaard,Ruth Gudrun,Damsgaard,5
+10212,Betty Dalsager,Betty,Dalsager,5
+10213,Gerda Eriksen,Gerda,Eriksen,5
+10214,Hjørdis Djurhuus,Hjørdis,Djurhuus,5
+10215,Bodil Marie Flygaard,Bodil Marie,Flygaard,5
+10216,Enid Elise Meta Dinesen,Enid Elise Meta,Dinesen,5
+10217,Inge Holst Frandsen,Inge Holst,Frandsen,5
+10218,Ingeborg Gorrsen,Ingeborg,Gorrsen,5
+10219,Karen Marie Hansen,Karen Marie,Hansen,5
+10220,Ellen Boye Hansen,Ellen Boye,Hansen,5
+10221,Dorte Margrete Hansen,Dorte Margrete,Hansen,5
+10222,Lis Eiermann Hansen,Lis Eiermann,Hansen,5
+10223,Lissi Jacobsen,Lissi,Jacobsen,5
+10224,Karen Hauch,Karen,Hauch,5
+10225,Bergljot Julie Haugaard,Bergljot Julie,Haugaard,5
+10226,Ulla Hansen,Ulla,Hansen,5
+10227,Dagny Alvilda Jensen,Dagny Alvilda,Jensen,5
+10228,Lizzie Jensen,Lizzie,Jensen,5
+10229,Else Klaudine Jakobsen,Else Klaudine,Jakobsen,5
+10230,Birte Ringer Jensen,Birte Ringer,Jensen,5
+10231,Jytte Appel Jørgensen,Jytte Appel,Jørgensen,5
+10233,Inge-Lise Jensen,Inge-Lise,Jensen,5
+10234,Valborg Kiilerich,Valborg,Kiilerich,5
+10235,Lise Koch,Lise,Koch,5
+10236,Hanne Bodil Kalnæs,Hanne Bodil,Kalnæs,5
+10237,Anna Kirkegaard,Anna,Kirkegaard,5
+10238,Inger Kjældgaard,Inger,Kjældgaard,5
+10239,Grethe Herløv Larsen,Grethe Herløv,Larsen,5
+10240,Sara Kristensen,Sara,Kristensen,5
+10241,Birgit Julie Larsen,Birgit Julie,Larsen,5
+10242,Karen Marie Solveig S. Kristensen,Karen Marie Solveig S.,Kristensen,5
+10243,Lizzie Langsted,Lizzie,Langsted,5
+10244,Anna Elisabeth Larsen,Anna Elisabeth,Larsen,5
+10245,Signe Lund,Signe,Lund,5
+10246,Ellen Winther Lembourn,Ellen Winther,Lembourn,5
+10247,Erna Elisabeth Lund,Erna Elisabeth,Lund,5
+10248,Lis Mortensen,Lis,Mortensen,5
+10250,Anni Panduro Møller,Anni Panduro,Møller,5
+10251,Stig Møller,Stig,Møller,5
+10253,Alice Kirstine Nielsen,Alice Kirstine,Nielsen,5
+10254,Elna Mørk,Elna,Mørk,5
+10255,Lissen Nordqvist,Lissen,Nordqvist,5
+10256,Karen Hauge Olsen,Karen Hauge,Olsen,5
+10258,Nele Sørensen,Nele,Sørensen,5
+10275,Knud Andersen,Knud,Andersen,5
+10282,Elsebet Tesdorpf,Elsebet,Tesdorpf,5
+10285,Marie Tastesen,Marie,Tastesen,5
+10286,Inger Valbak,Inger,Valbak,5
+10287,Margrethe Ømann,Margrethe,Ømann,5
+10289,Stephanie Ebba Thomsen,Stephanie Ebba,Thomsen,5
+10291,Gurli Madsen,Gurli,Madsen,5
+10292,Nina Toft,Nina,Toft,5
+10293,Rita Alstrup Madsen,Rita Alstrup,Madsen,5
+10295,Helle Virkner,Helle,Virkner,5
+10300,Lisbet Juul Madsen,Lisbet Juul,Madsen,5
+10301,Lis Prehn,Lis,Prehn,5
+10302,Eva Pedersen,Eva,Pedersen,5
+10303,Kristine Marie Mortensen,Kristine Marie,Mortensen,5
+10305,Esther M. Rasmussen,Esther M.,Rasmussen,5
+10307,Asta Ingegerd Paabøl,Asta Ingegerd,Paabøl,5
+10309,Edith Pihl,Edith,Pihl,5
+10310,Ellen Schmidt,Ellen,Schmidt,5
+10311,Vera Schytt,Vera,Schytt,5
+10312,Ulla Poulsen,Ulla,Poulsen,5
+10313,Ivy Gudrun Stetter,Ivy Gudrun,Stetter,5
+10314,Kirsten Sørensen,Kirsten,Sørensen,5
+10315,Anna-Lise Rasmussen,Anna-Lise,Rasmussen,5
+10316,Ebba Rasmussen,Ebba,Rasmussen,5
+10317,Klara Sofie Sørensen,Klara Sofie,Sørensen,5
+10318,Maria Bodil Rosing,Maria Bodil,Rosing,5
+10320,Else Schrøder,Else,Schrøder,5
+10322,Helga Sinnbeck,Helga,Sinnbeck,5
+10324,Gudrun L. Sørensen,Gudrun L.,Sørensen,5
+10326,Chiyeko Stinus,Chiyeko,Stinus,5
+10331,Kirsten Sparre Andersen,Kirsten Sparre,Andersen,5
+10332,Anette Christine Egelund Holm (Hugo Holm),Anette Christine Egelund,Holm (Hugo Holm),5
+10335,Jørgen Bastholm,Jørgen,Bastholm,5
+10338,Karen Dahlerup Andersen,Karen Dahlerup,Andersen,5
+10339,Frede Houbak,Frede,Houbak,5
+10340,Grethe Kindberg Jørgensen,Grethe Kindberg,Jørgensen,5
+10341,Jytte Røge,Jytte,Røge,5
+10342,Tove Nielsen,Tove,Nielsen,5
+10343,Gunhild Due,Gunhild,Due,5
+10345,Alfred Andersen,Alfred,Andersen,5
+10348,Hanne Alice Engberg,Hanne Alice,Engberg,5
+10349,Svend Erik Sørensen,Svend Erik,Sørensen,5
+10350,Keld Andersen,Keld,Andersen,5
+10352,Enrico Møller Andersen,Enrico Møller,Andersen,5
+10353,Carl Hahn,Carl,Hahn,5
+10354,Erik Duerlund,Erik,Duerlund,5
+10356,Julie Trier,Julie,Trier,5
+10359,Ann Carina Tetschner,Ann Carina,Tetschner,5
+10360,Gerda Nielsen,Gerda,Nielsen,5
+10363,Kirsten Andersen,Kirsten,Andersen,5
+10364,Ingelise Blendstrup,Ingelise,Blendstrup,5
+10366,John H. Winther,John H.,Winther,5
+10367,Janne Normann,Janne,Normann,5
+10368,Inger Lise Grandt,Inger Lise,Grandt,5
+10369,Hanne Reintoft,Hanne,Reintoft,5
+10370,Evan Jensen,Evan,Jensen,5
+10372,Hans Christian Hansen,Hans Christian,Hansen,5
+10373,Hans Kjær,Hans,Kjær,5
+10374,Harald Westergaard Andersen,Harald Westergaard,Andersen,5
+10375,Steen Nymann,Steen,Nymann,5
+10377,Anker Tang Sørensen,Anker Tang,Sørensen,5
+10378,Helge Bundgaard Nielsen,Helge Bundgaard,Nielsen,5
+10379,Tage Dræbye,Tage,Dræbye,5
+10380,Knud Nauerby,Knud,Nauerby,5
+10381,Bent Honoré,Bent,Honoré,5
+10382,Alfred Hansen,Alfred,Hansen,5
+10383,Helmar Sørensen,Helmar,Sørensen,5
+10384,Karl Nielsen,Karl,Nielsen,5
+10385,Jens Møller,Jens,Møller,5
+10386,Hans Bjergegaard,Hans,Bjergegaard,5
+10388,Alice Faber,Alice,Faber,5
+10389,Bent Knie-Andersen,Bent,Knie-Andersen,5
+10390,Kirsten Fog Hjort,Kirsten Fog,Hjort,5
+10391,Jens Jørgen Bolvig,Jens Jørgen,Bolvig,5
+10392,Ejnar Amtoft,Ejnar,Amtoft,5
+10393,Børge Møller,Børge,Møller,5
+10394,John Haaber,John,Haaber,5
+10395,Jørgen Frederiksen,Jørgen,Frederiksen,5
+10396,Ib Christensen,Ib,Christensen,5
+10397,Tove Jørgensen,Tove,Jørgensen,5
+10398,Ejnar Nielsen (dublet),Ejnar,Nielsen (dublet),5
+10399,Erik Hove Sørensen,Erik Hove,Sørensen,5
+10400,Carl Kjeldsgaard Iversen,Carl Kjeldsgaard,Iversen,5
+10401,Jens Maigaard,Jens,Maigaard,5
+10402,Bent Sørensen,Bent,Sørensen,5
+10404,Arne Lindegård Rasmussen,Arne Lindegård,Rasmussen,5
+10406,Knud Raunkjær,Knud,Raunkjær,5
+10407,Thure Barsøe-Carnfeldt,Thure,Barsøe-Carnfeldt,5
+10408,Svend Andersen,Svend,Andersen,5
+10410,Jørgen Junior,Jørgen,Junior,5
+10411,Uwe Jensen,Uwe,Jensen,5
+10416,Hans Toft,Hans,Toft,5
+10418,Erik Andersen,Erik,Andersen,5
+10419,Bent Stubkjær Pedersen,Bent Stubkjær,Pedersen,5
+10420,Erling Askjær Jørgensen,Erling Askjær,Jørgensen,5
+10421,Uffe Thorndahl,Uffe,Thorndahl,5
+10422,Kurt Eilif Hansen,Kurt Eilif,Hansen,5
+10423,Karl Kjelgaard,Karl,Kjelgaard,5
+10424,Ervin Christian Jensen,Ervin Christian,Jensen,5
+10431,Karen Marie Vind Mørch,Karen Marie Vind,Mørch,5
+10432,Lene Borup Glistrup,Lene Borup,Glistrup,5
+10445,Mette Koch Larsen,Mette Koch,Larsen,5
+10447,Anne Sofie Boesen,Anne Sofie,Boesen,5
+10462,Torben Lund,Torben,Lund,5
+10498,Peter Lauritzen,Peter,Lauritzen,5
+10525,Martin Edal Baunsgaard,Martin Edal,Baunsgaard,5
+10610,Winnie Helt Hansen,Winnie Helt,Hansen,5
+10612,Anton Høj Jacobsen,Anton Høj,Jacobsen,5
+10613,Ann-Marie Olsson,Ann-Marie,Olsson,5
+10644,Mette Marie Sundbøll,Mette Marie,Sundbøll,5
+10690,Steen Konradsen,Steen,Konradsen,5
+10691,Kurt Scheelsbeck,Kurt,Scheelsbeck,5
+10695,Teddy Henrik Becher,Teddy Henrik,Becher,5
+10698,Laura Madum,Laura,Madum,5
+10701,Pernille Boye Koch,Pernille Boye,Koch,5
+10702,Helle Dam,Helle,Dam,5
+10703,Kamilla Kjelgaard,Kamilla,Kjelgaard,5
+10704,Kasper Krüger,Kasper,Krüger,5
+10705,Bente Kronborg Holst,Bente Kronborg,Holst,5
+10706,Jette Plesner Dali,Jette Plesner,Dali,5
+10707,Erikanell Asmuss Lorentsen,Erikanell Asmuss,Lorentsen,5
+10774,Annemette Skogstad,Annemette,Skogstad,5
+10900,Peter Krab,Peter,Krab,5
+10969,Sofie Freilev,Sofie,Freilev,5
+10988,Thor Kristjan Kidmose,Thor Kristjan,Kidmose,5
+11036,Snezana Glogovac,Snezana,Glogovac,5
+11040,Therese Kiilerich Bach,Therese Kiilerich,Bach,5
+11069,Steen Folke,Steen,Folke,5
+11072,Bente Grønfeldt,Bente,Grønfeldt,5
+11077,Erik Jacobsen,Erik,Jacobsen,5
+11091,Basharat Tariq,Basharat,Tariq,5
+11103,Marianne Ulrik Mertens,Marianne Ulrik,Mertens,5
+11222,Jonas Koefoed Rømer,Jonas Koefoed,Rømer,5
+11247,Lotte Thurøe Andersen,Lotte,Thurøe Andersen,5
+11412,Anna Kirsten Olesen,Anna Kirsten,Olesen,5
+11414,Aia Rebecca Fog (udpeget af DF),Aia Rebecca,Fog (udpeget af DF),5
+11415,Ann Sofie Orth,Ann Sofie,Orth,5
+11416,Peter Kurrild-Klitgaard (udpget af LA),Peter,Kurrild-Klitgaard (udpget af LA),5
+11417,Henning Nielsen (udpeget af RV),Henning,Nielsen (udpeget af RV),5
+11418,Henrik Bach Mortensen,Henrik Bach,Mortensen,5
+11419,Jane Alrø Sørensen,Jane Alrø,Sørensen,5
+11455,Birgit Thostrup Christensen,Birgit Thostrup,Christensen,5
+11498,Heidi Stochflet Holst Jensen,Heidi Stochflet Holst,Jensen,5
+11519,Patrick Alexander Fairlie,Patrick Alexander,Fairlie,5
+11521,Ida Maegaard Nielsen,Ida Maegaard,Nielsen,5
+11536,Else Inger Halvgaard,Else Inger,Halvgaard,5
+11539,Cilje Henriette Folsø,Cilje Henriette,Folsø,5
+11540,Else Margrethe Larsen-Ledet,Else Margrethe,Larsen-Ledet,5
+11541,Gudrun Buchart Petersen,Gudrun Buchart,Petersen,5
+11543,Anna Østergaard Jensen,Anna Østergaard,Jensen,5
+11544,Stella Tove Blichfeldt,Stella Tove,Blichfeldt,5
+11545,Eli Erenbjerg,Eli,Erenbjerg,5
+11546,Sòlva Dam,Sòlva,Dam,5
+11547,Anne Regitze Wivel,Anne Regitze,Wivel,5
+11548,Anna Grethe Nielsen,Anna Grethe,Nielsen,5
+11549,Jonna Poulsen,Jonna,Poulsen,5
+11551,Kathryn June Dean,Kathryn June,Dean,5
+11552,Eva Bettina Auken,Eva Bettina,Auken,5
+11554,Marit Solveig Lund Kristensen,Marit Solveig Lund,Kristensen,5
+11583,Kenneth Kristensen Berth,Kenneth Kristensen,Berth,5
+11584,Daniel Rugholm,Daniel,Rugholm,5
+11585,Jens Arne Hedegaard,Jens Arne,Hedegaard,5
+11586,Bilal Inekci,Bilal,Inekci,5
+11613,Vinnie Mørch,Vinnie,Mørch,5
+11617,Mads Fallesen Pedersen,Mads Fallesen,Pedersen,5
+11620,Katrine Prytz Larsen,Katrine Prytz,Larsen,5
+11637,Anna Munck,Anna,Munck,5
+11641,Anne Hald Petersen,Anne Hald,Petersen,5
+11702,Per Larsen,Per,Larsen,5
+11703,Peter Thyssen (udpeget af RV),Peter,Thyssen (udpeget af RV),5
+11704,Pelle Erik Andersen-Harild (udpeget af EL),Pelle Erik,Andersen-Harild (udpeget af EL),5
+11706,Christian Bundegaard (udpget af RV),Christian,Bundegaard (udpget af RV),5
+11735,Metha Bundgaard Nielsen,Metha Bundgaard,Nielsen,5
+11737,Lykke Inger Kjær,Lykke Inger,Kjær,5
+11875,Grace Agnes Langkilde Arentoft,Grace Agnes Langkilde,Arentoft,5
+11912,Carl Thio Tyroll,Carl Thio,Tyroll,5
+12038,Lars Løfgren,Lars,Løfgren,5
+12039,Henrik Lyse Hansen,Henrik Lyse,Hansen,5
+12062,Bjørn Westerbeek Dahl,Bjørn Westerbeek,Dahl,5
+12118,Kasper Winther Adsbøll,Kasper Winther,Adsbøll,5
+12122,Cathrine Nygaard Christensen,Cathrine Nygaard,Christensen,5
+12123,Sofie Berglund,Sofie,Berglund,5
+12125,Adam Billing,Adam,Billing,5
+12128,Annemarie Legart Bisgaard,Annemarie Legart,Bisgaard,5
+12134,Dorthe Fanøe,Dorthe,Fanøe,5
+12245,Gitte Glamsø,Gitte,Glamsø,5
+12250,Birgitte Dengsø Toft-Petersen,Birgitte Dengsø,Toft-Petersen,5
+12252,Anne Hedeager Bentsen,Anne Hedeager,Bentsen,5
+12253,Anne Line Kræmmer,Anne Line,Kræmmer,5
+12268,Peter Christian Mollerup,Peter Christian,Mollerup,5
+12272,Anita Bay Bundegaard,Anita Bay,Bundegaard,5
+12273,Ove Hygum,Ove,Hygum,5
+12274,Thorkild Simonsen,Thorkild,Simonsen,5
+12276,Svend Bergstein,Svend,Bergstein,5
+12277,Bent Rold Andersen,Bent Rold,Andersen,5
+12278,Michelle Ida Johnsen,Michelle Ida,Johnsen,5
+12280,Tom Høyem,Tom,Høyem,5
+12283,Aksel V. Johannesen,Aksel V.,Johannesen,5
+12284,Marie-Louise Andreassen,Marie-Louise,Andreassen,5
+12285,Ida Damborg,Ida,Damborg,5
+12292,Henrik Skovmark,Henrik,Skovmark,5
+12294,Laura Bolt Sørensen,Laura Bolt,Sørensen,5
+12426,Tine Marie Nielsen,Tine Marie,Nielsen,5
+12503,Anders Gilbro Nielsen,Anders,Gilbro Nielsen,5
+12546,Line Stange Ramsdal,Line Stange,Ramsdal,5
+12551,Julie Cathrine Grevsen,Julie Cathrine,Grevsen,5
+12553,Kirstine Brejning Skygebjerg,Kirstine,Brejning Skygebjerg,5
+12568,Mette Aagaard,Mette,Aagaard,5
+12594,Camilla Bredal With,Camilla Bredal,With,5
+12655,Sonja Betty Nørgaard,Sonja Betty,Nørgaard,5
+12686,Grethe Lindegård,Grethe,Lindegård,5
+12759,Kirsten Lautrup Sønderby,Kirsten Lautrup,Sønderby,5
+12760,Jonas Veng Christensen,Jonas Veng,Christensen,5
+12761,Agnete Dickmeiss,Agnete,Dickmeiss,5
+12766,Annette Unmack Larsen,Annette Unmack,Larsen,5
+12767,Karen Inge Kelm-Hansen,Karen Inge,Kelm-Hansen,5
+12825,Jacob Skibsted,Jacob,Skibsted,5
+12827,Jakob Eskar,Jakob,Eskar,5
+12830,Anna A. Rodina-Ødum,Anna A.,Rodina-Ødum,5
+12936,Rolf Aagaard-Svendsen (udpeget af KF),Rolf,Aagaard-Svendsen (udpeget af KF),5
+12947,Christina Diekhöner Harbeck,Christina Diekhöner,Harbeck,5
+13003,Lotte Lauritzen,Lotte,Lauritzen,5
+13007,Lola Bruun Jørgensen,Lola,Bruun Jørgensen,5
+13011,Nina Møller Porst,Nina,Møller Porst,5
+13103,Lise Brøns Nielsen,Lise,Brøns Nielsen,5
+13121,Henni Egholm Ellefsen,Henni Egholm,Ellefsen,5
+13123,Yusrah Asgar,Yusrah,Asgar,5
+13153,Jens Christian Jacobsen,Jens Christian,Jacobsen,5
+13174,Karina Kjølholm (adm),Karina,Kjølholm (adm),5
+13197,Lone Nikolajsen,Lone,Nikolajsen,5
+13198,Anne Britt Nørrelund Larsen,Anne Britt,Nørrelund Larsen,5
+13201,Mette Vestergaard-Olsen,Mette,Vestergaard-Olsen,5
+13209,Kirsten Jensen,Kirsten,Jensen,5
+13224,Mads Kromann-Larsen,Mads,Kromann-Larsen,5
+13236,Kursist5 Kursist5,Kursist5,Kursist5,5
+13250,Morten Dalsgaard Christiansen,Morten,Dalsgaard Christiansen,5
+13251,Celia Stenderrup-Petersen,Celia,Stenderrup-Petersen,5
+13252,Cilia Allermann Rasmussen,Cilia,Allermann Rasmussen,5
+13277,Erik Theill Sørensen,Erik Theill,Sørensen,5
+13313,Tormod Bill Olesen,Tormod Bill,Olesen,5
+13325,Delia Laksø,Delia,Laksø,5
+13331,Fejloprettet Person,Fejloprettet,Person,5
+13383,Lena Liltorp Fransgaard,Lena Liltorp,Fransgaard,5
+13425,Pernille Palmelund Sørensen,Pernille,Palmelund Sørensen,5
+13428,Magnus Nørrind Bistrup,Magnus,Nørrind Bistrup,5
+13437,Bodil Sandbjerg Frich,Bodil,Sandbjerg Frich,5
+13438,Camilla Lee Christensen,Camilla,Lee Christensen,5
+13439,Thomas Jensen,Thomas,Jensen,5
+13447,Ida Christine Midtgaard Lassen,Ida Christine,Midtgaard Lassen,5
+13451,Bjørn Bang Jakobsen,Bjørn,Bang Jakobsen,5
+13516,Maj Lauge Ward Jensen,Maj Lauge,Ward Jensen,5
+13521,Lene Birte Dræbye,Lene Birte,Dræbye,5
+13570,Dorthe Fahnøe Lyshjelm,Dorthe,Fahnøe Lyshjelm,5
+13576,Hanne Nødgaard,Hanne,Nødgaard,5
+13588,Thomas Schramm,Thomas,Schramm,5
+13594,Peder Pors,Peder,Pors,5
+13629,Maria Ulff Møller,Maria,Ulff Møller,5
+13654,Nicolai Mallet (udpeget af V),Nicolai,Mallet (udpeget af V),5
+13655,Charlotte Gerhauge (udpeget af SF),Charlotte,Gerhauge (udpeget af SF),5
+13656,Jonathan Nielsen (udpget af LA),Jonathan,Nielsen (udpget af LA),5
+13657,Niels Poulsen (udpeget af V),Niels,Poulsen (udpeget af V),5
+13658,Leif Donbæk Thomsen (udpeget af SF),Leif Donbæk,Thomsen (udpeget af SF),5
+13659,Poul Lindholm Nielsen (udpeget af DD),Poul Lindholm,Nielsen (udpeget af DD),5
+13660,Kate Bryld Jacquerot (udpeget af V),Kate Bryld,Jacquerot (udpeget af V),5
+13661,Jesper Laugesen (udpeget af SF),Jesper,Laugesen (udpeget af SF),5
+13662,Mette Touborg (udpeget af SF),Mette,Touborg (udpeget af SF),5
+13663,Helle Abild Hansen (udpeget af LA),Helle Abild,Hansen (udpeget af LA),5
+13664,Kirsten Terkilsen (udpeget af V),Kirsten,Terkilsen (udpeget af V),5
+13665,Arne Bang Mikkelsen (udpeget af KF),Arne Bang,Mikkelsen (udpeget af KF),5
+13694,Adam Bang,Adam,Bang,5
+13695,Josefine Prien Christensen,Josefine,Prien Christensen,5
+13727,Sarah Nørris,Sarah,Nørris,5
+13750,Morten Nørgaard,Morten,Nørgaard,5
+13771,Tom Budde Dalsgaard,Tom,Budde Dalsgaard,5
+13773,Marie Kluth,Marie,Kluth,5
+13777,Rikke Holst Søndergård,Rikke,Holst Søndergård,5
+13781,Line Christina Teilmann Nielsen,Line Christina Teilmann,Nielsen,5
+13794,Agnete Nielsen,Agnete,Nielsen,5
+13798,Karen Margrethe Fauerholdt,Karen,Margrethe Fauerholdt,5
+13801,Susanne Rumohr Hækkerup,Susanne,Rumohr Hækkerup,5
+13818,Svend Helge Niemann,Svend,Helge Niemann,5
+13820,Tove Poula Rasmussen Grove,Tove,Poula Rasmussen Grove,5
+13823,Kirsten Simonsen,Kirsten,Simonsen,5
+13836,Helge Vagn Jacobsen,Helge Vagn,Jacobsen,5
+13837,Rikke Hald Jensen,Rikke,Hald Jensen,5
+13843,Bente Bendix,Bente,Bendix,5
+13934,Dennis Nørmark (udpeget af LA),Dennis,Nørmark (udpeget af LA),5
+13973,Camilla Haahr Andersen,Camilla,Haahr Andersen,5
+13984,Helene Breiholm Svarrer Jakobsen,Helene,Breiholm Svarrer Jakobsen,5
+13985,Vincent Bonke Weil,Vincent,Bonke Weil,5
+13986,Lauge Lukas Bisted Pedersen,Lauge Lukas,Bisted Pedersen,5
+14000,Nick Nielsen,Nick,Nielsen,5
+14029,Laandsdommer Henrik Bloch Andersen,Laandsdommer Henrik Bloch,Andersen,5
+14113,Winnie Russell,Winnie,Russell,5
+14114,Sigurd Ømann,Sigurd,Ømann,5
+14115,Ib Nørlund,Ib,Nørlund,5
+14116,Hans Biltzing,Hans,Biltzing,5
+14117,Lasse Budtz,Lasse,Budtz,5
+14119,Helge Nielsen,Helge,Nielsen,5
+14120,Kurt Brauer,Kurt,Brauer,5
+14121,Knud Jespersen,Knud,Jespersen,5
+14122,Poul H. Møller,Poul H.,Møller,5
+14123,Kaj V. Andersen,Kaj V.,Andersen,5
+14124,Eva Rothenborg,Eva,Rothenborg,5
+14125,Kr. Albertsen,Kr.,Albertsen,5
+14126,Hagen Hagensen,Hagen,Hagensen,5
+14128,Birgitte Oxdam,Birgitte,Oxdam,5
+14129,Kjeld Olesen,Kjeld,Olesen,5
+14131,Svend Jakobsen,Svend,Jakobsen,5
+14132,Niels Matthiasen,Niels,Matthiasen,5
+14133,Ejler Koch,Ejler,Koch,5
+14134,Ole Olsen,Ole,Olsen,5
+14135,Poul Dam,Poul,Dam,5
+14136,Erhard Jakobsen,Erhard,Jakobsen,5
+14137,Poul Nyboe Andersen,Poul Nyboe,Andersen,5
+14138,Jens Jacobsen,Jens,Jacobsen,5
+14139,Mogens Glistrup,Mogens,Glistrup,5
+14140,Kjeld Wamberg,Kjeld,Wamberg,5
+14141,Erling Jensen,Erling,Jensen,5
+14142,Inge Fischer Møller,Inge Fischer,Møller,5
+14143,Hans Jørgen Lembourn,Hans Jørgen,Lembourn,5
+14144,Kristine Heltberg,Kristine,Heltberg,5
+14145,Jørgen Jensen,Jørgen,Jensen,5
+14147,Knud Damgaard,Knud,Damgaard,5
+14148,Ove Hansen,Ove,Hansen,5
+14149,Edele Kruchow,Edele,Kruchow,5
+14150,Egon Jensen,Egon,Jensen,5
+14152,Karl Skytte,Karl,Skytte,5
+14153,Ritta Ahm,Ritta,Ahm,5
+14155,Ove Guldberg,Ove,Guldberg,5
+14157,Grete Hækkerup,Grete,Hækkerup,5
+14158,R. Lysholt Hansen,R. Lysholt,Hansen,5
+14159,Arne Stinus,Arne,Stinus,5
+14160,Gerda Møller,Gerda,Møller,5
+14161,Elsebeth Kock-Petersen,Elsebeth,Kock-Petersen,5
+14162,Svend Andersen,Svend,Andersen,5
+14163,Erling Dinesen,Erling,Dinesen,5
+14164,Jørgen Peder Hansen,Jørgen Peder,Hansen,5
+14165,Hilmar Baunsgaard,Hilmar,Baunsgaard,5
+14167,Gert Petersen,Gert,Petersen,5
+14168,Kaj Hansen,Kaj,Hansen,5
+14169,Inge Krogh,Inge,Krogh,5
+14170,Jens Peter Jensen,Jens Peter,Jensen,5
+14173,Erik Andersen (Sønderjyllands amt),Erik,Andersen (Sønderjyllands amt),5
+14174,Ingomar Petersen,Ingomar,Petersen,5
+14175,Johannes Burgdorf,Johannes,Burgdorf,5
+14176,Jes Schmidt,Jes,Schmidt,5
+14177,Johan Philipsen,Johan,Philipsen,5
+14178,Helge Dohrmann,Helge,Dohrmann,5
+14179,Per Hækkerup,Per,Hækkerup,5
+14180,Søren Jensen,Søren,Jensen,5
+14181,Nathalie Lind,Nathalie,Lind,5
+14182,Ivar Hansen,Ivar,Hansen,5
+14183,Jacob Sørensen,Jacob,Sørensen,5
+14184,Svend Bay,Svend,Bay,5
+14185,Karl Johan Mortensen,Karl Johan,Mortensen,5
+14186,Bernhardt Tastesen,Bernhardt,Tastesen,5
+14187,Poul Hartling,Poul,Hartling,5
+14188,Jeppe Kristensen,Jeppe,Kristensen,5
+14189,Normann Andersen,Normann,Andersen,5
+14190,Robert Pedersen,Robert,Pedersen,5
+14191,Gunner Baunsgaard,Gunner,Baunsgaard,5
+14192,Christian Christensen,Christian,Christensen,5
+14193,J. E. Foged,J. E.,Foged,5
+14194,Carlo Wichmann Madsen,Carlo Wichmann,Madsen,5
+14195,Henry Grünbaum,Henry,Grünbaum,5
+14196,Søren B. Jørgensen,Søren B.,Jørgensen,5
+14197,Bernhard Baunsgaard,Bernhard,Baunsgaard,5
+14199,Freddy Madsen,Freddy,Madsen,5
+14200,Christian Arnfast,Christian,Arnfast,5
+14201,Anders Andersen,Anders,Andersen,5
+14202,Anna Skriver,Anna,Skriver,5
+14203,K. B. Andersen,K. B.,Andersen,5
+14204,Svend Haugaard,Svend,Haugaard,5
+14205,Gustav Holmberg,Gustav,Holmberg,5
+14206,Aksel Pedersen,Aksel,Pedersen,5
+14207,Hans Bach,Hans,Bach,5
+14208,Orla Møller,Orla,Møller,5
+14209,Jens Risgaard Knudsen,Jens Risgaard,Knudsen,5
+14210,Poul Dalsager,Poul,Dalsager,5
+14211,Poul Mortensen,Poul,Mortensen,5
+14212,Per Gudme,Per,Gudme,5
+14213,Ib Stetter,Ib,Stetter,5
+14214,Henning Philipsen,Henning,Philipsen,5
+14215,Villy Fuglsang,Villy,Fuglsang,5
+14216,Arne Bjerregaard,Arne,Bjerregaard,5
+14218,Jørgen Brøndlund Nielsen,Jørgen Brøndlund,Nielsen,5
+14219,Kurt Hansen,Kurt,Hansen,5
+14220,Finnur Erlendsson,Finnur,Erlendsson,5
+14221,Mogens Tange,Mogens,Tange,5
+14222,Johan Nielsen,Johan,Nielsen,5
+14223,Erlendur Patursson,Erlendur,Patursson,5
+14224,Lars Emil Johansen,Lars Emil,Johansen,5
+14225,Nikolaj Rosing,Nikolaj,Rosing,5
+14231,Eva Gredal,Eva,Gredal,5
+14240,Rita Christensen,Rita,Christensen,5
+14241,Frederik Johansen,Frederik,Johansen,5
+14242,Wencke Hansen,Wencke,Hansen,5
+14243,Chr. Thomsen,Chr.,Thomsen,5
+14244,Svend Tønnesen,Svend,Tønnesen,5
+14245,Frede Tandrup Jensen,Frede Tandrup,Jensen,5
+14246,Helge Larsen,Helge,Larsen,5
+14247,Erik Bauer,Erik,Bauer,5
+14248,Jørgen Andreasen,Jørgen,Andreasen,5
+14249,Jørgen Parning,Jørgen,Parning,5
+14250,C. A. Kruse,C. A.,Kruse,5
+14251,Peter Juul Andersen,Peter Juul,Andersen,5
+14252,Carl Erik Hansen,Carl Erik,Hansen,5
+14254,Morten Lange,Morten,Lange,5
+14281,Jens Peter Egebjerg Andersen,Jens Peter Egebjerg,Andersen,5
+14282,Ivar Lykke Kristensen,Ivar Lykke,Kristensen,5
+14283,Jens Kristian Pedersen,Jens Kristian,Pedersen,5
+14284,Hans Chr. Jepsen,Hans Chr.,Jepsen,5
+14285,K.J. Rosleff,K.J.,Rosleff,5
+14286,Bodil Leth Emanuel,Bodil Leth,Emanuel,5
+14287,Birte Kjærum,Birte,Kjærum,5
+14288,Erik Worm,Erik,Worm,5
+14289,Jens Søndergård Jensen,Jens Søndergård,Jensen,5
+14292,Børge Bakholt,Børge,Bakholt,5
+14293,Niels Bollmann,Niels,Bollmann,5
+14294,Svend Hjortlund Christensen,Svend Hjortlund,Christensen,5
+14295,Tove Frederiksen,Tove,Frederiksen,5
+14296,Lilli Gyldenkilde,Lilli,Gyldenkilde,5
+14297,Alice Hedegaard,Alice,Hedegaard,5
+14298,Ingolf Knudsen,Ingolf,Knudsen,5
+14299,Ib Langsted,Ib,Langsted,5
+14300,John Lawaetz,John,Lawaetz,5
+14301,Asger Lindinger,Asger,Lindinger,5
+14302,Niels Mølgaard,Niels,Mølgaard,5
+14303,Ernst Prehn,Ernst,Prehn,5
+14304,Ernst B. Schmidt,Ernst B.,Schmidt,5
+14305,Lis Starcke,Lis,Starcke,5
+14306,Marinus Sørensen,Marinus,Sørensen,5
+14307,Ove Hove,Ove,Hove,5
+14308,Lise Østergaard,Lise,Østergaard,5
+14312,Ruth Edeltraut Møller,Ruth Edeltraut,Møller,5
+14313,Ulla Vibeke Poulsen,Ulla Vibeke,Poulsen,5
+14314,Annette-Julie Winding,Annette-Julie,Winding,5
+14315,Ruth Nielsen,Ruth,Nielsen,5
+14332,Ole Hovmand,Ole,Hovmand,5
+14333,Svend Erik Rasmussen,Svend Erik,Rasmussen,5
+14334,Knud Ebbesen,Knud,Ebbesen,5
+14335,Ole Andersen,Ole,Andersen,5
+14336,Thage Revsgaard Espersen,Thage Revsgaard,Espersen,5
+14339,Gertrud Stjernholm Nielsen,Gertrud Stjernholm,Nielsen,5
+14342,Ole Bernt Henriksen,Ole Bernt,Henriksen,5
+14343,Kaj Lyngsøe,Kaj,Lyngsøe,5
+14344,Bodil Boserup,Bodil,Boserup,5
+14346,Litha Christiansen,Litha,Christiansen,5
+14347,Thomas Thomsen,Thomas,Thomsen,5
+14348,Therkel Christensen,Therkel,Christensen,5
+14349,Carl Nielsen,Carl,Nielsen,5
+14350,Finn Kledal,Finn,Kledal,5
+14351,Paulus Andersen,Paulus,Andersen,5
+14352,Thyge Schak Nielsen,Thyge Schak,Nielsen,5
+14353,Eigil Schytt,Eigil,Schytt,5
+14354,Erik Drejer,Erik,Drejer,5
+14355,A. P. Brændstrup,A. P.,Brændstrup,5
+14372,Susanne Eilersen (udpeget af DF),Susanne,Eilersen (udpeget af DF),5
+14389,Per Blendstrup,Per,Blendstrup,5
+14390,Ole Flygaard,Ole,Flygaard,5
+14391,Karl Møller,Karl,Møller,5
+14407,Elisabeth Bardino,Elisabeth,Bardino,5
+14408,Birgith Mogensen,Birgith,Mogensen,5
+14409,Helga Soltau,Helga,Soltau,5
+14410,Gunnar Jensen,Gunnar,Jensen,5
+14411,Søren Jensen,Søren,Jensen,5
+14412,Bent Hansen,Bent,Hansen,5
+14413,Mogens Houmann Elvensø,Mogens Houmann,Elvensø,5
+14435,Aage Andersen,Aage,Andersen,5
+14436,Niels Andersen,Niels,Andersen,5
+14437,Lars P. Gammelgaard,Lars P.,Gammelgaard,5
+14438,Flemming Jensen,Flemming,Jensen,5
+14439,Ole Kalnæs,Ole,Kalnæs,5
+14440,Agnete Laustsen,Agnete,Laustsen,5
+14441,Winnie Møller,Winnie,Møller,5
+14442,Knud Øllgaard,Knud,Øllgaard,5
+14455,Mette Brigsted Hansen,Mette Brigsted,Hansen,5
+14458,Tangsig Christensen,Tangsig,Christensen,5
+14459,Poul Munksø,Poul,Munksø,5
+14460,Inge Tranholm-Mikkelsen,Inge,Tranholm-Mikkelsen,5
+14461,Bjørn Pavstrup,Bjørn,Pavstrup,5
+14462,Margit Rønnow,Margit,Rønnow,5
+14463,A.O. Andersen,A.O.,Andersen,5
+14480,Martha Sonne,Martha,Sonne,5
+14481,Nancy Rørbæk,Nancy,Rørbæk,5
+14482,Else Brønserud,Else,Brønserud,5
+14483,Verner Christiansen,Verner,Christiansen,5
+14497,Poul Emmert Andersen,Poul Emmert,Andersen,5
+14498,Arne Jensen,Arne,Jensen,5
+14499,Finn Jørgensen,Finn,Jørgensen,5
+14500,Elisabeth Krog,Elisabeth,Krog,5
+14501,Paul Lohmann,Paul,Lohmann,5
+14502,Grethe Lyngs,Grethe,Lyngs,5
+14503,Lis Møller,Lis,Møller,5
+14504,Henning Rasmussen,Henning,Rasmussen,5
+14505,Knud Østergaard,Knud,Østergaard,5
+14507,Anja Brokholt Pedersen,Anja,Brokholt Pedersen,5
+14509,Henning Rasmussen,Henning,Rasmussen,5
+14510,Alfred Hansen Arildsen,Alfred Hansen,Arildsen,5
+14525,Aase Arnfast,Aase,Arnfast,5
+14547,Arne Lund,Arne,Lund,5
+14548,Egon Nielsen,Egon,Nielsen,5
+14549,Mogens Fledelius,Mogens,Fledelius,5
+14567,Carsten Andersen,Carsten,Andersen,5
+14568,Isi Foighel,Isi,Foighel,5
+14570,Hanne Thanning Jacobsen,Hanne Thanning,Jacobsen,5
+14630,Frank Pedersen,Frank,Pedersen,5
+14631,Jørgen Eiberg,Jørgen,Eiberg,5
+14633,Preben Møller Hansen,Preben Møller,Hansen,5
+14634,Ejner Larsen,Ejner,Larsen,5
+14635,H. P. Clausen,H. P.,Clausen,5
+14643,Sarah Gandrup,Sarah,Gandrup,5
+14662,Ann-Carina Ingemann,Ann-Carina,Ingemann,5
+14689,Liss Grooss,Liss,Grooss,5
+14692,Anders Mølgaard Jensen,Anders Mølgaard,Jensen,5
+14703,Verner Jensen,Verner,Jensen,5
+14705,Poul Jensen,Poul,Jensen,5
+14740,Finn Larsen,Finn,Larsen,5
+14741,Julie Andersen,Julie,Andersen,5
+14743,Ole M. Nielsen,Ole M.,Nielsen,5
+14753,Asger Jensen,Asger,Jensen,5
+14788,Irene Sønderby,Irene,Sønderby,5
+14826,Anne Clara Wissing,Anne Clara,Wissing,5
+14828,Ellen Kristensen,Ellen,Kristensen,5
+14854,Tom Beck,Tom,Beck,5
+14960,Edel Saunte,Edel,Saunte,5
+14961,Johs. Kjærbøl,Johs.,Kjærbøl,5
+14962,Rasmus Hansen,Rasmus,Hansen,5
+14963,Ib Kolbjørn,Ib,Kolbjørn,5
+14964,Erna Sørensen,Erna,Sørensen,5
+14965,K. Bøgholm,K.,Bøgholm,5
+14966,Ragnhild Andersen,Ragnhild,Andersen,5
+14967,Hans Hedtoft,Hans,Hedtoft,5
+14968,Nina Andersen,Nina,Andersen,5
+14969,Frode Jakobsen,Frode,Jakobsen,5
+14970,Villy Heising,Villy,Heising,5
+14971,Lars M. Olsen,Lars M.,Olsen,5
+14972,Ingvard Dahl,Ingvard,Dahl,5
+14973,Edvin Boye Hansen,Edvin Boye,Hansen,5
+14974,Kirsten Gloerfelt-Tarp,Kirsten,Gloerfelt-Tarp,5
+14975,Ove Weikop,Ove,Weikop,5
+14977,Hanne Budtz,Hanne,Budtz,5
+14978,Poul Claussen,Poul,Claussen,5
+14979,Anker Lau,Anker,Lau,5
+14980,Knud Tholstrup,Knud,Tholstrup,5
+14981,Aksel Larsen,Aksel,Larsen,5
+14982,Viola Nørløv,Viola,Nørløv,5
+14983,Alsing Andersen,Alsing,Andersen,5
+14984,Wiggo Larsen,Wiggo,Larsen,5
+14985,O. Einer-Jensen,O.,Einer-Jensen,5
+14986,Carl P. Jensen,Carl P.,Jensen,5
+14987,E. Rager,E.,Rager,5
+14988,Aksel Møller,Aksel,Møller,5
+14989,Marie Antoinette von Lowzow,Marie Antoinette,von Lowzow,5
+14990,Kristen Amby,Kristen,Amby,5
+14991,R. C. Paabøl,R. C.,Paabøl,5
+14992,Ingmar Wagner,Ingmar,Wagner,5
+14993,H. C. Hansen,H. C.,Hansen,5
+14994,Urban Hansen,Urban,Hansen,5
+14995,Søren Christian Hougaard,Søren Christian,Hougaard,5
+14996,Jørgen Jørgensen (Lejre),Jørgen,Jørgensen (Lejre),5
+14997,Halfdan Hendriksen,Halfdan,Hendriksen,5
+14998,N. Gottschalck-Hansen,N.,Gottschalck-Hansen,5
+14999,Carsten Raft,Carsten,Raft,5
+15000,Gertie Wandel,Gertie,Wandel,5
+15001,Poul Givskov Christensen,Poul Givskov,Christensen,5
+15002,Viggo Starcke,Viggo,Starcke,5
+15003,Niels Mørk,Niels,Mørk,5
+15004,Kai Jensen,Kai,Jensen,5
+15005,Else Zeuthen,Else,Zeuthen,5
+15006,Adolph Sørensen,Adolph,Sørensen,5
+15007,C. F. Ladefoged,C. F.,Ladefoged,5
+15008,Henry Christensen,Henry,Christensen,5
+15009,Poul Hansen (Kalundborg),Poul,Hansen (Kalundborg),5
+15010,Chr. Rasmussen,Chr.,Rasmussen,5
+15011,Einar Foss,Einar,Foss,5
+15012,P. B. Thisted Knudsen,P. B.,Thisted Knudsen,5
+15013,Viggo Kampmann,Viggo,Kampmann,5
+15014,Kaj Bundvad,Kaj,Bundvad,5
+15015,Helga Pedersen,Helga,Pedersen,5
+15016,Arnth Jensen,Arnth,Jensen,5
+15017,Carl Petersen,Carl,Petersen,5
+15018,Johs. Christiansen,Johs.,Christiansen,5
+15019,Axel Reedtz-Thott,Axel,Reedtz-Thott,5
+15020,Otto Himmelstrup,Otto,Himmelstrup,5
+15021,Henry Hansen,Henry,Hansen,5
+15022,Johs. E. Larsen,Johs. E.,Larsen,5
+15023,Conrad Kofoed,Conrad,Kofoed,5
+15024,Holger Brodthagen,Holger,Brodthagen,5
+15025,S. Lund Jensen,S.,Lund Jensen,5
+15026,Svend Jørgensen,Svend,Jørgensen,5
+15027,E. Tesdorph,E.,Tesdorph,5
+15028,Henry Gideon,Henry,Gideon,5
+15029,Holger Larsen,Holger,Larsen,5
+15030,Hans Rasmussen,Hans,Rasmussen,5
+15031,Sofie Pedersen,Sofie,Pedersen,5
+15032,P. Ditlevsen,P.,Ditlevsen,5
+15033,Oluf Steen,Oluf,Steen,5
+15034,Poul Sørensen,Poul,Sørensen,5
+15035,Peter Larsen,Peter,Larsen,5
+15036,Ellen Poulsen,Ellen,Poulsen,5
+15037,J. M. Pedersen,J. M.,Pedersen,5
+15038,Petra Petersen,Petra,Petersen,5
+15039,Poul Hansen (Svendborg),Poul,Hansen (Svendborg),5
+15040,Svend Horn,Svend,Horn,5
+15041,Aage Fogh,Aage,Fogh,5
+15042,Jørgen Jørgensen (Ullerup),Jørgen,Jørgensen (Ullerup),5
+15043,Niels Eriksen,Niels,Eriksen,5
+15044,J. Chr. Jensen-Broby,J. Chr.,Jensen-Broby,5
+15045,Chr. Christiansen,Chr.,Christiansen,5
+15046,Niels Hjortnæs,Niels,Hjortnæs,5
+15047,Hans Baagø-Hansen,Hans,Baagø-Hansen,5
+15048,Marius J. Heilesen,Marius J.,Heilesen,5
+15049,Søren Andersen,Søren,Andersen,5
+15050,Jens Chr. Christensen,Jens Chr.,Christensen,5
+15051,Søren Olesen,Søren,Olesen,5
+15052,Hans Knudsen,Hans,Knudsen,5
+15053,V. Fibiger,V.,Fibiger,5
+15054,Jørgen Krogh,Jørgen,Krogh,5
+15055,K. Damsgaard,K.,Damsgaard,5
+15056,J. Strøm,J.,Strøm,5
+15057,Peter Kristensen (Ålborg),Peter,Kristensen (Ålborg),5
+15058,K. Axel Nielsen,K. Axel,Nielsen,5
+15059,Claus Christensen,Claus,Christensen,5
+15060,Peter Nielsen,Peter,Nielsen,5
+15061,Evald Kristensen,Evald,Kristensen,5
+15062,Ole Bjørn Kraft,Ole Bjørn,Kraft,5
+15063,Alfred Bøgh,Alfred,Bøgh,5
+15065,Edvard Sørensen,Edvard,Sørensen,5
+15066,Oluf Pedersen,Oluf,Pedersen,5
+15067,L. Lynnerup Nielsen,L. Lynnerup,Nielsen,5
+15068,Th. Hauberg,Th.,Hauberg,5
+15069,Bertel Dahlgaard,Bertel,Dahlgaard,5
+15070,C. Rasting,C.,Rasting,5
+15071,K. M. Lorentzen,K. M.,Lorentzen,5
+15072,J. O. Krag,J. O.,Krag,5
+15073,Gustav Pedersen,Gustav,Pedersen,5
+15074,Poul Hansen (Grenaa),Poul,Hansen (Grenaa),5
+15075,Jens Hansen,Jens,Hansen,5
+15076,A. Stæhr Johansen,A. Stæhr,Johansen,5
+15077,S. From,S.,From,5
+15078,Holger Eriksen,Holger,Eriksen,5
+15079,Peter Jørgensen,Peter,Jørgensen,5
+15080,Leonhard Hansen,Leonhard,Hansen,5
+15081,Th. Mikkelsen,Th.,Mikkelsen,5
+15082,Aage Knudsen,Aage,Knudsen,5
+15083,Flemming Hvidberg,Flemming,Hvidberg,5
+15084,Svend Aage Fanger,Svend Aage,Fanger,5
+15085,J. Martin,J.,Martin,5
+15086,Alfred Jensen,Alfred,Jensen,5
+15087,Kaj Andresen,Kaj,Andresen,5
+15088,Lars P. Jensen,Lars P.,Jensen,5
+15089,Peder Jensen,Peder,Jensen,5
+15090,Poul Møller,Poul,Møller,5
+15091,Marius Buhl,Marius,Buhl,5
+15092,Kristian Juul,Kristian,Juul,5
+15093,Kai Lindberg,Kai,Lindberg,5
+15094,Victor Gram,Victor,Gram,5
+15095,M. Larsen,M.,Larsen,5
+15096,Axel Ivan Pedersen,Axel Ivan,Pedersen,5
+15097,Axel Sørensen,Axel,Sørensen,5
+15098,Karl Olsen,Karl,Olsen,5
+15099,Thorkil Kristensen,Thorkil,Kristensen,5
+15101,Vagn Bro,Vagn,Bro,5
+15102,Alvilda Larsen,Alvilda,Larsen,5
+15103,Bodil Koch,Bodil,Koch,5
+15104,Jens Smørum,Jens,Smørum,5
+15105,Jacob Kirkegaard,Jacob,Kirkegaard,5
+15106,K. Thestrup,K.,Thestrup,5
+15107,Jens Sønderup,Jens,Sønderup,5
+15108,Harald Nielsen,Harald,Nielsen,5
+15109,Julius Bomholt,Julius,Bomholt,5
+15110,Ove Kjældgaard,Ove,Kjældgaard,5
+15111,Peter Ravn,Peter,Ravn,5
+15113,A. C. Normann,A. C.,Normann,5
+15114,Erik Eriksen,Erik,Eriksen,5
+15115,N. Chr. Christensen,N. Chr.,Christensen,5
+15116,O. Øllgaard,O.,Øllgaard,5
+15117,Frede Nielsen,Frede,Nielsen,5
+15118,Jens Bladt,Jens,Bladt,5
+15119,Fr. W. Teichert,Fr. W.,Teichert,5
+15120,Ingeborg Refslund Thomsen,Ingeborg,Refslund Thomsen,5
+15121,L. Clausen (Olufskjær),L.,Clausen (Olufskjær),5
+15122,Jørgen Gram,Jørgen,Gram,5
+15123,Fr. Heick,Fr.,Heick,5
+15124,Hans Hansen (Rørby),Hans,Hansen (Rørby),5
+15125,Hans Schmidt,Hans,Schmidt,5
+15126,Johan Poulsen,Johan,Poulsen,5
+15127,P. Mohr Dam,P. Mohr,Dam,5
+15128,Frederik Lynge,Frederik,Lynge,5
+15129,Augo A. Lynge,Augo A.,Lynge,5
+15130,Robert Sørensen,Robert,Sørensen,5
+15131,Frode Carstensen,Frode,Carstensen,5
+15132,Peder Christensen (Rebild),Peder,Christensen (Rebild),5
+15133,Andreas Hansen,Andreas,Hansen,5
+15144,Knud Nielsen,Knud,Nielsen,5
+15145,Th. Carlsen,Th.,Carlsen,5
+15146,Axel Conradsen,Axel,Conradsen,5
+15148,Erik Bruun de Neergaard,Erik,Bruun de Neergaard,5
+15149,Orla Pedersen,Orla,Pedersen,5
+15150,Alfred Jørgensen,Alfred,Jørgensen,5
+15159,Rudy Schrøder,Rudy,Schrøder,5
+15161,Jacob Pedersen,Jacob,Pedersen,5
+15173,Hans Christensen,Hans,Christensen,5
+15174,Gudrun Hasselriis,Gudrun,Hasselriis,5
+15175,Rudolph Rasmussen,Rudolph,Rasmussen,5
+15176,Oscar Kryger,Oscar,Kryger,5
+15178,Alfred Kristensen,Alfred,Kristensen,5
+15191,Edvin Dose,Edvin,Dose,5
+15192,Astrid Skjoldbo,Astrid,Skjoldbo,5
+15193,Hermod Lannung,Hermod,Lannung,5
+15194,Helge Madsen,Helge,Madsen,5
+15195,Emil Francke,Emil,Francke,5
+15196,Axel Kristensen,Axel,Kristensen,5
+15197,Emil Retoft,Emil,Retoft,5
+15198,Aage Gøting,Aage,Gøting,5
+15199,Holger Justesen,Holger,Justesen,5
+15200,Per Federspiel,Per,Federspiel,5
+15201,Poul Thomsen,Poul,Thomsen,5
+15202,Henry L. W. Jensen,Henry L. W.,Jensen,5
+15203,H. C. Toft,H. C.,Toft,5
+15204,Morten Larsen,Morten,Larsen,5
+15205,Egon Lauritzen,Egon,Lauritzen,5
+15206,Asger Jensen,Asger,Jensen,5
+15207,Waldemar Laursen,Waldemar,Laursen,5
+15208,Niels Andersen,Niels,Andersen,5
+15209,Wilhelm Dupont,Wilhelm,Dupont,5
+15210,H. K. Sørensen,H. K.,Sørensen,5
+15211,P. A. Rasmussen,P. A.,Rasmussen,5
+15212,Aage Petersen,Aage,Petersen,5
+15213,Ejner Kristensen,Ejner,Kristensen,5
+15214,Poul Nilsson,Poul,Nilsson,5
+15215,I. Skov Jørgensen,I. Skov,Jørgensen,5
+15216,Peter Gorrsen,Peter,Gorrsen,5
+15217,Frederik Slipsager,Frederik,Slipsager,5
+15218,Ejnar Hansen,Ejnar,Hansen,5
+15219,Thorstein Petersen,Thorstein,Petersen,5
+15220,Hákun Djurhuus,Hákun,Djurhuus,5
+15233,Gudrun Bjørner,Gudrun,Bjørner,5
+15234,Ayoë Kate Herbøl,Ayoë Kate,Herbøl,5
+15235,Niels Ravn,Niels,Ravn,5
+15236,Kristian Kristensen,Kristian,Kristensen,5
+15237,Elias Lauf,Elias,Lauf,5
+15249,Alfred Christensen,Alfred,Christensen,5
+15250,Adam Møller,Adam,Møller,5
+15252,Robert Sandau,Robert,Sandau,5
+15253,Anna Barfoed,Anna,Barfoed,5
+15254,Helmuth Nørrelund,Helmuth,Nørrelund,5
+15255,Ellen Strange Petersen,Ellen Strange,Petersen,5
+15256,C. Melchior Hansen,C. Melchior,Hansen,5
+15257,Joachim Mosbech,Joachim,Mosbech,5
+15270,Bjørn Krogh,Bjørn,Krogh,5
+15271,Lis Groes,Lis,Groes,5
+15272,Børge Jensen,Børge,Jensen,5
+15273,Erhardt Andersen,Erhardt,Andersen,5
+15274,R. Juul Jørgensen,R. Juul,Jørgensen,5
+15288,Helge Clausen,Helge,Clausen,5
+15289,Peder Jakobsen,Peder,Jakobsen,5
+15304,Clara Munck,Clara,Munck,5
+15305,Kai Moltke,Kai,Moltke,5
+15306,Else-Merete Ross,Else-Merete,Ross,5
+15307,Erik A. Jensen,Erik A.,Jensen,5
+15308,Arne Bertelsen,Arne,Bertelsen,5
+15309,Elna Syvertsen,Elna,Syvertsen,5
+15310,Arne Larsen,Arne,Larsen,5
+15311,Knud Thomsen,Knud,Thomsen,5
+15312,I. A. Rimstad,I. A.,Rimstad,5
+15313,Jørgen Jensen,Jørgen,Jensen,5
+15314,Hans Larsen (Bjerre),Hans,Larsen (Bjerre),5
+15315,Johannes Hansen,Johannes,Hansen,5
+15316,Carl Nielsen,Carl,Nielsen,5
+15317,J. Skræppenborg-Nielsen,J.,Skræppenborg-Nielsen,5
+15318,H. Mose Hansen,H. Mose,Hansen,5
+15319,Gudrun Hyldeborg Møller,Gudrun Hyldeborg,Møller,5
+15320,Finn Poulsen,Finn,Poulsen,5
+15321,Jens Peter Dalsgaard,Jens Peter,Dalsgaard,5
+15322,Chr. Madsen,Chr.,Madsen,5
+15323,Kjeld Philip,Kjeld,Philip,5
+15324,Erik Kragh,Erik,Kragh,5
+15325,P. E. Eriksen,P. E.,Eriksen,5
+15326,Iver Poulsen,Iver,Poulsen,5
+15327,Verner Sinnbeck,Verner,Sinnbeck,5
+15328,Axel Grøndahl,Axel,Grøndahl,5
+15329,Holger Vivike,Holger,Vivike,5
+15330,O. Vestergaard Poulsen,O. Vestergaard,Poulsen,5
+15331,P. Skov Thulesen,P. Skov,Thulesen,5
+15332,Viggo Hauch,Viggo,Hauch,5
+15333,O. Mathiasen,O.,Mathiasen,5
+15334,Ejnar Bækgaard,Ejnar,Bækgaard,5
+15335,Edv. Jensen,Edv.,Jensen,5
+15336,Anders Storgaard,Anders,Storgaard,5
+15337,Jens Peter Jensen,Jens Peter,Jensen,5
+15339,Mikael Gam,Mikael,Gam,5
+15348,E. Juul-Madsen,E.,Juul-Madsen,5
+15349,Aage Poulsen,Aage,Poulsen,5
+15363,Alfred Gerholm,Alfred,Gerholm,5
+15364,Chr. Zastrau,Chr.,Zastrau,5
+15365,Birthe Wetlesen,Birthe,Wetlesen,5
+15366,Kaj Rasmussen,Kaj,Rasmussen,5
+15367,Erik Nielsen,Erik,Nielsen,5
+15368,Erik Hansen,Erik,Hansen,5
+15369,L. Qvist Hansen,L. Qvist,Hansen,5
+15370,Jens Johan Bonde,Jens Johan,Bonde,5
+15371,Nicolaj Petersen,Nicolaj,Petersen,5
+15373,Erik Wingsøe,Erik,Wingsøe,5
+15382,Niels Arup,Niels,Arup,5
+15383,Henrik Heie,Henrik,Heie,5
+15384,Ingrid Jensen,Ingrid,Jensen,5
+15385,Harry Hansen,Harry,Hansen,5
+15386,Else Gregersen,Else,Gregersen,5
+15387,Svend R. Jensen,Svend R.,Jensen,5
+15388,Johannes Jensen,Johannes,Jensen,5
+15392,Johs. Herløv Larsen,Johs. Herløv,Larsen,5
+15405,Axel Clausen,Axel,Clausen,5
+15406,Lis Mølbjerg,Lis,Mølbjerg,5
+15407,K. Foged-Pedersen,K.,Foged-Pedersen,5
+15408,K. Karbech Mouritzen,K.,Karbech Mouritzen,5
+15410,Børge Schmidt,Børge,Schmidt,5
+15411,Karl Max Rasmussen,Karl Max,Rasmussen,5
+15413,Børge Diderichsen,Børge,Diderichsen,5
+15415,Aage Hastrup,Aage,Hastrup,5
+15416,Jørgen Langkilde,Jørgen,Langkilde,5
+15417,Knud Holm Tved,Knud Holm,Tved,5
+15418,Robert Christensen,Robert,Christensen,5
+15419,Christian R. Christensen,Christian R.,Christensen,5
+15420,K. Helveg Petersen,K. Helveg,Petersen,5
+15421,Knud Bro,Knud,Bro,5
+15422,J. Hindkjær Pedersen,J.,Hindkjær Pedersen,5
+15423,Jens Frandsen,Jens,Frandsen,5
+15424,Erik Østergaard,Erik,Østergaard,5
+15425,Per Møller,Per,Møller,5
+15426,Johan Asmussen,Johan,Asmussen,5
+15427,Aage Hauskov,Aage,Hauskov,5
+15428,Hans Lund,Hans,Lund,5
+15429,Camma Larsen-Ledet,Camma,Larsen-Ledet,5
+15430,A. C. Andersen,A. C.,Andersen,5
+15431,Mads Eg Damgaard,Mads Eg,Damgaard,5
+15451,Hans Pihl,Hans,Pihl,5
+15464,Thorvald Jensen,Thorvald,Jensen,5
+15465,N. Møller Sørensen,N.,Møller Sørensen,5
+15466,Anne Feldt-Rasmussen,Anne,Feldt-Rasmussen,5
+15468,Ejner Nielsen,Ejner,Nielsen,5
+15478,Jens Als,Jens,Als,5
+15479,V. E. Borch,V. E.,Borch,5
+15480,Chr. Nybo Jacobsen,Chr. Nybo,Jacobsen,5
+15483,Harris Jensen,Harris,Jensen,5
+15493,Åge Amstrup,Åge,Amstrup,5
+15494,A. Fuglsang-Damgaard,A.,Fuglsang-Damgaard,5
+15499,Rigmor Christensen,Rigmor,Christensen,5
+15500,Poul Kampp,Poul,Kampp,5
+15501,Arthur Jakobsen,Arthur,Jakobsen,5
+15502,Eva Rée,Eva,Rée,5
+15503,Inger-Lise Bech Hansen,Inger-Lise Bech,Hansen,5
+15504,Carl Bertel Pedersen,Carl Bertel,Pedersen,5
+15505,A. W. Larsen,A. W.,Larsen,5
+15506,Henry Sørensen,Henry,Sørensen,5
+15507,Kai Ibsen,Kai,Ibsen,5
+15508,Poul Antonsen,Poul,Antonsen,5
+15509,Svend Lund,Svend,Lund,5
+15510,Niels J. Nielsen,Niels J.,Nielsen,5
+15511,Svend Erik Kjær Rasmussen,Svend Erik,Kjær Rasmussen,5
+15512,Thomas Christensen,Thomas,Christensen,5
+15522,Jens Jensen,Jens,Jensen,5
+15532,Marie Louise Truels-Christensen,Marie Louise,Truels-Christensen,5
+15534,Aage Valbak,Aage,Valbak,5
+15535,Lene Bro,Lene,Bro,5
+15536,Helge von Rosen,Helge von,Rosen,5
+15537,Ulla Worm,Ulla,Worm,5
+15538,Merete Bjørn Hanssen,Merete Bjørn,Hanssen,5
+15539,Erik Nordqvist,Erik,Nordqvist,5
+15540,Kasper Sørensen,Kasper,Sørensen,5
+15541,Finn Christensen,Finn,Christensen,5
+15542,Dagmar Andreasen,Dagmar,Andreasen,5
+15543,Martin Pedersen,Martin,Pedersen,5
+15544,Jørgen Andersen,Jørgen,Andersen,5
+15545,Ole Samuelsen,Ole,Samuelsen,5
+15546,Erik Hansen,Erik,Hansen,5
+15547,Meta Ditzel,Meta,Ditzel,5
+15558,Poul Nielsen,Poul,Nielsen,5
+15559,Henry Møller,Henry,Møller,5
+15569,Knud Brørup,Knud,Brørup,5
+15570,Poul Falk Hansen,Poul Falk,Hansen,5
+15571,Gudrun Jensen,Gudrun,Jensen,5
+15572,Leon Laursen,Leon,Laursen,5
+15573,Leo Kjærgaard,Leo,Kjærgaard,5
+15584,Lole Møller (udpeget af EL),Lole,Møller (udpeget af EL),5
+15588,Johannes Andersen,Johannes,Andersen,5
+15589,F. A. Elmerkjær,F. A.,Elmerkjær,5
+15590,Svend Erik Andersen,Svend Erik,Andersen,5
+15592,Villy Christensen,Villy,Christensen,5
+15610,Poul Overgaard Nielsen,Poul Overgaard,Nielsen,5
+15611,Børge Juel Hansen,Børge Juel,Hansen,5
+15612,Per Dich,Per,Dich,5
+15613,Rolf Lütken,Rolf,Lütken,5
+15614,Grete Westergaard,Grete,Westergaard,5
+15615,Lone Nielsen,Lone,Nielsen,5
+15616,Lauge Dahlgaard,Lauge,Dahlgaard,5
+15617,Moses Olsen,Moses,Olsen,5
+15621,Erik Andersen (Frederiksborg amt),Erik,Andersen (Frederiksborg amt),5
+15627,Jette Boutrup,Jette,Boutrup,5
+15636,Eva Uhrskov,Eva,Uhrskov,5
+15637,Karen Paludan,Karen,Paludan,5
+15638,Knud Aage Nielsen,Knud Aage,Nielsen,5
+15647,Mogens Jacobsen,Mogens,Jacobsen,5
+15648,Harald Petersen,Harald,Petersen,5
+15657,Svend Arpe,Svend,Arpe,5
+15658,Oswald Christensen,Oswald,Christensen,5
+15659,Karen Elisabeth Winthereik,Karen Elisabeth,Winthereik,5
+15661,Jason Träff,Jason,Träff,5
+15662,Willy Bracher,Willy,Bracher,5
+15663,Egon Højland,Egon,Højland,5
+15664,Palle Tillisch,Palle,Tillisch,5
+15665,Jens Peder Bodart,Jens Peder,Bodart,5
+15666,Holger Lindholt,Holger,Lindholt,5
+15667,Hans Jørgen Holten,Hans Jørgen,Holten,5
+15668,Niels Vestergaard Eriksen,Niels Vestergaard,Eriksen,5
+15669,Lars Ove Grønborg,Lars Ove,Grønborg,5
+15670,Børge Pedersen,Børge,Pedersen,5
+15671,Ingeborg Gjerding,Ingeborg,Gjerding,5
+15672,Hans Jørgen Iversen,Hans Jørgen,Iversen,5
+15673,Ib Andersen,Ib,Andersen,5
+15674,Lena Pedersen,Lena,Pedersen,5
+15675,Børge Johansen,Børge,Johansen,5
+15679,Johannes Bøggild,Johannes,Bøggild,5
+15690,Helge Buchwald,Helge,Buchwald,5
+15691,Jens Aage Nøhr Frandsen,Jens Aage Nøhr,Frandsen,5
+15692,Jørgen Moe,Jørgen,Moe,5
+15693,Niels Erik Christensen,Niels Erik,Christensen,5
+15694,Niels Detlef,Niels,Detlef,5
+15695,Ole Thamsen,Ole,Thamsen,5
+15697,Helge Bro,Helge,Bro,5
+15698,Palle Juul,Palle,Juul,5
+15717,Grethe Nielsen,Grethe,Nielsen,5
+15718,Gytte Burgess,Gytte,Burgess,5
+15719,Poul Kaare Frederiksen,Poul Kaare,Frederiksen,5
+15720,Thorbjørn Riemann,Thorbjørn,Riemann,5
+15734,Erik Jensen,Erik,Jensen,5
+15735,Harry Flensted Andersen,Harry Flensted,Andersen,5
+15736,Ernst Christiansen,Ernst,Christiansen,5
+15737,Arne Rolighed,Arne,Rolighed,5
+15739,Arne Fog Pedersen,Arne Fog,Pedersen,5
+15740,Tyge Dahlgaard,Tyge,Dahlgaard,5
+15741,Hans Sølvhøj,Hans,Sølvhøj,5
+15757,Aaja Chemnitz,Aaja,Chemnitz,5
+15758,Aleqa Hammond,Aleqa,Hammond,5
+15760,Lea Wermelin,Lea,Wermelin,5
+15761,Karina Due,Karina,Due,5
+15762,Christian Rabjerg Madsen,Christian Rabjerg,Madsen,5
+15763,Peter Kofod,Peter,Kofod,5
+15764,Jan Rytkjær Callesen,Jan Rytkjær,Callesen,5
+15765,Carl Holst,Carl,Holst,5
+15766,Erik Christensen (udpeget af S),Erik,Christensen (udpeget af S),5
+15767,Pernille Bendixen,Pernille,Bendixen,5
+15768,Pernille Schnoor,Pernille,Schnoor,5
+15769,Maria Reumert Gjerding,Maria Reumert,Gjerding,5
+15770,Mattias Tesfaye,Mattias,Tesfaye,5
+15771,Morten Løkkegaard,Morten,Løkkegaard,5
+15772,Ulla Sandbæk,Ulla,Sandbæk,5
+15773,Christina Egelund,Christina,Egelund,5
+15774,Lise Bech,Lise,Bech,5
+15775,Torsten Gejl,Torsten,Gejl,5
+15776,Peter Hummelgaard,Peter,Hummelgaard,5
+15777,Pelle Dragsted,Pelle,Dragsted,5
+15778,Carolina Magdalene Maier,Carolina Magdalene,Maier,5
+15779,Carsten Bach,Carsten,Bach,5
+15780,Tilde Bork,Tilde,Bork,5
+15781,Claus Kvist Hansen,Claus Kvist,Hansen,5
+15782,Britt Bager,Britt,Bager,5
+15783,Josephine Fock,Josephine,Fock,5
+15784,Søren Pape Poulsen,Søren Pape,Poulsen,5
+15785,Jakob Sølvhøj,Jakob,Sølvhøj,5
+15786,René Gade,René,Gade,5
+15787,Kaare Dybvad Bek,Kaare Dybvad,Bek,5
+15788,Jacob Mark,Jacob,Mark,5
+15789,Jeppe Jakobsen,Jeppe,Jakobsen,5
+15790,Marcus Knuth,Marcus,Knuth,5
+15791,Eva Flyvholm,Eva,Flyvholm,5
+15792,Rasmus Nordqvist,Rasmus,Nordqvist,5
+15793,Mette Abildgaard,Mette,Abildgaard,5
+15794,Trine Torp,Trine,Torp,5
+15795,May-Britt Kattrup,May-Britt,Kattrup,5
+15796,Jan Erik Messmann,Jan Erik,Messmann,5
+15797,Christian Poll,Christian,Poll,5
+15798,Dorthe Ullemose,Dorthe,Ullemose,5
+15799,Roger Courage Matthisen,Roger Courage,Matthisen,5
+15800,Henrik Dahl,Henrik,Dahl,5
+15864,Jørn Neergaard Larsen,Jørn Neergaard,Larsen,5
+15881,Magni Arge,Magni,Arge,5
+15923,Kim Andersen (Udpeget af V),Kim,Andersen (Udpeget af V),5
+15943,Jeppe Brogaard (udpeget af SF),Jeppe,Brogaard (udpeget af SF),5
+15944,Pelle Andersen-Harild (udpeget af EL),Pelle,Andersen-Harild (udpeget af EL),5
+15945,Peter Sørensen (udpeget af S),Peter,Sørensen (udpeget af S),5
+15946,Knud Munksgaard (udpeget af RV),Knud,Munksgaard (udpeget af RV),5
+15947,Maria Temponeras (udpeget af EL),Maria,Temponeras (udpeget af EL),5
+15948,Iver Pedersen (udpeget af V),Iver,Pedersen (udpeget af V),5
+15949,Anne Marie Søe Nørgaard (udpeget af V),Anne Marie,Søe Nørgaard (udpeget af V),5
+15950,Kaare Graversen (udpeget af DF),Kaare,Graversen (udpeget af DF),5
+15963,Mads Fallesen,Mads,Fallesen,5
+15970,Jasmin Skotte Lundin,Jasmin,Skotte Lundin,5
+15971,Marie Knakkergaard,Marie,Knakkergaard,5
+15978,Jan Rix Rasmussen (udpeget af S),Jan Rix,Rasmussen (udpeget af S),5
+15994,Anna Sofie Hansen,Anna Sofie,Hansen,5
+15996,Christian Willer,Christian,Willer,5
+16042,Anne Sophie Weiersøe Fusager,Anne Sophie,Weiersøe Fusager,5
+16072,Carsten Kudsk,Carsten,Kudsk,5
+16073,Rasmus Vestergaard Madsen,Rasmus Vestergaard,Madsen,5
+16074,Steen Holm Iversen,Steen Holm,Iversen,5
+16076,David Witkowski,David,Witkowski,5
+16077,Johan Frederik Dohlmann,Johan Frederik,Dohlmann,5
+16078,Maria Rune Møller,Maria,Rune Møller,5
+16079,Line Barfod (udpeget af EL),Line,Barfod (udpeget af EL),5
+16082,Vibeke Finnemann Scheel,Vibeke,Finnemann Scheel,5
+16092,Sisse Marie Welling,Sisse Marie,Welling,5
+16108,Anni Grethe Boye Nymann,Anni Grethe Boye,Nymann,5
+16154,Christine Margit Løvig Sidenius,Christine Margit,Løvig Sidenius,5
+16172,Pernille Olesen Mønnike,Pernille,Olesen Mønnike,5
+16176,Nikolaj Amstrup,Nikolaj,Amstrup,5
+16180,Kasper Roug,Kasper,Roug,5
+16193,Hans Tabor,Hans,Tabor,5
+16290,Kia Moos,Kia,Moos,5
+16351,Malte Larsen,Malte,Larsen,5
+16357,Birgitte Smith Lange,Birgitte,Smith Lange,5
+16358,Katrine Winkel Holm (udpeget af DF),Katrine Winkel,Holm (udpeget af DF),5
+16364,Anders Helmuth Knudsen,Anders Helmuth,Knudsen,5
+16374,Anders Johansson,Anders,Johansson,5
+16415,Sarah Raagaard Vilby,Sarah,Raagaard Vilby,5
+16424,Jesper Olsen,Jesper,Olsen,5
+16428,Emrah Tuncer,Emrah,Tuncer,5
+16448,Martin Ryding Rosenkilde,Martin,Ryding Rosenkilde,5
+16473,Malou Lunderød,Malou,Lunderød,5
+16494,Karen Jørgensen,Karen,Jørgensen,5
+16503,Anne Paulin,Anne,Paulin,5
+16516,Olivia Tilde Fryd Nilsson,Olivia Tilde,Fryd Nilsson,5
+16518,Caroline Bertram,Caroline,Bertram,5
+16519,Julia Ballaschk,Julia,Ballaschk,5
+16524,Olau Krarup Christensen,Olau,Krarup Christensen,5
+16566,Inga Hove,Inga,Hove,5
+16570,Dorthe Stokholm Abel,Dorthe,Stokholm Abel,5
+16582,Peder Hvelplund,Peder,Hvelplund,5
+16603,Sarah Glerup,Sarah,Glerup,5
+16610,Lars Aslan Rasmussen,Lars Aslan,Rasmussen,5
+16701,Peter Fergo,Peter,Fergo,5
+16709,Otto Brøns-Petersen (udpeget af LA),Otto,Brøns-Petersen (udpeget af LA),5
+16728,Kirsten Normann Andersen,Kirsten Normann,Andersen,5
+16743,Steen Thomsen (udpeget af DF),Steen,Thomsen (udpeget af DF),5
+16757,Danny K. Malkowski,Danny K.,Malkowski,5
+16761,Regina Beate Barbera Junior,Regina Beate Barbera,Junior,5
+16781,Jørgen Bennedsen,Jørgen,Bennedsen,5
+16785,Kursist2 Kursist2,Kursist2,Kursist2,5
+16809,Peter Andreas Thurøe Hansen,Peter Andreas Thurøe,Hansen,5
+16810,Niels A. Andersen,Niels A.,Andersen,5
+16811,Else Anna Lise Nyborg,Else Anna Lise,Nyborg,5
+16814,Hanne Hansen,Hanne,Hansen,5
+16826,Henriette Benzon Bang,Henriette,Benzon Bang,5
+16829,Camilla Bech-Illum,Camilla,Bech-Illum,5
+16836,Line Bachmann Lund,Line,Bachmann Lund,5
+16837,Søren Berggreen Toft,Søren,Berggreen Toft,5
+16838,Daniel Donoso Rasmussen,Daniel,Donoso Rasmussen,5
+16839,Suzan Özden,Suzan,Özden,5
+16859,Bjarke Tarp Barkholt,Bjarke,Tarp Barkholt,5
+16921,Morten Lorentzen,Morten,Lorentzen,5
+16924,Iben Bryld Gaardmand,Iben,Bryld Gaardmand,5
+16944,Mogens Folkmann Andersen,Mogens,Folkmann Andersen,5
+16952,Helle Osther,Helle,Osther,5
+16954,Trine Lyng Madsen,Trine Lyng,Madsen,5
+16965,Michael Hyldgaard Løgtholt,Michael,Hyldgaard Løgtholt,5
+16976,Anne Nygaard Just,Anne,Nygaard Just,5
+16986,Ellen Rita Frederiksen,Ellen Rita,Frederiksen,5
+17012,Nina Hellwig Melchior,Nina Hellwig,Melchior,5
+17043,Johanne Sihm Knudsen,Johanne,Sihm Knudsen,5
+17048,Kasper Ullerup Bach,Kasper,Ullerup Bach,5
+17109,Johanne Skau,Johanne,Skau,5
+17114,Gertie Strande Brixtofte,Gertie Strande,Brixtofte,5
+17134,Jonathan Simmel,Jonathan,Simmel,5
+17140,Orla Østerby,Orla,Østerby,5
+17141,Brigitte Klintskov Jerkel,Brigitte Klintskov,Jerkel,5
+17153,Hanne Steenholdt,Hanne,Steenholdt,5
+17182,Kristina Stephanie Bernsen,Kristina Stephanie,Bernsen,5
+17184,Yvonne Schantz,Yvonne,Schantz,5
+17219,Jan Woollhead (udpeget af RV),Jan,Woollhead (udpeget af RV),5
+17220,Marie Stærke (udpeget af S),Marie,Stærke (udpeget af S),5
+17221,Philip Hahn-Petersen (udpeget af ALT),Philip,Hahn-Petersen (udpeget af ALT),5
+17222,Louisa Bisgaard (udpeget af ALT),Louisa,Bisgaard (udpeget af ALT),5
+17223,Knud Mathiesen (udpeget af DF),Knud,Mathiesen (udpeget af DF),5
+17224,Per Nørhave (udpeget af DF),Per,Nørhave (udpeget af DF),5
+17247,Klaus Markussen,Klaus,Markussen,5
+17267,Kristian Hegaard,Kristian,Hegaard,5
+17291,Claus Thure Hastrup (udpeget af EL),Claus Thure,Hastrup (udpeget af EL),5
+17321,Rikke Linding Fredberg,Rikke,Linding Fredberg,5
+17322,Bodil Marsden,Bodil,Marsden,5
+17336,Steffen Ramsøe,Steffen,Ramsøe,5
+17360,Merete Scheelsbeck,Merete,Scheelsbeck,5
+17378,Niels H. Jensenius,Niels H.,Jensenius,5
+17382,Mette Annelie Rasmussen (udpeget af RV),Mette,Annelie Rasmussen (udpeget af RV),5
+17452,Turid Leirvoll (udpeget af SF),Turid,Leirvoll (udpeget af SF),5
+17499,Sofia Lauritsen,Sofia,Lauritsen,5
+17501,Fie Rockhill Lysgaard,Fie,Rockhill Lysgaard,5
+17502,Louise Egholm Hattens,Louise,Egholm Hattens,5
+17541,Jytte Nauerby,Jytte,Nauerby,5
+17543,Marianne Bredal,Marianne,Bredal,5
+17545,Camilla Brask Lentz,Camilla,Brask Lentz,5
+17547,Adam Hyllested,Adam,Hyllested,5
+17548,Kirsten Hermansen,Kirsten,Hermansen,5
+17551,Julie Agersnap Kristensen,Julie,Agersnap Kristensen,5
+17552,Lars Gerstrøm,Lars,Gerstrøm,5
+17553,Karen Munk Boje-Larsen,Karen,Munk Boje-Larsen,5
+17566,Jan Kristoffersen (udpeget af ALT),Jan,Kristoffersen (udpeget af ALT),5
+17568,Svend Thorhauge (udpeget af RV),Svend,Thorhauge (udpeget af RV),5
+17569,Chalotte Lund Stenbæk Sørensen,Chalotte,Lund Stenbæk Sørensen,5
+17572,Svend Erik Nielsen (udpeget af DD),Svend Erik,Nielsen (udpeget af DD),5
+17589,Lissi Fenger,Lissi,Fenger,5
+17628,Carl Valentin,Carl,Valentin,5
+17629,Mads Fuglede,Mads,Fuglede,5
+17656,Susanne Klint Poulsen,Susanne,Klint Poulsen,5
+17657,Catrine Nielsen Voigt,Catrine,Nielsen Voigt,5
+17713,Henrik Specht,Henrik,Specht,5
+17714,Carsten Verner Petersen,Carsten Verner,Petersen,5
+17717,Julian Bybeck Tosev Tosev,Julian Bybeck Tosev,Tosev,5
+17736,Per Nørhave,Per,Nørhave,5
+17737,SB 7 ElektraTest,SB 7,ElektraTest,5
+17751,Sara de Roepstorff,Sara,de Roepstorff,5
+17752,Anders Stjernholm,Anders,Stjernholm,5
+17767,Anette Vedel,Anette,Vedel,5
+17790,Bruno Skibbild,Bruno,Skibbild,5
+17827,Tina Boel,Tina,Boel,5
+17829,Emilie Svensdatter Mehlsen,Emilie Svensdatter,Mehlsen,5
+17830,Lasse Ægidius Qvist,Lasse Ægidius,Qvist,5
+17831,Abe Skan,Abe,Skan,5
+17846,Helle Carpentier,Helle,Carpentier,5
+17851,Signe Eggert Bojesen-Koefoed,Signe,Eggert Bojesen-Koefoed,5
+17880,Kirsten Danvad,Kirsten,Danvad,5
+17905,Michael Ejstrup,Michael,Ejstrup,5
+17917,Jørgen Elikofer (udpeget af S),Jørgen,Elikofer (udpeget af S),5
+17918,Knud Erik Hansen (udpeget af S),Knud Erik,Hansen (udpeget af S),5
+17927,Niels Korkeaniemi-Lehtonen,Niels,Korkeaniemi-Lehtonen,5
+17945,Adam Parker,Adam,Parker,5
+17963,Øjvind Vilsholm,Øjvind,Vilsholm,5
+17988,Bjarni Hammer,Bjarni,Hammer,5
+17990,Tommy Ahlers,Tommy,Ahlers,5
+18133,Sonia Breuer Bistrup,Sonia Breuer,Bistrup,5
+18211,Gabrielus Landsbergis,Gabrielus,Landsbergis,5
+18226,Else Vig Jensen,Else Vig,Jensen,5
+18240,Larah Ann Bach Jensen,Larah Ann,Bach Jensen,5
+18241,Amalie Signe Loof Johansen,Amalie Signe,Loof Johansen,5
+18242,Mathilde Enghave Nielsen,Mathilde,Enghave Nielsen,5
+18245,Joan Ólavsdóttir,Joan,Ólavsdóttir,5
+18254,Otto Lichtenberg,Otto,Lichtenberg,5
+18265,Carsten Kissmeyer,Carsten,Kissmeyer,5
+18272,Esther Rosing,Esther,Rosing,5
+18278,Serdal Benli,Serdal,Benli,5
+18287,Mai Christiansen (udpeget af LA),Mai,Christiansen (udpeget af LA),5
+18291,Erik Lund,Erik,Lund,5
+18292,Lene Foged,Lene,Foged,5
+18318,Anders Sinkjær-Rasmussen,Anders,Sinkjær-Rasmussen,5
+18335,Niels Holm Olsen,Niels Holm,Olsen,5
+18375,Amalie Kryger Clasen,Amalie,Kryger Clasen,5
+18385,Anders Hulgreen Jensen,Anders Hulgreen,Jensen,5
+18386,Stine Sofie Mathisen,Stine Sofie,Mathisen,5
+18415,Julius Graakjær Grantzau,Julius Graakjær,Grantzau,5
+18435,Jóna Petrine Lindenskov,Jóna Petrine,Lindenskov,5
+18451,Pavel Rodin,Pavel,Rodin,5
+18469,Helle Leander,Helle,Leander,5
+18471,Morten Monefeldt Ludvigsen,Morten,Monefeldt Ludvigsen,5
+18472,Anna Norup Wünch,Anna,Norup Wünch,5
+18486,Agnes Nielsen,Agnes,Nielsen,5
+18506,Melanie Dina Kjærsgaard,Melanie,Dina Kjærsgaard,5
+18519,Torben Jensen,Torben,Jensen,5
+18524,Kathrine Lange,Kathrine,Lange,5
+18525,Flemming Slabiak,Flemming,Slabiak,5
+18528,Lisbeth Kjøller,Lisbeth,Kjøller,5
+18542,Peter Frits Hansen,Peter,Frits Hansen,5
+18543,Nina Skovgård Aller,Nina,Skovgård Aller,5
+18545,Henrik Old,Henrik,Old,5
+18550,Anne Britta Toftgaard Holton,Anne Britta,Toftgaard Holton,5
+18552,Suzette Wilhjelm,Suzette,Wilhjelm,5
+18563,Max Johann Carl Kahrmann,Max Johann Carl,Kahrmann,5
+18565,Thomas Pedersen,Thomas,Pedersen,5
+18571,Mynte Højriis Hansen,Mynte Højriis,Hansen,5
+18595,Charlotte Meibom,Charlotte,Meibom,5
+18602,Vagn Kjær-Hansen (udpeget af SF),Vagn,Kjær-Hansen (udpeget af SF),5
+18614,Rigmor Dam,Rigmor,Dam,5
+18623,Kirstine Chege,Kirstine,Chege,5
+18662,Christina Elisabeth Ringvard,Christina Elisabeth,Ringvard,5
+18682,Cilia Marie Espeland Almdal,Cilia Marie Espeland,Almdal,5
+18688,Aki-Matilda Høegh-Dam,Aki-Matilda,Høegh-Dam,5
+18691,Sikandar Siddique,Sikandar,Siddique,5
+18692,Susanne Zimmer,Susanne,Zimmer,5
+18693,Mai Villadsen,Mai,Villadsen,5
+18694,Victoria Velasquez,Victoria,Velasquez,5
+18695,Kim Valentin,Kim,Valentin,5
+18696,Morten Dahlin,Morten,Dahlin,5
+18697,Stén Knuth,Stén,Knuth,5
+18698,Marlene Ambo-Rasmussen,Marlene,Ambo-Rasmussen,5
+18699,Christoffer Aagaard Melson,Christoffer Aagaard,Melson,5
+18700,Heidi Bank,Heidi,Bank,5
+18701,Marie Bjerre,Marie,Bjerre,5
+18702,Anne Honoré Østergaard,Anne Honoré,Østergaard,5
+18703,Alex Vanopslagh,Alex,Vanopslagh,5
+18704,Halime Oguz,Halime,Oguz,5
+18705,Ina Strøjer-Schmidt,Ina,Strøjer-Schmidt,5
+18706,Anne Valentina Berthelsen,Anne Valentina,Berthelsen,5
+18707,Astrid Carøe,Astrid,Carøe,5
+18708,Charlotte Broman Mølbæk,Charlotte Broman,Mølbæk,5
+18709,Signe Munk,Signe,Munk,5
+18710,Katarina Ammitzbøll,Katarina,Ammitzbøll,5
+18711,Birgitte Bergman,Birgitte,Bergman,5
+18712,Niels Flemming Hansen,Niels Flemming,Hansen,5
+18713,Mona Juul,Mona,Juul,5
+18714,Kasper Sand Kjær,Kasper Sand,Kjær,5
+18715,Henrik Møller,Henrik,Møller,5
+18716,Rasmus Stoklund,Rasmus,Stoklund,5
+18717,Bjørn Brandenborg,Bjørn,Brandenborg,5
+18718,Anders Kronborg,Anders,Kronborg,5
+18719,Birgitte Vind,Birgitte,Vind,5
+18720,Camilla Fabricius,Camilla,Fabricius,5
+18721,Mette Thiesen,Mette,Thiesen,5
+18722,Peter Seier Christensen,Peter Seier,Christensen,5
+18723,Pernille Vermund,Pernille,Vermund,5
+18724,Lars Boje Mathiesen,Lars Boje,Mathiesen,5
+18725,Samira Nawa,Samira,Nawa,5
+18726,Stinus Lindgreen,Stinus,Lindgreen,5
+18727,Kathrine Olldag,Kathrine,Olldag,5
+18728,Anne Sophie Callesen,Anne Sophie,Callesen,5
+18729,Katrine Robsøe,Katrine,Robsøe,5
+18736,Egil Hulgaard,Egil,Hulgaard,5
+18741,Joy Mogensen,Joy,Mogensen,5
+18795,Marianne Vind,Marianne,Vind,5
+18800,Anne Søndergaard Brüel,Anne Søndergaard,Brüel,5
+18812,Emma Hove Jørgensen,Emma Hove,Jørgensen,5
+18813,Christian Enghardt Nielsen,Christian Enghardt,Nielsen,5
+18814,Anders Christopher Solberg,Anders Christopher,Solberg,5
+18830,Nils Sjøberg,Nils,Sjøberg,5
+18831,Rune Christiansen (udpeget af RV),Rune,Christiansen (udpeget af RV),5
+18834,Freja Michala Ploug,Freja Michala,Ploug,5
+18882,Tanja Larsson,Tanja,Larsson,5
+18917,Balder Mørk Andersen,Balder Mørk,Andersen,5
+18946,Mathias Grønbek Lydholm,Mathias,Grønbek Lydholm,5
+18947,Sofie Hvid Bang,Sofie Hvid,Bang,5
+18953,Mira Issa Bloch,Mira Issa,Bloch,5
+18967,Celine la Cour,Celine la,Cour,5
+18988,Lea Stoustrup Brandt,Lea,Stoustrup Brandt,5
+19000,Theresa Berg Andersen,Theresa Berg,Andersen,5
+19002,Gitte Willumsen,Gitte,Willumsen,5
+19016,Dorthe Hindborg,Dorthe,Hindborg,5
+19017,Karen Margrethe Stevns,Karen Margrethe,Stevns,5
+19064,Magnus Jarl Brunés,Magnus Jarl,Brunés,5
+19080,Kirsten Kirkeby Honoré,Kirsten Kirkeby,Honoré,5
+19098,Malte Frey Lyshøj Hansen,Malte Frey Lyshøj,Hansen,5
+19126,Lars Højsgaard,Lars,Højsgaard,5
+19133,Anders G. Christensen,Anders G.,Christensen,5
+19138,Caroline Lytken,Caroline,Lytken,5
+19141,Tina Hostrup Jensen,Tina Hostrup,Jensen,5
+19142,Barbara Gaardlykke Apol,Barbara Gaardlykke,Apol,5
+19146,Anna Brændemose,Anna,Brændemose,5
+19177,Kim Alexander Byrial Juárez Jensen,Kim Alexander Byrial Juárez,Jensen,5
+19189,Klaus Bach Trads (udpeget af RV),Klaus Bach,Trads (udpeget af RV),5
+19192,Keld Holm (udpeget af KF),Keld,Holm (udpeget af KF),5
+19193,Klavs Norup Lauridsen (udpeget af KF),Klavs Norup,Lauridsen (udpeget af KF),5
+19194,Steen Stavnsbo (udpeget af KF),Steen,Stavnsbo (udpeget af KF),5
+19196,Ruben Kidde,Ruben,Kidde,5
+19198,Laila Jerming Graf (udpeget af SF),Laila Jerming,Graf (udpeget af SF),5
+19199,Kirstine Bille (udpeget af SF),Kirstine,Bille (udpeget af SF),5
+19200,Benjamin Bilde Brændemose Boelsmand (udpeget af SF),Benjamin Bilde Brændemose,Boelsmand (udpeget af SF),5
+19201,Andreas Albertsen (udpeget af SF),Andreas,Albertsen (udpeget af SF),5
+19221,Hanne Bjørn-Klausen,Hanne,Bjørn-Klausen,5
+19225,Jacob Mchangama (udpeget af V),Jacob,Mchangama (udpeget af V),5
+19226,Karoly Nèmeth (udpeget af V),Karoly,Nèmeth (udpeget af V),5
+19227,Per Nielsen (udpeget af V),Per,Nielsen (udpeget af V),5
+19228,Karen-Marie Hovmøller (udpeget af V),Karen-Marie,Hovmøller (udpeget af V),5
+19229,Gert Eg (udpeget af V),Gert,Eg (udpeget af V),5
+19230,Anne E. Jensen (udpeget af V),Anne E.,Jensen (udpeget af V),5
+19231,Mette Vestergaard Huss (udpeget af V),Mette Vestergaard,Huss (udpeget af V),5
+19232,Morten E. G. Jørgensen (udpeget af V),Morten E. G.,Jørgensen (udpeget af V),5
+19236,Trine Jensen (udpeget af RV),Trine,Jensen (udpeget af RV),5
+19237,Tine Holst (udpeget af RV),Tine,Holst (udpeget af RV),5
+19246,Hanne Hölge,Hanne,Hölge,5
+19249,Lone McPhee,Lone,McPhee,5
+19250,Mie Kjærgaard Pheiffer,Mie Kjærgaard,Pheiffer,5
+19284,Nina Sofie Heje Fuglsang,Nina Sofie Heje,Fuglsang,5
+19286,Lea Lykke Andersen,Lea Lykke,Andersen,5
+19291,Amalie Elisabeth Klausen,Amalie Elisabeth,Klausen,5
+19292,Maiken Riis Træholt,Maiken Riis,Træholt,5
+19315,Kirsten Birgit Thyregod,Kirsten Birgit,Thyregod,5
+19317,Andreas Hjelmborg,Andreas,Hjelmborg,5
+19322,Josephine Helena Ibsen,Josephine Helena,Ibsen,5
+19331,Laura Folke,Laura,Folke,5
+19340,Vilma Elise Lewis-Clemmensen,Vilma Elise,Lewis-Clemmensen,5
+19342,Senem Sahin,Senem,Sahin,5
+19346,Anders Sinkjær-Rasmussen,Anders,Sinkjær-Rasmussen,5
+19383,Marie Hansen,Marie,Hansen,5
+19385,Viktor Lassen,Viktor,Lassen,5
+19422,Sebastian Sommer,Sebastian,Sommer,5
+19424,Hans Erling Hækkerup,Hans Erling,Hækkerup,5
+19435,Elvira Nykjær,Elvira,Nykjær,5
+19440,Karoline Nordmark Laursen,Karoline Nordmark,Laursen,5
+19443,Mette Buskjær Rasmussen,Mette Buskjær,Rasmussen,5
+19453,Lasse Ægidius Qvist,Lasse Ægidius,Qvist,5
+19461,Magnus Rasmussen,Magnus,Rasmussen,5
+19473,Morten Hybschmann,Morten,Hybschmann,5
+19475,Susan Kronborg,Susan,Kronborg,5
+19480,Henrik Vinther,Henrik,Vinther,5
+19484,Mads Sig Steffensen,Mads Sig,Steffensen,5
+19507,Andreas Munk Gauger,Andreas Munk,Gauger,5
+19523,Else Marie Larsen (udpeget af V),Else Marie,Larsen (udpeget af V),5
+19524,Karsten Lauritsen (udpeget af RV),Karsten,Lauritsen (udpeget af RV),5
+19525,Flemming Thornæs (udpeget af SF),Flemming,Thornæs (udpeget af SF),5
+19526,Jesper Pagh (udpeget af SF),Jesper,Pagh (udpeget af SF),5
+19531,Lars Schmidt (udpeget af V),Lars,Schmidt (udpeget af V),5
+19534,Lise Buchreitz (udpeget af V),Lise,Buchreitz (udpeget af V),5
+19543,Daniel Enslev,Daniel,Enslev,5
+19544,Simone Arevad,Simone,Arevad,5
+19547,Karen Schack Andreassen,Karen Schack,Andreassen,5
+19548,Andreas Sommer Møller,Andreas Sommer,Møller,5
+19569,Maja Torp,Maja,Torp,5
+19590,Karen Jensen,Karen,Jensen,5
+19637,Kenneth Mikkelsen,Kenneth,Mikkelsen,5
+19668,Birgit Espersen,Birgit,Espersen,5
+19684,Mads Andersen,Mads,Andersen,5
+19701,Anna Margrethe Ikast,Anna Margrethe,Ikast,5
+19714,Henrik Rubæk Jørgensen,Henrik Rubæk,Jørgensen,5
+19733,Birgit Schultz Hansen,Birgit Schultz,Hansen,5
+19748,Stine Pilt Olsen,Stine Pilt,Olsen,5
+19749,Lone Sørensen,Lone,Sørensen,5
+19791,Anne Marie Vessel Schlüter,Anne Marie Vessel,Schlüter,5
+19792,Annette Bruun,Annette,Bruun,5
+19794,Karoline Ove Dahl,Karoline Ove,Dahl,5
+19797,Charlotte Avnsted-Vilman,Charlotte,Avnsted-Vilman,5
+19801,Kaj Heje Skafte,Kaj,Heje Skafte,5
+19805,Nanna Alberti,Nanna,Alberti,5
+19806,Alexander Grandt,Alexander,Grandt,5
+19807,Anne Rasmussen,Anne,Rasmussen,5
+19809,Christina Thorholm,Christina,Thorholm,5
+19814,Amalie Jin Frederiksen,Amalie Jin,Frederiksen,5
+19823,Christina Marie Amann,Christina Marie,Amann,5
+19826,Dennis Barndorph Sichlau,Dennis Barndorph,Sichlau,5
+19834,Kirsten Hermansen,Kirsten,Hermansen,5
+19840,Anne Madsen,Anne,Madsen,5
+19841,Simon Enevold Hansen,Simon Enevold,Hansen,5
+19842,Emma Leerskov Bak,Emma Leerskov,Bak,5
+19919,Brian Bressendorff,Brian,Bressendorff,5
+19920,Karsten Filsø,Karsten,Filsø,5
+19928,Kim Aas,Kim,Aas,5
+19948,Mark Grossmann,Mark,Grossmann,5
+19950,Gunhild Wielandt Houe,Gunhild Wielandt,Houe,5
+19951,Inge Ruth Jensen,Inge Ruth,Jensen,5
+19952,Bente Kofod Nørgård-Sørensen,Bente Kofod,Nørgård-Sørensen,5
+19961,Karina Sand Thomsen,Karina Sand,Thomsen,5
+19962,Rasmus Steenberger (udpeget af SF),Rasmus,Steenberger (udpeget af SF),5
+19982,Jan Bjergskov Larsen,Jan Bjergskov,Larsen,5
+19996,Helgi Abrahamsen,Helgi,Abrahamsen,5
+19997,Niklas Borker Bjerre,Niklas Borker,Bjerre,5
+19999,Mikkel Bjerregaard,Mikkel,Bjerregaard,5
+20000,Anna Steen Tvergaard,Anna Steen,Tvergaard,5
+20018,Morten Bech Damkjær,Morten Bech,Damkjær,5
+20044,Nikolaj Nordby Thøgersen,Nikolaj Nordby,Thøgersen,5
+20051,Theis Kylling Hommeltoft,Theis Kylling,Hommeltoft,5
+20056,Susanne Krieger von Lowzow,Susanne Krieger,von Lowzow,5
+20067,Mathias Mæhle,Mathias,Mæhle,5
+20098,Anna Margrethe Windfeld Skou,Anna Margrethe,Windfeld Skou,5
+20102,Morten Schiøttz,Morten,Schiøttz,5
+20103,Kirsten Hermansen,Kirsten,Hermansen,5
+20128,Ida Holmgaard,Ida,Holmgaard,5
+20130,Nina Merete Bille,Nina Merete,Bille,5
+20132,Rasmus Beltofte (udpeget af RV),Rasmus,Beltofte (udpeget af RV),5
+20133,Jesper Roulund (udpeget af KF),Jesper,Roulund (udpeget af KF),5
+20135,Lisbeth Torfing,Lisbeth,Torfing,5
+20144,Maria Gudme,Maria,Gudme,5
+20159,Mikkel Irminger Sarbo,Mikkel Irminger,Sarbo,5
+20164,August Gammelgaard Hjørnet,August Gammelgaard,Hjørnet,5
+20192,Pauline Skalts,Pauline,Skalts,5
+20193,Elisabeth Alster Hardy,Elisabeth Alster,Hardy,5
+20194,Helene Lisborg Christensen,Helene Lisborg,Christensen,5
+20195,Søren Bang Andersen,Søren Bang,Andersen,5
+20197,Trine Bendix Knudsen (udpeget af SF),Trine,Bendix Knudsen (udpeget af SF),5
+20198,Christina Gyldenhof (udpeget af RV),Christina,Gyldenhof (udpeget af RV),5
+20199,Marianne Dithmer (udpeget af EL),Marianne,Dithmer (udpeget af EL),5
+20200,Henrik Sølje Weiglin (udpeget af KF),Henrik Sølje,Weiglin (udpeget af KF),5
+20201,Mette Marie Hemmingsen,Mette Marie,Hemmingsen,5
+20202,Jeppe Solgaard Agertoft,Jeppe Solgaard,Agertoft,5
+20203,Siv Jørup,Siv,Jørup,5
+20204,Mikkel Anderson (udpeget af LA),Mikkel,Anderson (udpeget af LA),5
+20205,Alice Vestergaard Ellemann-Jensen,Alice Vestergaard,Ellemann-Jensen,5
+20217,Katja Ambech,Katja,Ambech,5
+20219,Signe Øgendahl Beeck,Signe Øgendahl,Beeck,5
+20220,Mille Sofie Brandrup,Mille Sofie,Brandrup,5
+20221,Cecilie Rahbek,Cecilie,Rahbek,5
+20237,Anna Udby Seitzberg,Anna Udby,Seitzberg,5
+20242,Ellen Marie Amtoft,Ellen Marie,Amtoft,5
+20290,Emma Ridder Brøndum,Emma Ridder,Brøndum,5
+20323,Anna Margarete Elmholt,Anna Margarete,Elmholt,5
+20349,Anna Falkenberg,Anna,Falkenberg,5
+20350,Nick Zimmermann,Nick,Zimmermann,5
+20351,Franciska Rosenkilde,Franciska,Rosenkilde,5
+20352,Helene Brydensholt,Helene,Brydensholt,5
+20353,Sascha Faxe,Sascha,Faxe,5
+20354,Theresa Scavenius,Theresa,Scavenius,5
+20355,Kim Edberg Andersen,Kim Edberg,Andersen,5
+20356,Mikkel Bjørn,Mikkel,Bjørn,5
+20357,Lise Bertelsen,Lise,Bertelsen,5
+20358,Marianne Bigum,Marianne,Bigum,5
+20359,Sigurd Agersnap,Sigurd,Agersnap,5
+20360,Sofie Lippert,Sofie,Lippert,5
+20361,Fie Hækkerup,Fie,Hækkerup,5
+20362,Thomas Monberg,Thomas,Monberg,5
+20363,Sara Emil Baaring,Sara Emil,Baaring,5
+20364,Frederik Vad,Frederik,Vad,5
+20365,Matilde Powers,Matilde,Powers,5
+20366,Thomas Skriver Jensen,Thomas Skriver,Jensen,5
+20367,Kris Jensen Skriver,Kris Jensen,Skriver,5
+20368,Maria Durhuus,Maria,Durhuus,5
+20369,Helle Bonnesen,Helle,Bonnesen,5
+20370,Christina Olumeko,Christina,Olumeko,5
+20371,Linea Søgaard-Lidell,Linea,Søgaard-Lidell,5
+20372,Betina Kastbjerg,Betina,Kastbjerg,5
+20373,Susie Jessen,Susie,Jessen,5
+20374,Kenneth Fredslund Petersen,Kenneth Fredslund,Petersen,5
+20375,Charlotte Munch Pasler,Charlotte Munch,Pasler,5
+20376,Kristian Bøgsted,Kristian,Bøgsted,5
+20377,Henrik Frandsen,Henrik,Frandsen,5
+20378,Rosa Eriksen,Rosa,Eriksen,5
+20379,Tobias Grotkjær Elmstrøm,Tobias Grotkjær,Elmstrøm,5
+20380,Monika Rubin,Monika,Rubin,5
+20381,Karin Liltorp,Karin,Liltorp,5
+20382,Mette Kierkgaard,Mette,Kierkgaard,5
+20383,Jeppe Søe,Jeppe,Søe,5
+20384,Nanna W. Gotfredsen,Nanna W.,Gotfredsen,5
+20385,Charlotte Bagge Hansen,Charlotte Bagge,Hansen,5
+20386,Rasmus Lund-Nielsen,Rasmus,Lund-Nielsen,5
+20387,Kristian Klarskov,Kristian,Klarskov,5
+20388,Jon Stephensen,Jon,Stephensen,5
+20389,Peter Have,Peter,Have,5
+20390,Mike Villa Fonseca,Mike Villa,Fonseca,5
+20391,Sólbjørg Jakobsen,Sólbjørg,Jakobsen,5
+20392,Lars-Christian Brask,Lars-Christian,Brask,5
+20393,Katrine Daugaard,Katrine,Daugaard,5
+20394,Steffen W. Frølund,Steffen W.,Frølund,5
+20395,Alexander Ryle,Alexander,Ryle,5
+20396,Jens Meilvang,Jens,Meilvang,5
+20397,Steffen Larsen,Steffen,Larsen,5
+20398,Helena Artmann Andresen,Helena Artmann,Andresen,5
+20399,Louise Brown,Louise,Brown,5
+20400,Sandra Elisabeth Skalvig,Sandra Elisabeth,Skalvig,5
+20411,Leila Stockmarr,Leila,Stockmarr,5
+20412,Bergur Løkke Rasmussen,Bergur Løkke,Rasmussen,5
+20413,Erik Poulsen,Erik,Poulsen,5
+20414,Anders Vistisen,Anders,Vistisen,5
+20415,Mohammad Rona,Mohammad,Rona,5
+20423,Lars Aagaard,Lars,Aagaard,5
+20443,Nikolaj Beuschel,Nikolaj,Beuschel,5
+20478,Patrick Culmsee Bryhl Madsen (udpeget af DD),Patrick Culmsee Bryhl,Madsen (udpeget af DD),5
+20496,Henrik Rejnholt Andersen,Henrik Rejnholt,Andersen,5
+20515,Dorthe Andersen,Dorthe,Andersen,5
+20526,Lasse Ryberg (udpeget af S),Lasse,Ryberg (udpeget af S),5
+20527,Nanna Høyrup,Nanna,Høyrup,5
+20529,Rikke Abildgaard Ryberg,Rikke Abildgaard,Ryberg,5
+20531,Søren Mørch,Søren,Mørch,5
+20538,Gry Nielsen,Gry,Nielsen,5
+20539,Noah Sturis,Noah,Sturis,5
+20546,Stephanie Lose,Stephanie,Lose,5
+20559,Reza Javid,Reza,Javid,5
+20560,Annette Michelsen,Annette,Michelsen,5
+20564,Anne Mette Fugleholm (udpeget af blå blok),Anne Mette,Fugleholm (udpeget af blå blok),5
+20565,Pia Højrup Clausen (udpeget af blå blok),Pia Højrup,Clausen (udpeget af blå blok),5
+20579,Johan Doré Nellerod,Johan,Doré Nellerod,5
+20580,Lean Milo,Lean,Milo,5
+20584,Sverre Jallbjørn,Sverre,Jallbjørn,5
+20590,Elise Sørensen,Elise,Sørensen,5
+20597,Hanne Wetendorff Nielsen,Hanne Wetendorff,Nielsen,5
+20598,Sune Wæsel (udpeget af LA),Sune,Wæsel (udpeget af LA),5
+20599,Søren Rasmussen,Søren,Rasmussen,5
+20600,Peter Kay Mortensen,Peter Kay,Mortensen,5
+20618,Inger Graversen,Inger,Graversen,5
+20629,Nikoline Erbs Hillers-Bendtsen,Nikoline Erbs,Hillers-Bendtsen,5
+20635,Markus E. Olsen,Markus E.,Olsen,5
+20636,Hanne Kirstine Sørensen,Hanne Kirstine,Sørensen,5
+20642,Anne Hegelund,Anne,Hegelund,5
+20652,Louise Anneken Belling,Louise Anneken,Belling,5
+20655,Weston Behrend von Bourke,Weston Behrend von,Bourke,5
+20656,August Marott Winkler,August Marott,Winkler,5
+20671,Vivian Brodersen,Vivian,Brodersen,5
+20672,Emma Sofie Hammerstrøm Kraft,Emma Sofie Hammerstrøm,Kraft,5
+20701,Christine Islann Farbøl,Christine Islann,Farbøl,5
+20747,Jenny Andresen,Jenny,Andresen,5
+20754,Karina Halskov,Karina,Halskov,5
+20755,Emma Amalie Bostrup,Emma Amalie,Bostrup,5
+20756,Aldus Storm Østergaard,Aldus Storm,Østergaard,5
+20764,Zahra Nazish Hussain,Zahra Nazish,Hussain,5
+20765,Sofie Lundgaard Holck,Sofie Lundgaard,Holck,5
+20767,Andreas Karlsen,Andreas,Karlsen,5
+20779,Runa Friis Hansen,Runa Friis,Hansen,5
+20781,Gunvor Wibroe,Gunvor,Wibroe,5
+20790,Ken Kristensen,Ken,Kristensen,5
+20792,Annette Elisabeth Krarup,Annette Elisabeth,Krarup,5
+20795,Camilla Vejlø Hartling,Camilla Vejlø,Hartling,5
+20798,Mads Olsen,Mads,Olsen,5
+20805,Jan Carlsen,Jan,Carlsen,5
+20806,Mia Wagner,Mia,Wagner,5
+20820,Carl Andersen,Carl,Andersen,5
+20823,Morten Vehl,Morten,Vehl,5
+20831,Maria Risvig Nielsen,Maria Risvig,Nielsen,5
+20832,Anna Fabricius,Anna,Fabricius,5
+20835,Helle Therese Tærsløv Berg,Helle Therese Tærsløv,Berg,5
+20841,Lars Arne Christensen,Lars Arne,Christensen,5
+20845,Tyra Møll-Holst,Tyra,Møll-Holst,5
+20916,Kenneth Bjerg Andersen,Kenneth Bjerg,Andersen,5
+20917,Tina Cartey Hansen,Tina Cartey,Hansen,5
+20919,Mads Dam Døllner,Mads Dam,Døllner,5
+20924,Hanne Vedel Bolvig,Hanne Vedel,Bolvig,5
+20925,Dina Raabjerg,Dina,Raabjerg,5
+20926,Michala Krakauer,Michala,Krakauer,5
+20927,Morten Brædstrup-Holm,Morten,Brædstrup-Holm,5
+20930,Louise Mehnke,Louise,Mehnke,5
+20932,Neel Christina Grønlund,Neel Christina,Grønlund,5
+20936,Mischa Vedis Juul Andersen,Mischa Vedis Juul,Andersen,5
+20939,Sandra Laxager,Sandra,Laxager,5
+20941,Preben Friis-Hauge,Preben,Friis-Hauge,5
+20947,Elsebeth Enggaard,Elsebeth,Enggaard,5
+20960,Carina Elkott,Carina,Elkott,5
+20961,Malte Möller-Christensen,Malte,Möller-Christensen,5
+20962,Claus Jørgensen,Claus,Jørgensen,5
+20964,Berghild Maria Matras,Berghild Maria,Matras,5
+20965,Thea Cecilie Langebek Andresen,Thea Cecilie Langebek,Andresen,5
+20966,Frederik Bloch Münster,Frederik Bloch,Münster,5
+20967,Constance de Neergaard,Constance,de Neergaard,5
+20968,Julie Kristensen,Julie,Kristensen,5
+20969,Mathilde Warming,Mathilde,Warming,5
+20970,Linea Marie Kronborg Johansen,Linea Marie Kronborg,Johansen,5
+20971,Jette Koch Larsson,Jette Koch,Larsson,5
+20972,Susanne Bloch Jespersen,Susanne Bloch,Jespersen,5
+20973,Johnny Heinmann (udpeget af LA),Johnny,Heinmann (udpeget af LA),5
+20976,Caroline Stage,Caroline,Stage,5
+20991,Rikke Rybjerg,Rikke,Rybjerg,5
+20992,Kitte Fabricius,Kitte,Fabricius,5
+20993,Frederik Michael Elkjær Pedersen,Frederik Michael Elkjær,Pedersen,5
+20994,Merve Eda Cilek,Merve Eda,Cilek,5
+20995,Gustav Høj Hansen,Gustav Høj,Hansen,5
+20996,Clara Bendix Albrechtsen,Clara Bendix,Albrechtsen,5
+21000,Lene Marie Nordling Hatt (udpeget af SF),Lene Marie Nordling,Hatt (udpeget af SF),5
+21029,Christian Wibholm (udpeget af DD),Christian,Wibholm (udpeget af DD),5
+21044,Lasse Haugaard Pedersen,Lasse Haugaard,Pedersen,5
+21075,Michael Rosenmark,Michael,Rosenmark,5
+21076,Charlotte Nellemann,Charlotte,Nellemann,5
+21077,Mie Bardrum,Mie,Bardrum,5
+21080,Jens Teilberg Søndergaard,Jens Teilberg,Søndergaard,5
+21083,Thorkild Holmboe-Hay,Thorkild,Holmboe-Hay,5
+21092,Anna Grete Toft,Anna Grete,Toft,5
+21093,Anton Bjørn Guldborg,Anton Bjørn,Guldborg,5
+21103,Jørgen Jespersen,Jørgen,Jespersen,5
+21113,Christine Hagelund Petersen,Christine Hagelund,Petersen,5
+21114,Jesper Schaumburg-Müller,Jesper,Schaumburg-Müller,5
+21116,Line Sandra Østergren,Line Sandra,Østergren,5
+21117,Cecilie Thorud,Cecilie,Thorud,5
+21121,Elsebeth Andersen,Elsebeth,Andersen,5
+21123,Karen Vilhelmsen,Karen,Vilhelmsen,5
+21125,Simone Elvira Vestergaard,Simone Elvira,Vestergaard,5
+21130,Emma Schmidt Hansen,Emma Schmidt,Hansen,5
+21131,Anne Kathrine Nedergaard,Anne Kathrine,Nedergaard,5
+21132,Morten Outzen Larsen,Morten Outzen,Larsen,5
+21133,Trine Lagoni,Trine,Lagoni,5
+21134,Maria Sørensen,Maria,Sørensen,5
+21135,Erik Ploug Sarp,Erik Ploug,Sarp,5
+21136,Lene Aagerup,Lene,Aagerup,5
+21137,Asta Clara Skov Andreasen,Asta Clara Skov,Andreasen,5
+21140,Peter Christensen,Peter,Christensen,5
+21142,Louise Belling,Louise,Belling,5
+21143,Morten Klessen,Morten,Klessen,5
+21145,Emma Marie Isbrandt Lismann,Emma Marie Isbrandt,Lismann,5
+21146,Helene Fussing Clausen,Helene Fussing,Clausen,5
+21147,Fatme Chahrour,Fatme,Chahrour,5
+21148,Cecilie Wennick Thøgersen,Cecilie Wennick,Thøgersen,5
+21152,Frieda Dalgaard,Frieda,Dalgaard,5
+21153,Nicoline Vesterdal,Nicoline,Vesterdal,5
+21157,John Christian Erlandsen,John Christian,Erlandsen,5
+21158,Anne Cecilie Børgesen,Anne Cecilie,Børgesen,5
+21159,Ammar Ali,Ammar,Ali,5
+21161,Lisa Perkins,Lisa,Perkins,5
+21164,Lone Vase Langballe,Lone Vase,Langballe,5
+21168,Erik Veje Rasmussen,Erik Veje,Rasmussen,5
+21175,Rasmus Bak Meng,Rasmus Bak,Meng,5
+21176,Sabrina Hviid,Sabrina,Hviid,5
+21177,Emrah Karadogan,Emrah,Karadogan,5
+21179,Jeanne Bergmansen,Jeanne,Bergmansen,5
+21182,Zahra Nazish Hussain,Zahra Nazish,Hussain,5
+21185,Pernille Vallentin,Pernille,Vallentin,5
+21186,Mads Madsen Henriksen,Mads Madsen,Henriksen,5
+21187,Tobias Clausen,Tobias,Clausen,5
+21188,Mathias Kleis Ludvigsen,Mathias Kleis,Ludvigsen,5
+21189,Steffen Aller Jacobsen,Steffen Aller,Jacobsen,5
+21193,Bjørg Karlotsdóttir,Bjørg,Karlotsdóttir,5
+21194,Joachim Hoffmann-Petersen,Joachim,Hoffmann-Petersen,5
+21195,August Nissen,August,Nissen,5
+21196,Victoria Thomsen,Victoria,Thomsen,5
+21197,Bertram Johan Leander,Bertram Johan,Leander,5
+21198,Ellen-Sofie Mark Christensen,Ellen-Sofie Mark,Christensen,5
+21204,Annie Rosenkjær Koppel,Annie Rosenkjær,Koppel,5
+21206,Elvira Kûitse,Elvira,Kûitse,5
+21233,Kasper Kaasgaard,Kasper,Kaasgaard,5
+21248,Christian James Hansen,Christian James,Hansen,5
+21262,Astrid Marie Zibrandtsen,Astrid Marie,Zibrandtsen,5
+21277,Aske Rankløve,Aske,Rankløve,5
+21279,Ruben Drosten,Ruben,Drosten,5
+21281,Oliver Dirks-Steinmoen,Oliver,Dirks-Steinmoen,5
+21285,Mikkeline Storch,Mikkeline,Storch,5
+21288,Jamie McIntyre,Jamie,McIntyre,5
+21291,Sarah Storm Egeskov,Sarah Storm,Egeskov,5
+21292,Søren Lauritzen,Søren,Lauritzen,5
+21294,Elizabeth Andersen,Elizabeth,Andersen,5
+21296,Zenia Darly Stenz,Zenia Darly,Stenz,5
+21298,Nanna Yaa Haugegaard Asante,Nanna Yaa Haugegaard,Asante,5
+21299,Louise Nicoline Michaelsen,Louise Nicoline,Michaelsen,5
+21302,Ibrahim Benli,Ibrahim,Benli,5
+21305,Kirsten Hector,Kirsten,Hector,5
+21306,Sarah Louise Broberg Bernskov,Sarah Louise Broberg,Bernskov,5
+21314,Nina Palesa Bonde (udpeget af LA),Nina Palesa,Bonde (udpeget af LA),5
+21315,Søren Bøgevald Nielsen (udpeget af LA),Søren Bøgevald,Nielsen (udpeget af LA),5
+21316,Frank Schmidt-Hansen (udpeget af KF),Frank,Schmidt-Hansen (udpeget af KF),5
+21317,René Nørbjerg (udpeget af KF),René,Nørbjerg (udpeget af KF),5
+21318,Bjarne Villadsen (udpeget af KF),Bjarne,Villadsen (udpeget af KF),5
+21319,Kjeld Lundager Jørgensen (udpeget af RV),Kjeld Lundager,Jørgensen (udpeget af RV),5
+21320,Ove Weiss,Ove,Weiss,5
+21337,Thomas Klimek,Thomas,Klimek,5
+21338,Steffen Holme Helledie,Steffen Holme,Helledie,5
+21339,Sofie Therese Svendsen,Sofie Therese,Svendsen,5
+21340,Christina Lykke,Christina,Lykke,5
+21341,Peter Larsen,Peter,Larsen,5
+21342,Anna Bjerre,Anna,Bjerre,5
+21343,Katrine Evelyn Jensen,Katrine Evelyn,Jensen,5
+21344,Philip Vivet,Philip,Vivet,5
+21345,Thorbjørn Jacobsen,Thorbjørn,Jacobsen,5
+21346,Morten E.G. Brautsch,Morten E.G.,Brautsch,5
+21347,Søren Boel Olesen,Søren Boel,Olesen,5
+21348,Trine Jepsen,Trine,Jepsen,5
+21349,Anders Kühnau,Anders,Kühnau,5
+21350,Charlotte Green,Charlotte,Green,5
+21351,Michael Nedersøe,Michael,Nedersøe,5
+21352,Mathilde Hjort Bressum,Mathilde Hjort,Bressum,5
+21353,Louise Louring,Louise,Louring,5
+21354,Nadja Natalie Isaksen,Nadja Natalie,Isaksen,5
+21355,Cecilie Liv Hansen,Cecilie Liv,Hansen,5
+21356,Frida Bruun,Frida,Bruun,5
+21357,Rune Bønnelykke,Rune,Bønnelykke,5
+21358,Josephine Alstrup Kofod,Josephine Alstrup,Kofod,5
+21359,Ulrik Knudsen,Ulrik,Knudsen,5
+21360,Anastasia Milthers,Anastasia,Milthers,5
+21361,Lise Müller,Lise,Müller,5
+21362,Amanda Heitmann,Amanda,Heitmann,5
+21363,Sofie de Bretteville,Sofie de,Bretteville,5
+21364,Christian Vigilius,Christian,Vigilius,5
+21365,Sofie F. Villadsen,Sofie F.,Villadsen,5
+21366,Freja Brandhøj,Freja,Brandhøj,5
+21367,Marie Brixtofte,Marie,Brixtofte,5
+21368,Signe Wenneberg,Signe,Wenneberg,5
+21369,Emilie Schytte,Emilie,Schytte,5
+21370,Pernille Christensen,Pernille,Christensen,5
+21371,Sinem Dybvad Demir,Sinem Dybvad,Demir,5
+21372,Trine Birk Andersen,Trine Birk,Andersen,5
+21373,Rune Kristensen,Rune,Kristensen,5
+21374,Jacob Harris,Jacob,Harris,5
+21375,Joachim Riis,Joachim,Riis,5
+21376,Malte Larsen,Malte,Larsen,5
+21377,Julie Jacobsen,Julie,Jacobsen,5
+21378,Jan Herskov,Jan,Herskov,5
+21379,Elise Sydendal,Elise,Sydendal,5
+21380,Thomas Rohden,Thomas,Rohden,5
+21381,Magnus Georg Jensen,Magnus Georg,Jensen,5
+21382,Anders Storgaard,Anders,Storgaard,5
+21383,Nanna Bonde,Nanna,Bonde,5
+21384,Mads Strange,Mads,Strange,5
+21385,Ellen Emilie,Ellen,Emilie,5
+21386,Allan Feldt,Allan,Feldt,5
+21387,Naaja H. Nathanielsen,Naaja H.,Nathanielsen,5
+21388,Qarsoq Høegh-Dam,Qarsoq,Høegh-Dam,5
+21398,Pil Christensen,Pil,Christensen,5
+21400,Majbritt Birkholm,Majbritt,Birkholm,5
+21403,Christian Kirk,Christian,Kirk,5
+21404,Eva Borchorst Mejnertz,Eva Borchorst,Mejnertz,5
+21405,HP Beck,HP,Beck,5
+21406,Rikke Abildgaard Ryberg,Rikke Abildgaard,Ryberg,5
+21408,Benny Bindslev (udpeget af DD),Benny,Bindslev (udpeget af DD),5
+21409,Aida Ammary (udpeget af EL),Aida,Ammary (udpeget af EL),5
+21410,Karen Thestrup Clausen (udpeget af EL),Karen Thestrup,Clausen (udpeget af EL),5
+21411,Christian Ankerstjerne Rønneberg (udpeget af DF),Christian Ankerstjerne,Rønneberg (udpeget af DF),5
+21412,Kåre Pihlmann (udpeget af DF),Kåre,Pihlmann (udpeget af DF),5
+21413,Jeppe Rohde Fransson (udpeget af RV),Jeppe Rohde,Fransson (udpeget af RV),5
+21414,Suzette Frovin (udpeget af SF),Suzette,Frovin (udpeget af SF),5
+21415,Anna Overlund Boss (udpeget af SF),Anna Overlund,Boss (udpeget af SF),5
+21416,Jens Rane Holck (udpeget af SF),Jens Rane,Holck (udpeget af SF),5
+21417,Vivi Nør Jacobsen (udpeget af SF),Vivi Nør,Jacobsen (udpeget af SF),5
+21418,Julie Hoff Sørensen (udpeget af SF),Julie Hoff,Sørensen (udpeget af SF),5
+21419,Ruth Schade (udpeget af M),Ruth,Schade (udpeget af M),5
+21420,Henrik Puggaard (udpeget af M),Henrik,Puggaard (udpeget af M),5
+21421,Jan Juul Christensen (udpeget af S),Jan Juul,Christensen (udpeget af S),5
+21422,Berit Dea Hvolby,Berit Dea,Hvolby,5
+21423,Jonathan Gunge Hjorth,Jonathan Gunge,Hjorth,5
+21426,Mette Huus (udpeget af V),Mette,Huus (udpeget af V),5
+21428,Anker Laden-Andersen (udpeget af V),Anker,Laden-Andersen (udpeget af V),5
+21430,Ulla Ingegerd Paabøl,Ulla Ingegerd,Paabøl,5
+21474,Maria Georgi Sloth,Maria Georgi,Sloth,5
+21475,Line Krogh Lay,Line Krogh,Lay,5
+21493,Simon Faber (udpeget af DF),Simon,Faber (udpeget af DF),5
+21505,Niels Peter Hjort,Niels Peter,Hjort,5
+21507,Nils Brøgger Jakobsen (udpeget af SF),Nils Brøgger,Jakobsen (udpeget af SF),5
+21510,Clara Halvorsen (udpeget af RV),Clara,Halvorsen (udpeget af RV),5
+21512,Stine Bosse (udpeget af M),Stine,Bosse (udpeget af M),5
+21513,Tobias Weische Larsen (udpeget af DF),Tobias Weische,Larsen (udpeget af DF),5
+21516,Henrik Lund (udpeget af SF),Henrik,Lund (udpeget af SF),5
+21519,Alberte Sehested,Alberte,Sehested,5
+21520,Maleka Rahim,Maleka,Rahim,5
+21521,Rasmus Haarkær Ankersen,Rasmus Haarkær,Ankersen,5
+21522,Sara Ridder,Sara,Ridder,5
+21523,Mona Sørensen,Mona,Sørensen,5
+21527,Lone Langballe,Lone,Langballe,5
+21528,Sten Larsen,Sten,Larsen,5
+21529,Özkan Kocak,Özkan,Kocak,5
