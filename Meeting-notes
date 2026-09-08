@@ -1,0 +1,29 @@
+
+================================================================================
+Week 36:
+================================================================================
+Done from last week:
+got the danish data
+
+
+To Do:
+get the eu data and in what language (think about translation)
+Create an embedding that works with our data/describtion of what the votes is about
+
+================================================================================
+Week 37:
+================================================================================
+Done from last week:
+got the data.
+
+To Do:
+what columns are we using for tranlating
+How are we defining periods? by eu parliment or by danish parliment?
+Translate the danish to english.
+Whats going on the with the vote number discrepancy in the periods.
+
+Think about embeddings, and how to evaluate embeddings
+
+================================================================================
+Week 38:
+================================================================================
