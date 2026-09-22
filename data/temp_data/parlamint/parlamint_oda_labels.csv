@@ -1,0 +1,1508 @@
+sagid,sag_nummer,domains
+12715,L 4,Economy
+13015,L 33,Education
+13004,L 19,Business
+12991,L 13,Labour
+12994,L 14,Labour
+12992,L 15,Labour
+13007,L 17,Business
+13005,L 18,Business
+20246,L 46,Business
+13008,L 16,Business
+12985,L 10,Economy
+20242,L 41,Economy
+12979,L 5,Economy
+12983,L 7,Economy
+12984,L 9,Economy
+12998,L 36,Agriculture
+12999,L 38,Agriculture
+12981,L 12,Local
+12997,L 37,Agriculture
+21430,L 65,Education
+21428,L 66,Education
+13009,L 24,Culture|Education
+19585,L 39,Housing
+20245,L 47,Housing
+12990,L 31,Environment
+12710,L 1,Economy
+12713,L 2,Economy
+12714,L 3,Economy
+21903,L 58 A,Labour
+21904,L 58 B,Labour
+21432,L 59,Labour
+21437,L 60,Labour
+21436,L 61,Labour
+13002,L 11,Environment|Infrastructure
+20248,L 48,Business|Environment
+20249,L 49,Energy
+12993,L 21,Infrastructure
+21433,L 73,Business
+13011,L 32,Education
+21320,L 56,Education
+12982,L 6,Economy
+12980,L 8,Economy
+21901,L 42 A,Economy
+21902,L 42 B,Economy
+21899,L 43 A,Economy
+21900,L 43 B,Economy
+21420,L 63,Economy
+20241,L 44,Immigration|Justice
+21898,L 45 B,Immigration
+12996,L 28,Justice|Territories
+13000,L 29,Justice
+21810,L 30 A,Infrastructure
+21811,L 30 B,Justice
+21604,L 86,Environment
+21327,L 51,Business
+21601,L 83,Labour
+21602,L 84,Labour
+21423,L 72,Immigration
+21318,L 50,Justice
+21424,L 69,Justice
+21852,L 104,Environment
+21317,L 52,Infrastructure
+21319,L 53,Infrastructure
+21429,L 68,Infrastructure
+21315,L 54,Economy|Labour
+21425,L 71,Environment
+21606,L 85,Environment
+21793,L 94,Environment
+21859,L 102,Labour
+21861,L 111,Labour
+21860,L 101,Labour
+21850,L 98,Economy
+21796,L 89,Housing
+21982,L 108,Housing
+21984,L 109,Local
+21986,L 113,Economy
+21799,L 95,Justice
+21858,L 96,Culture
+21855,L 103,Social
+21605,L 82,Energy|Housing
+21798,L 90,Education
+21797,L 91,Education
+22149,L 123,Economy
+21794,L 92,Business|Justice
+22037,L 114,Business
+21706,L 87,Justice
+21854,L 100,Business
+21853,L 105,Business
+22155,L 116,Energy
+22145,L 125,Immigration
+21979,L 110,Culture
+22146,L 131,Education
+21431,L 67,Business
+22157,L 119,Energy
+22271,L 136,Health
+22036,L 115,Health
+22604,L 145,Local
+22156,L 120,Social
+22152,L 121,Social
+22618,L 148,Social
+22506,L 139,Housing
+22784,L 161,Housing
+22614,L 154,Business
+22267,L 133,Infrastructure
+22608,L 143,Infrastructure
+22154,L 126,Environment
+22607,L 155,Environment
+22870,L 165,Immigration
+22270,L 134,Agriculture
+22781,L 159,Economy|Infrastructure
+22605,L 152,Justice
+21985,L 112,Agriculture
+22610,L 141,Infrastructure
+22609,L 142,Infrastructure
+22274,L 137,Health
+22613,L 150,Energy
+22612,L 151,Energy|Infrastructure
+22606,L 144,Economy
+22148,L 130,Education
+22619,L 149,Education
+22272,L 132,Social
+22505,L 138,Social
+22783,L 162,Infrastructure
+22611,L 156,Agriculture
+22873,L 163,Energy
+22951,L 169,Social
+22946,L 176,Environment
+22947,L 177,Energy|Infrastructure
+23127,L 185,Labour
+22957,L 180,Education|Social
+22871,L 166,Economy
+22159,L 117,Business
+22954,L 178,Foreign
+22616,L 153,Business
+22615,L 157,Business
+22948,L 172,Business
+22958,L 181,Education
+22945,L 174,Infrastructure
+22944,L 175,Infrastructure
+27237,L 2,Immigration
+27238,L 5,Economy
+27241,L 6,Economy
+27242,L 7,Economy
+27717,L 18,Economy
+27718,L 29,Europe
+27720,L 11,Energy
+28412,L 62,Immigration
+28069,L 37,Business
+28071,L 38,Business
+27715,L 14,Economy
+27713,L 15,Culture
+27725,L 20,Business|Territories
+27706,L 27,Labour|Territories
+27724,L 9,Defence
+27722,L 10,Defence
+27729,L 4,Europe|Immigration
+27731,L 5,Immigration
+27703,L 25,Labour
+27704,L 28,Labour|Social
+28064,L 34,Culture
+67309,L 74,Immigration
+27727,L 22,Justice
+27730,L 24,Justice
+27716,L 1,Economy
+27709,L 2,Economy
+27712,L 3,Economy
+28313,L 49,Education
+27733,L 6,Social
+27732,L 7,Social
+27734,L 8,Local
+28067,L 36,Immigration
+28068,L 39,Business
+28312,L 51,Housing
+27723,L 21,Infrastructure
+28180,L 40,Labour
+28309,L 45,Economy
+28305,L 46,Economy
+28182,L 44,Health
+28311,L 47,Health
+27719,L 12,Energy
+27955,L 30,Energy
+28070,L 33,Infrastructure
+28061,L 32,Education
+28302,L 57,Agriculture
+28059,L 31,Labour
+28304,L 54,Labour
+28303,L 55,Labour
+28466,L 66,Labour
+27711,L 13,Economy
+27708,L 16,Economy
+27710,L 17,Economy|Housing
+67644,L 56 A,Economy
+67645,L 56 B,Justice
+28401,L 61,Economy
+28404,L 64,Economy|Infrastructure
+28402,L 65,Economy
+28471,L 69,Economy
+28400,L 70,Economy|Energy
+28405,L 60,Immigration
+67310,L 75,Immigration
+27728,L 23,Justice
+28065,L 35,Social|Territories
+28310,L 50,Business
+28315,L 52,Energy
+28308,L 59,Agriculture|Environment
+28406,L 63,Education|Local
+28181,L 41,Justice|Territories
+67380,L 87,Immigration
+67919,L 53 A,Immigration
+67920,L 53 B,Immigration
+67552,L 88,Labour
+67551,L 89,Labour|Social
+67383,L 76,Social
+67560,L 90,Infrastructure
+67558,L 91,Energy
+67555,L 95,Economy
+28185,L 43,Justice
+28316,L 48,Justice
+46075,L 73,Health
+67378,L 78,Justice
+67377,L 79,Justice
+67375,L 80,Justice
+67376,L 85,Infrastructure
+67802,L 105,Social
+67554,L 96,Economy|Housing
+28403,L 68,Agriculture|Environment
+67371,L 86,Health
+67553,L 94,Business
+67557,L 92,Infrastructure
+67561,L 93,Energy
+67768,L 104,Economy
+67556,L 97,Justice
+67875,L 106,Labour
+67971,L 113,Labour
+67881,L 110,Housing
+67877,L 111,Immigration
+68060,L 122,Economy
+67734,L 99,Economy|Europe
+67370,L 77,Culture
+67876,L 112,Health
+67379,L 83,Infrastructure
+67733,L 100,Social
+67880,L 109,Immigration
+68063,L 121,Health
+67878,L 108,Justice
+67731,L 103,Business
+67729,L 101,Housing
+67879,L 107,Justice
+68068,L 117,Social
+68252,L 129,Social
+68251,L 130,Social
+68066,L 116,Business
+67384,L 82,Agriculture|Environment
+68224,L 140,Labour
+68223,L 141,Labour
+68236,L 125,Education
+68238,L 128,Education
+68243,L 133,Infrastructure
+69219,L 185,Energy
+68384,L 147,Environment
+68385,L 148,Environment
+68246,L 142,Health
+68248,L 143,Health
+68244,L 144,Health
+68250,L 135,Justice
+68241,L 124,Economy
+69340,L 149 A,Economy
+69341,L 149 B,Economy
+68234,L 126,Education
+68232,L 127,Education
+68382,L 145,Labour
+68249,L 131,Business
+68383,L 146,Business
+68065,L 120,Environment
+68679,L 160,Energy
+68676,L 167,Defence
+69560,L 98 A,Justice
+69561,L 98 B,Justice
+67985,L 114,Justice
+67730,L 102,Infrastructure
+68245,L 132,Infrastructure
+68237,L 134,Infrastructure
+69554,L 161 A,Infrastructure
+69555,L 161 B,Justice
+68691,L 150,Economy
+68662,L 162,Social
+68663,L 163,Social
+68233,L 138,Culture
+68692,L 151,Labour
+69140,L 183,Justice
+69215,L 186,Justice
+69216,L 187,Justice
+28183,L 42,Justice|Territories
+68655,L 155,Territories
+68230,L 139,Foreign
+28306,L 58,Agriculture|Environment
+68247,L 137,Agriculture
+68954,L 172,Energy
+68953,L 173,Energy
+69055,L 174,Culture
+68681,L 165,Health
+68689,L 166,Health
+68661,L 153,Housing|Immigration
+68660,L 154,Housing
+68799,L 168,Immigration
+68850,L 169,Immigration
+69056,L 175,Immigration
+69214,L 190,Education
+69218,L 188,Housing|Immigration
+69217,L 189,Immigration
+69641,L 191 A,Immigration
+69642,L 191 B,Social
+68659,L 159,Business
+68658,L 158,Business|Territories
+68693,L 152,Labour|Territories
+68956,L 177,Labour
+68955,L 178,Labour
+69145,L 181,Labour
+69143,L 182,Labour
+69144,L 184,Health
+69116,L 179,Infrastructure
+69139,L 180,Social
+70235,L 4,Labour
+70262,L 23,Business
+70264,L 24,Business|Justice
+70410,L 39,Business
+70240,L 29,Economy|Europe
+70252,L 35,Defence
+70272,L 5,Social
+70273,L 6,Social
+70270,L 8,Social
+70268,L 10,Housing
+70269,L 11,Immigration
+70267,L 12,Immigration
+70249,L 36,Education
+71022,L 37 A,Social
+71023,L 37 B,Social
+70265,L 22,Business
+71139,L 96,Business
+70254,L 16,Justice
+70261,L 17,Justice
+70259,L 19,Justice
+70258,L 20,Justice
+70226,L 1,Economy
+70236,L 2,Economy
+70238,L 3,Economy
+70241,L 31,Economy|Territories
+70714,L 57,Social|Territories
+71384,L 54 A,Social
+70253,L 30,Immigration
+70687,L 63,Labour
+70688,L 64,Labour
+70701,L 67,Energy|Infrastructure
+70698,L 68,Energy|Infrastructure
+70543,L 42,Business
+70544,L 46,Immigration
+70242,L 28,Economy
+70246,L 38,Health
+70546,L 47,Health
+70695,L 74,Health
+70694,L 75,Health
+70867,L 86,Labour
+70244,L 33,Economy
+70707,L 61,Infrastructure
+70709,L 62,Infrastructure
+70237,L 34,Agriculture|Environment
+70547,L 44,Agriculture|Environment
+70689,L 78,Agriculture|Environment
+70691,L 79,Agriculture
+70703,L 69,Education
+70713,L 48,Immigration
+70716,L 49,Immigration|Justice
+70804,L 82,Immigration
+70871,L 90,Energy
+70697,L 58,Education
+70696,L 59,Education
+70806,L 85,Education
+70868,L 87,Education
+70869,L 88,Education
+70870,L 89,Education
+70699,L 81,Foreign
+70705,L 80,Defence|Labour
+70805,L 83,Defence
+70545,L 43,Justice
+70712,L 71,Justice
+70711,L 73,Justice
+70692,L 84,Economy|Territories
+70872,L 91,Energy
+71429,L 92 A,Economy
+71430,L 92 B,Economy
+70905,L 93,Economy
+71013,L 94,Social
+70704,L 65,Housing
+70702,L 66,Housing
+71351,L 102,Economy|Local
+71012,L 95,Health
+70710,L 70,Justice
+70708,L 72,Justice
+70690,L 77,Environment
+71347,L 97,Education|Labour
+71341,L 109,Education
+70720,L 52,Social
+70719,L 51,Immigration
+71350,L 108,Immigration
+71349,L 101,Economy|Energy
+71342,L 105,Justice
+70548,L 45,Agriculture
+71513,L 114,Agriculture
+71353,L 99,Health
+70715,L 53,Social
+70718,L 55,Local
+71352,L 104,Economy|Housing
+71579,L 115,Economy
+71750,L 119,Immigration
+70717,L 50,Culture
+72015,L 126,Immigration
+70271,L 7,Social
+71970,L 133,Labour
+72016,L 128,Labour
+72141,L 137,Economy
+71756,L 116,Infrastructure
+71752,L 123,Education
+71340,L 98,Infrastructure
+72010,L 131,Culture
+71512,L 112,Labour
+71755,L 117,Education
+71753,L 118,Education
+72138,L 143,Housing
+71511,L 113,Business|Labour
+70411,L 40,Business
+72545,L 165,Housing
+72009,L 129,Justice|Territories
+71343,L 107,Social
+72013,L 132,Health
+72014,L 127,Economy|Local
+72012,L 130,Justice
+72661,L 168,Justice
+72659,L 169,Justice
+72139,L 138,Education
+72136,L 140,Labour|Territories
+72430,L 154,Immigration
+73132,L 141 A,Infrastructure
+73133,L 141 B,Justice
+72011,L 134,Culture
+72428,L 152,Culture
+72425,L 160,Culture
+71346,L 110,Agriculture|Environment
+72143,L 144,Agriculture
+72134,L 146,Defence
+70245,L 27,Economy
+72674,L 172,Business
+73225,L 182 A,Economy
+73226,L 182 B,Economy
+72432,L 153,Immigration
+71344,L 100,Economy
+71387,L 106,other
+73223,L 139 B,Foreign
+73332,L 167 A,Social
+73333,L 167 B,Health
+72543,L 162,Immigration
+72675,L 173,Immigration|Justice
+72664,L 176,Social
+72663,L 177,Social
+72666,L 178,Social
+72665,L 179,Social
+72433,L 159,Agriculture
+72540,L 166,Agriculture
+71751,L 120,Infrastructure
+72140,L 142,Infrastructure
+72424,L 158,Infrastructure
+72257,L 147,Labour
+73008,L 205,Labour
+73452,L 149 A,Justice
+73453,L 149 B,Justice
+72422,L 155,Business
+72423,L 156,Business
+71749,L 121,Business
+72815,L 187,Business|Housing
+71819,L 124,Local
+71820,L 125,other
+72544,L 164,Economy|Local
+73015,L 199,Immigration|Local
+73018,L 200,Local
+73017,L 197,Economy|Infrastructure
+73021,L 198,Local
+72667,L 171,Justice
+73007,L 190,Justice
+73010,L 193,Justice
+73006,L 192,Immigration|Justice
+73012,L 191,Justice
+71345,L 111,Agriculture
+71754,L 122,Environment
+72672,L 180,Business|Infrastructure
+73162,L 213,Energy
+72890,L 189,Immigration
+72447,L 161,Immigration
+72676,L 174,Immigration
+72677,L 175,Immigration
+72816,L 188,Immigration
+72431,L 150,Social
+72429,L 151,Social
+73106,L 206,Social
+70409,L 41,Business|Justice
+72427,L 157,Business
+71348,L 103,Economy
+72668,L 183,Economy
+73016,L 194,Economy
+73014,L 195,Economy
+73013,L 196,Economy
+73105,L 210,Economy
+73102,L 211,Economy|Housing
+73103,L 212,Housing
+72671,L 185,Health
+73100,L 207,Health
+73101,L 208,Health
+73120,L 209,Health
+72679,L 170,Justice
+73011,L 203,Education
+72673,L 181,Education
+72662,L 184,Education
+73019,L 202,Education
+74193,L 4,Economy
+74590,L 39 A,Energy
+74591,L 39 B,Energy
+74176,L 56,Agriculture
+74198,L 58,Health
+74187,L 17,Economy
+74771,L 64 A,Economy
+74772,L 64 B,Economy
+74201,L 40,Energy|Infrastructure
+74203,L 42,Energy
+74205,L 43,Energy|Infrastructure
+74161,L 6,Business
+74820,L 7 A,Business
+74821,L 7 B,Business
+74167,L 10,Business
+74157,L 25,Housing|Social
+74152,L 27,Infrastructure
+74160,L 30,Infrastructure
+74146,L 35,Justice
+74188,L 47,Education
+74190,L 48,Education
+74153,L 36,Defence
+74186,L 18,Economy
+74166,L 44,Culture
+74168,L 45,Culture
+74163,L 19,Culture
+74175,L 12,Social
+74192,L 13,Economy
+74191,L 14,Economy
+74189,L 15,Economy
+74181,L 53,Environment|Territories
+74179,L 54,Environment
+74178,L 55,Environment
+74421,L 72,Agriculture
+74185,L 52,Agriculture
+74171,L 49,Education
+74170,L 50,Education
+74155,L 26,Infrastructure
+74151,L 28,Infrastructure
+74183,L 46,Immigration
+74426,L 70,Immigration
+74424,L 71,Immigration
+74162,L 23,Infrastructure
+74158,L 24,Infrastructure
+74154,L 29,Housing
+74418,L 65,Housing
+74180,L 20,Labour
+74182,L 21,Labour
+74569,L 77,Labour|Social
+74672,L 90,Labour
+74557,L 75,Business
+74172,L 51,Economy|Labour
+74322,L 61,Local
+74669,L 92,Local
+74200,L 57,Health
+74197,L 59,Health
+74148,L 32,Justice
+74145,L 34,Justice
+74422,L 67,Justice
+74195,L 60,Health
+74677,L 106,Economy|Territories
+74184,L 16,Economy
+74324,L 63,Economy|Foreign
+74675,L 104,Economy
+74673,L 105,Economy
+74699,L 109,Economy
+74703,L 108,other
+74143,L 33,Justice
+74156,L 5,Business
+74165,L 9,Business
+74194,L 37,Infrastructure
+74199,L 38,Infrastructure
+74202,L 41,Infrastructure
+74423,L 66,Energy
+74676,L 88,Labour|Social
+74674,L 89,Labour
+74560,L 83,Education
+74563,L 84,Education
+74666,L 107,Education|Labour
+74678,L 97,Immigration
+74084,L 1,Economy
+74085,L 2,Economy|Local
+74087,L 3,Economy|Local
+74805,L 114,Health
+74159,L 8,Business
+74667,L 100,Environment
+74670,L 101,Infrastructure
+74671,L 102,Environment
+74668,L 103,Environment
+74897,L 116,Labour
+74896,L 117,Labour
+75034,L 121,Labour
+74561,L 73,Business|Energy
+75317,L 86 A,Environment
+75318,L 86 B,Environment
+74664,L 87,Business
+74804,L 113,Education
+74566,L 78,Local
+74564,L 79,Local
+74806,L 110,Local
+74147,L 31,Justice
+75035,L 122,Economy
+74663,L 91,Justice
+74807,L 111,Justice
+75497,L 95 A,Immigration|Social
+75498,L 95 B,Immigration
+74684,L 96,Immigration
+74562,L 82,Education
+74565,L 85,Education
+75130,L 124,Business
+74999,L 118,Justice
+74174,L 11,Social|Territories
+75309,L 130,Education
+75308,L 131,Education
+74559,L 74,Business
+75178,L 127,Economy
+74997,L 119,Social
+75221,L 129,Agriculture
+75475,L 137,Local
+74679,L 99,Health
+74681,L 98,Health
+74899,L 115,Justice
+75601,L 148,Economy
+75222,L 128,Culture
+75131,L 125,Business
+74558,L 76,Culture
+74803,L 112,Culture
+75687,L 171,Economy|Housing
+75482,L 136,Infrastructure
+75383,L 132,Education
+75663,L 179,Foreign
+74998,L 120,Immigration
+75486,L 140,Immigration
+76141,L 145 A,Immigration
+76142,L 145 B,Housing|Immigration
+75466,L 142,Justice
+75677,L 175,Environment
+75675,L 176,Business
+75600,L 150,Foreign
+75685,L 174,Economy
+75480,L 138,Labour
+75670,L 178,Education
+75671,L 155,Defence
+75467,L 139,Defence
+75469,L 144,Business
+75598,L 149,Business
+75481,L 135,Infrastructure
+75484,L 143,Health
+75681,L 156,Immigration|Justice
+75689,L 172,Economy
+75678,L 167,Agriculture
+75680,L 168,Environment
+75682,L 169,Environment
+75384,L 133,Health
+75690,L 170,Health
+75667,L 152,Infrastructure
+75666,L 154,Infrastructure
+76076,L 217,Economy|Energy
+75799,L 181,Labour
+75790,L 186,Environment
+75792,L 187,Environment
+76006,L 216,Agriculture
+75599,L 151,Agriculture
+75683,L 164,Energy
+75684,L 166,Energy
+75917,L 190,Energy
+76446,L 185 A,Economy
+76447,L 185 B,Economy
+74425,L 68,Justice
+75597,L 147,Justice
+75668,L 157,Justice
+75665,L 158,Justice
+75664,L 159,Justice
+75886,L 205,Justice
+75795,L 183,Education
+75676,L 177,Housing
+76205,L 226,Economy
+75912,L 192,Labour
+75918,L 193,Labour|Social
+75916,L 194,Labour
+75915,L 212,Health
+75914,L 214,Health
+76281,L 235,Health
+75901,L 209,Social
+75890,L 210,Social
+75900,L 211,Social
+75797,L 180,Immigration
+76212,L 224,Justice
+75674,L 160,Social
+75133,L 126,Foreign
+75672,L 162,Social
+75679,L 163,Local
+75897,L 191,Local
+75669,L 153,Housing
+75904,L 206,Infrastructure
+75796,L 184,Business|Justice
+75888,L 198,Energy
+75924,L 195,Europe|Immigration
+75925,L 196,Immigration
+75920,L 197,Immigration
+75908,L 199,Education
+75907,L 200,Education
+75906,L 201,Education|Local
+75905,L 202,Education
+75485,L 146,Health
+75688,L 165,Infrastructure
+75673,L 161,Social
+75910,L 221,Social
+75386,L 134,Agriculture|Health
+75913,L 213,Health
+76207,L 233,Health
+75791,L 182,Justice
+75884,L 203,Justice
+75885,L 204,Justice
+75887,L 208,Justice
+76073,L 218,Justice
+76074,L 219,Justice
+76211,L 223,Justice
+75911,L 207,Economy
+76284,L 238,Economy|Labour
+76132,L 222,Immigration
+75487,L 141,Immigration|Labour
+76233,L 234,Infrastructure
+76075,L 220,Local
+76279,L 236,Economy|Local
+76206,L 232,Foreign
+76202,L 228,Environment
+76203,L 229,Agriculture
+76199,L 230,Culture
+76208,L 225,Education|Immigration
+76210,L 231,Immigration
+76280,L 239,Immigration
+75919,L 189,Immigration
+77279,L 31,Economy|Foreign
+77281,L 32,Economy|Foreign
+77282,L 33,Economy|Foreign
+77283,L 34,Economy|Foreign
+77231,L 48,Business
+77239,L 49,Business
+77237,L 50,Business
+77260,L 9,Social
+77266,L 38,Housing|Immigration
+77272,L 57,Education
+77275,L 59,Education
+77284,L 23,Infrastructure
+77286,L 24,Energy
+77250,L 53,Environment
+77288,L 61,Health
+77291,L 62,Health
+77294,L 63,Health
+77295,L 64,Health
+77968,L 65 A,Health
+77969,L 65 B,Health
+77290,L 25,Economy|Labour
+77292,L 26,Economy
+78025,L 29 A,Economy
+78024,L 29 B,Economy|Environment
+78029,L 30 A,Economy|Education
+78028,L 30 B,Economy|Justice
+77270,L 35,Culture
+77268,L 36,Culture|Economy
+77267,L 37,Culture
+77274,L 58,Education
+77265,L 39,Infrastructure
+77264,L 40,Infrastructure
+77261,L 41,Infrastructure
+77236,L 18,Justice
+77232,L 21,Justice
+78053,L 22 A,Justice
+78054,L 22 B,Justice
+77252,L 4,Defence
+77249,L 5,Defence
+77583,L 78,Energy
+77293,L 56,Foreign
+77269,L 10,Labour
+77278,L 12,Labour|Social
+77480,L 69,Labour
+77683,L 87,Labour
+77481,L 70,Labour|Territories
+78181,L 47 A,Business
+78182,L 47 B,Business
+78124,L 17 A,Justice
+77590,L 83,Justice
+77247,L 16,Economy|Education
+77709,L 89,Education
+77263,L 6,Social
+77262,L 7,Social
+77301,L 8,Social
+77259,L 42,Infrastructure|Justice
+77258,L 43,Infrastructure
+77255,L 44,Infrastructure
+77254,L 45,Infrastructure
+77253,L 46,Infrastructure
+77483,L 71,Housing
+77251,L 52,Energy|Environment
+77248,L 54,other
+77581,L 82,Environment
+78125,L 55 A,Immigration
+78126,L 55 B,Immigration
+77587,L 76,Labour
+77589,L 77,Labour|Social
+77798,L 92,Labour
+77243,L 67,Culture
+77244,L 68,Europe
+77246,L 73,Business
+78303,L 51 A,Business|Local
+78304,L 51 B,Local
+77580,L 79,Business
+77285,L 27,Economy
+77642,L 86,Economy|Energy
+77797,L 100,Economy
+77795,L 101,Economy
+77242,L 19,Justice|Territories
+77240,L 20,Justice
+77582,L 84,Justice
+77585,L 85,Social
+77169,L 1,Economy
+77170,L 2,Economy|Local
+77171,L 3,Economy|Local
+77482,L 72,Education
+77791,L 104,Education
+77793,L 105,Education|Social
+77257,L 14,Immigration|Local
+77256,L 15,other
+77711,L 90,Social
+77710,L 91,Social
+77586,L 80,Immigration
+77276,L 13,Labour|Social
+77807,L 97,Energy
+78152,L 119,Environment
+77790,L 98,Housing
+77804,L 112,Agriculture
+78346,L 28 A,Economy
+77800,L 102,Economy
+77799,L 103,Economy
+77892,L 115,Economy|Housing
+78221,L 120,Economy|Energy
+77787,L 99,Business|Europe
+77588,L 75,Justice
+77788,L 107,Justice
+77894,L 113,Justice
+77297,L 66,Economy|Health
+77803,L 110,Health
+77806,L 108,Health
+77796,L 96,Justice
+77997,L 117,Justice
+77893,L 114,Economy
+78335,L 132,Economy
+77273,L 11,Labour
+78337,L 135,Labour
+78616,L 106 A,Environment|Justice
+78617,L 106 B,Agriculture
+78618,L 106 C,Justice
+77805,L 109,Health
+78245,L 121,Education
+78240,L 122,Justice
+78241,L 123,Justice|Territories
+77998,L 118,Immigration
+78454,L 140,Immigration
+78330,L 130,Infrastructure
+78247,L 125,Business
+78536,L 142,Economy
+78570,L 145,Economy
+78571,L 146,Economy
+79166,L 60 A,Education
+79165,L 60 B,Education
+77802,L 111,Health
+78244,L 127,Health
+78798,L 166,Immigration
+78678,L 163,Education
+78336,L 134,Health
+78675,L 154,Infrastructure
+77794,L 95,Justice
+78398,L 139,Justice
+78664,L 149,Justice
+78902,L 168,Business|Territories
+78901,L 169,Economy|Territories
+78680,L 161,Energy|Europe
+78681,L 162,Economy
+79190,L 207,Economy
+78676,L 152,Immigration|Justice
+78567,L 143,Labour
+78566,L 147,Agriculture
+79392,L 141 B,Health
+78925,L 177,Energy
+78924,L 178,Energy
+78927,L 179,Energy
+78670,L 157,Business
+78668,L 159,Business
+78904,L 188,Business|Housing
+78799,L 165,Immigration
+78672,L 158,Business
+78900,L 190,Business
+78667,L 155,Social
+78669,L 156,Social
+78916,L 183,Culture
+78912,L 185,Housing
+78911,L 186,Infrastructure
+78906,L 182,Education
+79477,L 170 A,Justice
+79478,L 170 B,Justice
+78243,L 128,Health
+79550,L 164 A,Health|Justice
+79551,L 164 B,Health
+79552,L 164 C,Health
+78921,L 194,Health
+78568,L 148,Social
+79124,L 198,Infrastructure
+79118,L 201,Education
+78928,L 195,Social
+79122,L 200,Education
+78918,L 172,Justice
+78919,L 174,Justice
+78914,L 184,Infrastructure
+78923,L 180,Labour
+78926,L 181,Labour
+79123,L 199,Education
+79295,L 218,Education
+79571,L 220 A,Agriculture
+79570,L 220 B,Agriculture
+79567,L 151 A,Immigration
+79568,L 151 C,Immigration|Labour
+79569,L 151 D,Justice
+79302,L 217,Education|Immigration
+79125,L 196,Labour
+79305,L 209,Labour|Social
+79306,L 210,Labour
+79303,L 211,Labour
+79119,L 202,Infrastructure
+79121,L 203,Infrastructure
+78903,L 189,Business|Justice
+79117,L 204,Business|Justice
+79116,L 205,Business
+79300,L 215,Defence
+79448,L 226,Education
+78907,L 191,Environment
+79379,L 222,Economy
+80006,L 1,other
+80676,L 38,Immigration|Justice
+80333,L 19,Labour|Social
+80354,L 26,Economy
+80355,L 22,Economy
+80357,L 23,Economy
+80360,L 24,Economy
+80326,L 5,Culture
+80340,L 14,Infrastructure
+80339,L 15,Economy|Infrastructure
+80334,L 18,Labour
+80345,L 28,Agriculture
+80347,L 29,Agriculture
+80344,L 30,Agriculture
+80337,L 32,Business
+80335,L 33,Business
+80348,L 7,Social
+80350,L 8,Social
+80351,L 16,Energy|Infrastructure
+80349,L 17,Energy|Infrastructure
+80342,L 34,Health
+80343,L 35,Health
+80330,L 12,Housing
+81204,L 27 A,Economy|Europe
+80352,L 21,Economy
+80329,L 31,Environment
+80728,L 40,Energy
+80917,L 46,Business
+81205,L 27 B,Economy
+80537,L 37,Immigration
+80363,L 9,Justice
+80336,L 10,Justice
+80331,L 11,Justice|Territories
+80328,L 20,Culture
+80321,L 2,Economy|Local
+80322,L 3,Economy|Local
+80726,L 41,Immigration
+80836,L 43,Immigration
+81038,L 58,Business|Justice
+80727,L 39,Energy
+81032,L 50,Environment
+81037,L 51,Energy|Infrastructure
+80916,L 47,Justice
+81041,L 59,Education
+81040,L 60,Education
+81039,L 61,Education
+81042,L 62,Agriculture|Europe
+80332,L 13,Housing
+80921,L 49,Economy
+81605,L 64 B,Economy
+80361,L 4,Economy
+80356,L 25,Economy
+80541,L 36,Economy|Housing
+81597,L 71 A,Economy|Housing
+81596,L 71 B,Economy|Housing
+81598,L 72 B,Economy|Europe
+81161,L 73,Economy
+81601,L 74 A,Economy|Energy
+81600,L 74 B,Economy|Energy
+81602,L 75 A,Economy
+81603,L 75 B,Economy
+81163,L 76,Economy
+81154,L 70,Economy
+80915,L 45,Labour|Social
+81036,L 52,Labour
+81035,L 53,Labour|Social
+81156,L 66,Labour|Social
+81155,L 67,Labour
+81034,L 54,Labour
+81157,L 65,Labour
+80919,L 44,Labour|Social
+81029,L 56,Social
+81149,L 69,Labour|Social
+81030,L 55,other
+81500,L 83,Immigration|Justice
+81255,L 79,Education
+81581,L 85,Labour|Social
+81031,L 63,Environment
+81501,L 84,Agriculture
+80833,L 42,Justice
+81578,L 90,Economy
+81955,L 91 A,Economy
+81956,L 91 B,Economy
+81957,L 91 C,Economy
+81250,L 80,Agriculture
+81253,L 77,Infrastructure
+81377,L 82,Economy|Energy
+81249,L 78,Justice
+82153,L 68 A,Social
+82154,L 68 B,Social
+82156,L 81 A,Housing
+82157,L 81 B,Housing
+81781,L 96,Education
+81678,L 92,Justice
+81869,L 97,Economy
+81946,L 100,Education
+82485,L 140,Education
+82252,L 126,Education
+82503,L 141,Labour
+82517,L 142,Labour|Social
+82518,L 143,Labour
+82530,L 144,Education
+82559,L 153,Health
+82561,L 154,Culture
+82572,L 158,Health
+82570,L 157,Justice
+82588,L 161,Labour
+82624,L 168 B,Business
+82482,L 136,Labour|Social
+82659,L 169,Labour|Social
+82786,L 172,Energy
+82780,L 171,Education
+82787,L 175,Economy
+81576,L 86,Social
+82047,L 109,Business
+83178,L 110 A,Business
+83177,L 110 B,Economy|Justice
+81575,L 87,Justice
+81780,L 94,Environment
+82928,L 181,Business
+82048,L 107,Education
+81945,L 99,Economy
+83403,L 190,Labour
+82233,L 114,Energy
+82231,L 116,Energy
+83339,L 124 A,Business
+83340,L 124 B,Business
+82040,L 108,Culture
+82045,L 102,Justice
+82044,L 103,Justice
+82230,L 113,Justice
+82417,L 137,Economy
+82550,L 155,Economy
+83592,L 165 A,Economy
+83593,L 165 B,Business|Economy
+82654,L 174,Economy
+81579,L 88,Agriculture|Health
+81580,L 89,Health
+85665,L 76,Labour|Social
+85772,L 102,Labour
+84963,L 26,Education
+84961,L 27,Education
+84974,L 52,Education
+84959,L 13,Business
+84968,L 33,Defence|Europe
+84966,L 34,Defence
+84975,L 51,Education
+84960,L 59,Health
+84915,L 47,Economy|Infrastructure
+84952,L 43,Energy
+84956,L 12,Business
+85356,L 71,Labour
+84934,L 31,Economy|Social
+84945,L 6,Housing
+84939,L 7,Housing
+84938,L 8,Housing
+84913,L 18,Culture
+84919,L 53,Defence|Justice
+84917,L 24,Justice|Social
+84981,L 49,Education
+84973,L 50,Education
+84962,L 61,Health|Social
+86402,L 63 A,Health
+84978,L 36,Infrastructure
+84976,L 38,Infrastructure
+84983,L 39,Infrastructure
+84965,L 35,Defence
+85513,L 74,Economy
+84911,L 25,Culture
+85355,L 70,Culture
+86192,L 56 A,Infrastructure
+84948,L 20,Labour
+84950,L 21,Labour
+84951,L 22,Labour
+85673,L 79,Labour
+85675,L 80,Labour
+85682,L 82,Business
+85361,L 109,Business
+85667,L 94,Environment
+85671,L 95,Environment
+85354,L 68,Economy|Environment
+85664,L 85,Justice
+85360,L 67,Energy
+85683,L 97,Infrastructure
+85687,L 98,Energy|Infrastructure
+85685,L 99,Energy
+85359,L 72,Immigration|Territories
+84953,L 45,Immigration
+85358,L 73,Immigration
+84955,L 58,Agriculture
+85700,L 77,Agriculture
+86570,L 30 A,Economy
+86569,L 30 B,Economy
+86565,L 32 A,Economy|Justice
+86564,L 32 B,Business|Economy
+86485,L 69 A,Economy|Labour
+86486,L 69 B,Economy
+86484,L 69 C,Economy
+85676,L 87,Economy
+85679,L 90,Economy|Energy
+85861,L 106,Economy
+86567,L 107 B,Economy
+85862,L 103,Culture
+84923,L 15,Justice|Social
+84927,L 17,Social
+85859,L 91,Social
+85864,L 104,Labour
+85865,L 105,Labour
+86561,L 92 A,Immigration|Labour
+86562,L 92 B,Business|Immigration
+85678,L 93,Immigration
+84868,L 1,Economy
+84867,L 2,Economy|Local
+84869,L 3,Economy
+84977,L 48,Education
+86329,L 120,Education
+86391,L 123,Labour
+84924,L 16,Social
+86779,L 135 A,Social
+86780,L 135 B,Social
+86907,L 139 A,Economy
+86585,L 131,Economy
+86460,L 124,Immigration|Justice
+86456,L 125,Immigration
+86802,L 111 B,Justice
+86586,L 132,Justice
+85669,L 96,Environment
+85688,L 101,Health
+86451,L 130,Health
+86898,L 146,Labour
+86940,L 152,Health
+86331,L 116,Justice
+86554,L 129,Economy
+86908,L 139 B,Economy
+87142,L 166,Economy
+86017,L 114,Education
+85666,L 86,Justice
+86680,L 136,Justice
+86766,L 141,Justice
+86763,L 140,Education
+86580,L 134,Health
+86018,L 113,Housing
+86016,L 112,Culture
+85686,L 84,Infrastructure
+86328,L 117,Infrastructure
+85858,L 108,Economy|Territories
+86325,L 118,other
+86014,L 110,Justice
+85684,L 78,Education
+86015,L 115,Education|Immigration
+85247,L 66,Justice
+85680,L 81,Immigration
+87475,L 126 A,Immigration
+87476,L 126 B,Immigration
+85663,L 100,Economy
+87499,L 186,Labour
+87105,L 164,Labour
+87107,L 165,Labour
+84958,L 57,Social
+87701,L 192,Labour
+86454,L 127,Justice
+85248,L 65,Justice
+86824,L 143,Economy
+86998,L 155,Agriculture|Environment
+87108,L 162,Health
+85681,L 88,Economy
+86764,L 142,Economy
+87103,L 161,Economy
+86327,L 121,Health
+87300,L 178,Economy
+87291,L 172,Justice
+83404,L 191,Health
+81782,L 95,Environment
+83692,L 199,Economy
+81783,L 93,Housing
+82922,L 184,Labour
+82923,L 185,Labour
+82591,L 167,Education
+83686,L 200,Housing
+82041,L 101,Justice|Territories
+82039,L 104,Justice
+82043,L 105,Justice
+81870,L 98,Education
+82236,L 123,Business|Housing
+84086,L 188 A,Immigration|Labour
+84087,L 188 B,Justice|Labour
+83085,L 187,Immigration|Labour
+82774,L 180,Immigration
+83575,L 198,Business
+82145,L 112,Environment
+82657,L 170,Environment
+82551,L 147,Agriculture
+82232,L 122,Business
+82542,L 149,Business
+83771,L 179 A,Business
+83772,L 179 B,Business
+83773,L 189 A,Immigration
+82772,L 176,Housing
+82773,L 177,Housing
+82771,L 178,Housing
+82144,L 111,Immigration
+83775,L 130 A,Immigration|Justice
+83776,L 130 B,Justice
+82592,L 166,Defence
+82046,L 106,Social
+84084,L 183 A,Social
+84085,L 183 B,Social
+82245,L 121,Infrastructure
+82237,L 117,Energy
+82594,L 163,Social
+83083,L 186,Education|Immigration
+83392,L 192,Justice|Territories
+83562,L 195,Labour
+84041,L 201,Labour
+84102,L 202,Labour|Social
+84103,L 203,Labour
+84158,L 204,Labour|Social
+82653,L 173,Social
+83390,L 193,Social
+83411,L 196,Economy|Local
+83412,L 197,Social
+83391,L 194,Economy|Housing
+82587,L 164,Environment
+82543,L 151,Infrastructure
+82545,L 160,Health|Social
+82921,L 182,Health|Justice
+84159,L 205,Labour
+82465,L 133,Health
+82470,L 134,Economy|Labour
+82471,L 135,Labour
+83774,L 189 B,Immigration
+84411,L 207,Labour
+84412,L 208,Labour|Social
+84630,L 211,Labour
+84709,L 212,Labour
+84711,L 213,Labour|Social
+84833,L 214,Labour|Social
+87919,L 197,Labour|Social
+87106,L 163,Labour|Social
+84912,L 19,Culture
+86883,L 150,Economy|Europe
+86997,L 154,Justice
+87290,L 173,Business
+87411,L 184,Agriculture|Business
+86681,L 137,Economy
+87305,L 167,Infrastructure
+87294,L 169,Housing|Social
+87409,L 185,Immigration
+87899,L 202,Education|Immigration
+88132,L 208,Economy
+87983,L 206,Agriculture
+87287,L 179,Environment
+87288,L 180,Agriculture|Environment
+87295,L 174,Business
+87292,L 176,Business
+87098,L 159,Economy|Infrastructure
+86879,L 147,Social
+87299,L 170,Social
+88406,L 148 B,Energy
+86999,L 156,Energy
+87297,L 181,Agriculture
+87100,L 160,Economy
+87580,L 191,Business
+86683,L 138,Agriculture
+87408,L 183,Labour
+86939,L 151,Infrastructure
+87894,L 198,Social
+87904,L 199,Education|Social
+86457,L 128,Infrastructure
+88405,L 148 A,Energy
+88314,L 218,Labour|Social
+88315,L 219,Labour|Social
+87301,L 171,Energy
+87303,L 182,Health|Territories
+87898,L 196,Labour
+87900,L 203,Immigration
+87296,L 177,Education
+88412,L 225,Business
+87582,L 190,Defence|Infrastructure
+87902,L 207,Business
+88136,L 209,Labour|Social
+86326,L 119,Economy|Europe
+87893,L 195,Justice
+87630,L 187,Justice
+87631,L 188,Justice
+87293,L 175,Business
+88770,L 193 A,Business
+88771,L 193 B,Business
+88772,L 193 C,Environment
+86582,L 133,Business|Economy
+88804,L 211 A,Economy|Europe
+88361,L 227,Immigration
+87897,L 194,Housing|Immigration
+87895,L 204,Health
+88834,L 189 A,Justice
+88835,L 189 B,Justice
+88837,L 212 A,Justice
+88838,L 212 B,Justice
+88839,L 212 C,Justice|Social
+88366,L 222,Justice
+88362,L 223,Agriculture|Justice
+88360,L 229,Environment
+87896,L 205,Culture
+88489,L 232,Economy
+88487,L 233,Energy|Europe
+88142,L 213,Justice
+88737,L 234,Health
+88989,L 235 A,Labour
+88990,L 235 B,Health
+88900,L 237,Labour|Social
+88958,L 238,Labour|Social
+89413,L 240,Labour
+89639,L 9,Economy
+89627,L 3,Economy|Infrastructure
+89661,L 35,Education
+89637,L 17,Social
+90209,L 42 A,Immigration
+90210,L 42 B,Immigration
+89638,L 43,Immigration
+89650,L 26,Culture
+90216,L 61,Education
+89663,L 34,Education
+89659,L 36,Education
+89656,L 37,Education
+89655,L 38,Education
+89633,L 24,Energy|Housing
+89632,L 16,Agriculture|Justice
+89964,L 91,Infrastructure
+90332,L 94,Labour
+89643,L 4,Economy|Foreign
+89642,L 5,Economy|Foreign
+89641,L 6,Economy
+90384,L 7 A,Economy
+90383,L 7 B,Economy
+89651,L 29,Energy
+89657,L 31,Energy
+89647,L 13,Business
+89645,L 10,Business|Justice
+89646,L 11,Europe
+89629,L 32,Education
+89665,L 19,Infrastructure
+89668,L 21,Infrastructure
+89829,L 46,Infrastructure
+89669,L 22,Infrastructure
+89652,L 33,Defence
+90483,L 44 A,Agriculture
+90482,L 44 B,Health
+90518,L 98,Labour
+89635,L 27,Economy
+89830,L 50,Culture
+89667,L 20,Infrastructure
+90152,L 75,Economy
+89654,L 39,Education
+89628,L 15,Justice
+89630,L 14,Justice
+90725,L 52 A,Justice
+90726,L 52 B,Justice
+89960,L 51,Justice
+89965,L 54,Business
+90143,L 70,Business
+89631,L 25,Local
+90134,L 58,Local
+90132,L 79,Environment
+90149,L 68,Education
+90697,L 101,Labour
+90698,L 102,Labour
+90137,L 66,Agriculture
+89569,L 1,Economy
+89571,L 2,Economy|Local
+90131,L 83,Foreign
+90943,L 85 B,Economy
+90470,L 97,Health
+90133,L 76,Justice
+90972,L 62 A,Infrastructure
+90145,L 65,Social
+90469,L 96,Economy
+90138,L 78,Justice
+90860,L 107,Labour|Social
+90805,L 105,Economy
+89833,L 47,Housing
+89832,L 48,Housing
+89831,L 49,Housing
+90804,L 104,Labour
+90290,L 93,Justice
+90699,L 103,Justice
+91553,L 145,Immigration
+91577,L 114 A,Environment|Local
+91578,L 114 B,Environment|Infrastructure
+90368,L 95,Education
+91003,L 109,Culture|Economy
+91135,L 121,Economy
+90999,L 108,Economy
+91579,L 115 A,Labour|Social
+91580,L 115 B,Labour|Social
+91000,L 112,Infrastructure
+91710,L 150,Business
+90554,L 99,Agriculture
+91278,L 132,Agriculture
+91766,L 158,Energy
+90998,L 113,Immigration
+91125,L 127,Immigration|Justice
+91851,L 117 A,Business|Social
+91852,L 117 B,Europe
+91126,L 118,Business
+91811,L 159,Education
+91136,L 123,Infrastructure
+91124,L 129,Environment
+91277,L 142,Health
+91137,L 122,Infrastructure
+91140,L 124,Social
+91130,L 128,Agriculture
+91268,L 134,Labour
+91001,L 110,Infrastructure
+91985,L 169,Immigration
+91131,L 120,Energy
+91265,L 141,Environment
+91132,L 126,Justice|Territories
+91280,L 144,Education
+92088,L 193,Defence|Europe
+92089,L 194,Europe
+90971,L 62 B,Infrastructure
+91272,L 133,Social
+91704,L 160,Infrastructure|Labour
+91269,L 131,Business
+91002,L 111,Justice
+92247,L 201,Education|Immigration
+92351,L 202 A,Education|Immigration
+92352,L 202 B,Economy|Immigration
+91279,L 143,Education
+91264,L 139,Education
+91274,L 137,Education|Environment
+91273,L 138,Energy
+92306,L 163 A,Business
+92307,L 163 B,Business
+91560,L 148,Infrastructure
+91709,L 156,Justice
+91618,L 149,Health
+91196,L 130,Justice
+91875,L 166,Justice
+91129,L 119,Justice|Social
+91708,L 151,other
+90146,L 71,Business|Territories
+91128,L 116,Business
+91899,L 167,Business
+91898,L 168,Labour
+91702,L 152,Education
+91994,L 179,Education
+91993,L 176,Economy
+91992,L 177,Economy
