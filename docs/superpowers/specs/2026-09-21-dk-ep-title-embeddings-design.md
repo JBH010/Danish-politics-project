@@ -93,7 +93,7 @@ Interpretation guidance in markdown: high within-corpus and lower cross-corpus s
 
 ## Future extensions (not in this notebook unless trivial)
 
-- Expand EP text to `display_title` + `procedure_title`
+- This was done Expand EP text to `display_title` + `procedure_title`
 - Include amendments (`is_main=False`)
 - Restrict to overlapping calendar years with DK
 - Switch or A/B models
